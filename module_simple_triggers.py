@@ -510,11 +510,12 @@ simple_triggers = [
          (call_script, "script_cf_reinforce_party", ":center_no"),
 
          (store_faction_of_party, ":party_faction", ":center_no"), #MANDO
-         (try_begin),#
-            (eq, ":party_faction", "fac_rebelalliance"),#
-            (call_script, "script_cf_reinforce_party", ":party_no"),
+         
+         #(try_begin),# Removed the double reinforcement for CIS (for now)
+         #   (eq, ":party_faction", "fac_rebelalliance"),#
+         #   (call_script, "script_cf_reinforce_party", ":party_no"),
             #(val_mul, reg0, 2),   #Kham - Dunno what is this and what reg0 is. Not referenced in this trigger.
-         (try_end),
+         #(try_end),
 
          (val_sub, ":cur_wealth", reinforcement_cost), #out comment for TESTING
          (party_set_slot, ":center_no", slot_mainplanet_wealth, ":cur_wealth"),

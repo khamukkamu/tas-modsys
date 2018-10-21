@@ -686,3 +686,4 @@ freelancer_missions
 g_scene_to_use
 cam_mode
 key_camera_toggle
+remove_item

@@ -116,11 +116,11 @@ partiesfile version 1
 2.617994
  1 57 57 p_gamorr Gamorr 4220066 0 0 3 0 0 0 0 0 105.02 -26.83 105.02 -26.83 105.02 -26.83 0.0 0 
 0.436332
- 1 58 58 p_yavin_iv Yavin_IV 4220073 0 0 3 0 0 0 0 0 41.44 110.26 41.44 110.26 41.44 110.26 0.0 0 
+ 1 58 58 p_yavin_iv Cato_Nemodia 4220073 0 0 3 0 0 0 0 0 41.44 110.26 41.44 110.26 41.44 110.26 0.0 0 
 1.047198
  1 59 59 p_tatooine Tatooine 4220061 0 0 3 0 0 0 0 0 73.65 -83.19 73.65 -83.19 73.65 -83.19 0.0 0 
 2.356194
- 1 60 60 p_manaan Manaan 4220071 0 0 3 0 0 0 0 0 -103.8 20.47 -103.8 20.47 -103.8 20.47 0.0 0 
+ 1 60 60 p_manaan Rhen_Var 4220068 0 0 3 0 0 0 0 0 -103.8 20.47 -103.8 20.47 -103.8 20.47 0.0 0 
 2.356194
  1 61 61 p_coruscant Coruscant 4220056 0 0 3 0 0 0 0 0 -7.36 25.45 -7.36 25.45 -7.36 25.45 0.0 0 
 2.356194
@@ -148,11 +148,11 @@ partiesfile version 1
 0.872665
  1 73 73 p_spacestation_2 Corellia_Outpost 4215861 0 0 3 0 0 0 0 0 -9.38 -50.53 -9.38 -50.53 -9.38 -50.53 0.0 0 
 1.308997
- 1 74 74 p_spacestation_3 Yavin_IV_Battlestation 4215860 0 0 3 0 0 0 0 0 50.4 104.84 50.4 104.84 50.4 104.84 0.0 0 
+ 1 74 74 p_spacestation_3 Cato_Nemodia_Battlestation 4215860 0 0 3 0 0 0 0 0 50.4 104.84 50.4 104.84 50.4 104.84 0.0 0 
 1.745329
  1 75 75 p_spacestation_4 Dagobah 4215963 0 0 3 0 0 0 0 0 8.04 -107.31 8.04 -107.31 8.04 -107.31 0.0 0 
 3.141593
- 1 76 76 p_spacestation_5 Death_Star 4215959 0 0 3 0 0 0 0 0 -87.69 -91.31 -87.69 -91.31 -87.69 -91.31 0.0 0 
+ 1 76 76 p_spacestation_5 Endor_Battlestation 4215959 0 0 3 0 0 0 0 0 -87.69 -91.31 -87.69 -91.31 -87.69 -91.31 0.0 0 
 1.570796
  1 77 77 p_spacestation_6 Endor_Outpost 4215858 0 0 3 0 0 0 0 0 -81.63 -80.35 -81.63 -80.35 -81.63 -80.35 0.0 0 
 0.959931
@@ -166,7 +166,7 @@ partiesfile version 1
 1.919862
  1 82 82 p_spacestation_11 Avatar_Platform 4215858 0 0 3 0 0 0 0 0 27.56 -3.15 27.56 -3.15 27.56 -3.15 0.0 0 
 1.308997
- 1 83 83 p_spacestation_12 Manaan_Outpost 4215861 0 0 3 0 0 0 0 0 -106.89 32.62 -106.89 32.62 -106.89 32.62 0.0 0 
+ 1 83 83 p_spacestation_12 Rhen_Var_Outpost 4215861 0 0 3 0 0 0 0 0 -106.89 32.62 -106.89 32.62 -106.89 32.62 0.0 0 
 1.658063
  1 84 84 p_spacestation_13 Christophsis_Outpost 4215861 0 0 3 0 0 0 0 0 -67.2 -71.45 -67.2 -71.45 -67.2 -71.45 0.0 0 
 2.007129
@@ -186,7 +186,7 @@ partiesfile version 1
 4.537856
  1 92 92 p_spacestation_21 Mandalore_Battlestation 4215860 0 0 3 0 0 0 0 0 25.07 60.5 25.07 60.5 25.07 60.5 0.0 0 
 4.537856
- 1 93 93 p_spacestation_22 Manaan_Battlestation 4215860 0 0 3 0 0 0 0 0 -90.92 14.96 -90.92 14.96 -90.92 14.96 0.0 0 
+ 1 93 93 p_spacestation_22 Rhen_Var_Battlestation 4215860 0 0 3 0 0 0 0 0 -90.92 14.96 -90.92 14.96 -90.92 14.96 0.0 0 
 4.537856
  1 94 94 p_spacestation_23 Corellia_Battlestation 4215860 0 0 3 0 0 0 0 0 -3.87 -33.73 -3.87 -33.73 -3.87 -33.73 0.0 0 
 1.396263
@@ -216,7 +216,7 @@ partiesfile version 1
 4.537856
  1 107 107 p_spacestation_36 Coruscant_Battlestation 4215860 0 0 3 0 0 0 0 0 4.88 32.73 4.88 32.73 4.88 32.73 0.0 0 
 4.537856
- 1 108 108 p_spacestation_37 Yavin_IV_Outpost 4215861 0 0 3 0 0 0 0 0 56.14 117.18 56.14 117.18 56.14 117.18 0.0 0 
+ 1 108 108 p_spacestation_37 Cato_Nemodia_Outpost 4215861 0 0 3 0 0 0 0 0 56.14 117.18 56.14 117.18 56.14 117.18 0.0 0 
 4.537856
  1 109 109 p_spacestation_38 Nal_Hutta_Outpost 4215861 0 0 3 0 0 0 0 0 84.76 15.43 84.76 15.43 84.76 15.43 0.0 0 
 4.537856
@@ -224,7 +224,7 @@ partiesfile version 1
 4.886922
  1 111 111 p_spacestation_40 Tatooine_Outpost 4215861 0 0 3 0 0 0 0 0 87.68 -84.21 87.68 -84.21 87.68 -84.21 0.0 0 
 4.537856
- 1 112 112 p_spacestation_41 Rhen_Var 4215972 0 0 3 0 0 0 0 0 -100.11 63.07 -100.11 63.07 -100.11 63.07 0.0 0 
+ 1 112 112 p_spacestation_41 Manaan 4215975 0 0 3 0 0 0 0 0 -100.11 63.07 -100.11 63.07 -100.11 63.07 0.0 0 
 4.537856
  1 113 113 p_spacestation_42 Saleucami 4215982 0 0 3 0 0 0 0 0 88.89 46.37 88.89 46.37 88.89 46.37 0.0 0 
 4.537856
@@ -310,7 +310,7 @@ partiesfile version 1
 2.96706
  1 154 154 p_minorplanet_41 Nar_Shaddaa 2114733 0 0 3 0 0 0 0 0 85.9 0.96 85.9 0.96 85.9 0.96 0.0 0 
 1.745329
- 1 155 155 p_minorplanet_42 Bothawui_Moon 2114640 0 0 3 0 0 0 0 0 66.38 -47.51 66.38 -47.51 66.38 -47.51 0.0 0 
+ 1 155 155 p_minorplanet_42 Umbara_Moon 2114640 0 0 3 0 0 0 0 0 66.38 -47.51 66.38 -47.51 66.38 -47.51 0.0 0 
 1.919862
  1 156 156 p_minorplanet_43 Alzoc_III 2114657 0 0 3 0 0 0 0 0 96.67 -138.7 96.67 -138.7 96.67 -138.7 0.0 0 
 2.094395
@@ -384,7 +384,7 @@ partiesfile version 1
 2.792527
  1 191 191 p_minorplanet_78 Charros_IV 2114646 0 0 3 0 0 0 0 0 59.48 18.12 59.48 18.12 59.48 18.12 0.0 0 
 3.141593
- 1 192 192 p_minorplanet_79 Manaan_Moon 2114647 0 0 3 0 0 0 0 0 -108.09 18.29 -108.09 18.29 -108.09 18.29 0.0 0 
+ 1 192 192 p_minorplanet_79 Rhen_Var_Moon 2114647 0 0 3 0 0 0 0 0 -108.09 18.29 -108.09 18.29 -108.09 18.29 0.0 0 
 0
  1 193 193 p_minorplanet_80 N'Zoth 2114648 0 0 3 0 0 0 0 0 -45.9 22.1 -45.9 22.1 -45.9 22.1 0.0 0 
 0.698132
@@ -468,33 +468,33 @@ partiesfile version 1
 1.745329
  1 233 233 p_debris_10 <debris10> 541744 0 0 3 0 0 0 0 0 -82.19 14.56 -82.19 14.56 -82.19 14.56 0.0 0 
 1.745329
- 1 234 234 p_jawa_spawn_point <jawa_sp> 1280 0 0 2 0 0 0 0 0 43.21 -130.13 43.21 -130.13 43.21 -130.13 0.0 1 202 15 0 0 
+ 1 234 234 p_jawa_spawn_point <jawa_sp> 1280 0 0 2 0 0 0 0 0 43.21 -130.13 43.21 -130.13 43.21 -130.13 0.0 1 206 15 0 0 
 0
- 1 235 235 p_night_fang_pirate_spawn_point <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -66.83 88.49 -66.83 88.49 -66.83 88.49 0.0 1 202 15 0 0 
+ 1 235 235 p_night_fang_pirate_spawn_point <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -66.83 88.49 -66.83 88.49 -66.83 88.49 0.0 1 206 15 0 0 
 0
- 1 236 236 p_night_fang_pirate_spawn_point_2 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -42.37 47.18 -42.37 47.18 -42.37 47.18 0.0 1 202 15 0 0 
+ 1 236 236 p_night_fang_pirate_spawn_point_2 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -42.37 47.18 -42.37 47.18 -42.37 47.18 0.0 1 206 15 0 0 
 0
- 1 237 237 p_night_fang_pirate_spawn_point_3 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -35.12 79.88 -35.12 79.88 -35.12 79.88 0.0 1 202 15 0 0 
+ 1 237 237 p_night_fang_pirate_spawn_point_3 <steppe_bandit_sp> 1280 0 0 2 0 0 0 0 0 -35.12 79.88 -35.12 79.88 -35.12 79.88 0.0 1 206 15 0 0 
 0
- 1 238 238 p_blazing_claw_pirate_spawn_point <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 43.76 104.07 43.76 104.07 43.76 104.07 0.0 1 202 15 0 0 
+ 1 238 238 p_blazing_claw_pirate_spawn_point <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 43.76 104.07 43.76 104.07 43.76 104.07 0.0 1 206 15 0 0 
 0
- 1 239 239 p_blazing_claw_pirate_spawn_point_2 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 25.7 86.21 25.7 86.21 25.7 86.21 0.0 1 202 15 0 0 
+ 1 239 239 p_blazing_claw_pirate_spawn_point_2 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 25.7 86.21 25.7 86.21 25.7 86.21 0.0 1 206 15 0 0 
 0
- 1 240 240 p_blazing_claw_pirate_spawn_point_3 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 63.68 60 63.68 60 63.68 60 0.0 1 202 15 0 0 
+ 1 240 240 p_blazing_claw_pirate_spawn_point_3 <blazing_claw_pirate_sp> 1280 0 0 2 0 0 0 0 0 63.68 60 63.68 60 63.68 60 0.0 1 206 15 0 0 
 0
- 1 241 241 p_black_sun_pirate_spawn_point <black_sun_pirate_sp> 1280 0 0 2 0 0 0 0 0 -20.56 -81.35 -20.56 -81.35 -20.56 -81.35 0.0 1 202 15 0 0 
+ 1 241 241 p_black_sun_pirate_spawn_point <black_sun_pirate_sp> 1280 0 0 2 0 0 0 0 0 -20.56 -81.35 -20.56 -81.35 -20.56 -81.35 0.0 1 206 15 0 0 
 0
- 1 242 242 p_black_sun_pirate_spawn_point_2 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -66.4 -60.25 -66.4 -60.25 -66.4 -60.25 0.0 1 202 15 0 0 
+ 1 242 242 p_black_sun_pirate_spawn_point_2 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -66.4 -60.25 -66.4 -60.25 -66.4 -60.25 0.0 1 206 15 0 0 
 0
- 1 243 243 p_black_sun_pirate_spawn_point_3 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -62.39 -86.97 -62.39 -86.97 -62.39 -86.97 0.0 1 202 15 0 0 
+ 1 243 243 p_black_sun_pirate_spawn_point_3 <black_sun_pirates_sp> 1280 0 0 2 0 0 0 0 0 -62.39 -86.97 -62.39 -86.97 -62.39 -86.97 0.0 1 206 15 0 0 
 0
- 1 244 244 p_tusken_raider_spawn_point_1 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 133.24 -58.6 133.24 -58.6 133.24 -58.6 0.0 1 202 15 0 0 
+ 1 244 244 p_tusken_raider_spawn_point_1 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 133.24 -58.6 133.24 -58.6 133.24 -58.6 0.0 1 206 15 0 0 
 0
- 1 245 245 p_tusken_raider_spawn_point_2 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 48.72 -95.88 48.72 -95.88 48.72 -95.88 0.0 1 202 15 0 0 
+ 1 245 245 p_tusken_raider_spawn_point_2 <tusken_raiders_sp> 1280 0 0 2 0 0 0 0 0 48.72 -95.88 48.72 -95.88 48.72 -95.88 0.0 1 206 15 0 0 
 0
- 1 246 246 p_tusken_raider_spawn_point_3 <tusken_raider_sp> 1280 0 0 2 0 0 0 0 0 79.1 -75.61 79.1 -75.61 79.1 -75.61 0.0 1 202 15 0 0 
+ 1 246 246 p_tusken_raider_spawn_point_3 <tusken_raider_sp> 1280 0 0 2 0 0 0 0 0 79.1 -75.61 79.1 -75.61 79.1 -75.61 0.0 1 206 15 0 0 
 0
- 1 247 247 p_spawn_points_end <last_spawn_point> 1280 0 0 1 0 0 0 0 0 23 -112.26 23 -112.26 23 -112.26 0.0 1 202 15 0 0 
+ 1 247 247 p_spawn_points_end <last_spawn_point> 1280 0 0 1 0 0 0 0 0 23 -112.26 23 -112.26 23 -112.26 0.0 1 206 15 0 0 
 0
  1 248 248 p_spaceship_tie_fighter <dummy> 2114890 0 0 3 0 0 0 0 0 -139 -40 -139 -40 -139 -40 0.0 0 
 0

@@ -4,47 +4,47 @@ pt_none <none> 38 0 1 7 -1 -1 -1 -1 -1 -1
 pt_rescued_prisoners Rescued_Prisoners 35 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_enemy Enemy 32 0 24 7 -1 -1 -1 -1 -1 -1 
 pt_hero_party Hero_Party 34 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_minorplanet_defenders Colonial_Defenders 38 0 1 7 86 5 10 0 88 5 10 0 219 0 4 0 -1 -1 -1 
+pt_minorplanet_defenders Colonial_Defenders 38 0 1 7 86 5 10 0 88 5 10 0 223 0 4 0 -1 -1 -1 
 pt_cattle_herd Nerf_Herd 2814749767106598 0 3 7 23 80 120 0 -1 -1 -1 -1 -1 
-pt_jawas Jawas 2251799813685288 0 2 344 202 8 16 0 203 5 10 0 204 2 4 0 123 0 1 1 122 0 1 1 -1 
-pt_bountyhunters Trandoshan_Slavers 27 0 20 137 218 25 50 0 24 0 1 1 -1 -1 -1 -1 
-pt_night_fang_pirates Night_Fangs_Pirates 562949953421345 0 2 344 213 5 25 0 214 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
-pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421344 0 23 344 211 5 25 0 212 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
-pt_tusken_raiders Tusken_Raiders 562949953421353 0 2 344 215 10 25 0 216 5 10 0 -1 -1 -1 -1 
-pt_black_sun_pirates Black_Sun_Pirates 562949953421337 0 22 344 207 10 20 0 208 5 10 0 209 5 10 0 210 2 15 0 40 0 1 1 -1 
+pt_jawas Jawas 2251799813685288 0 2 344 206 8 16 0 207 5 10 0 208 2 4 0 123 0 1 1 122 0 1 1 -1 
+pt_bountyhunters Trandoshan_Slavers 27 0 20 137 222 25 50 0 24 0 1 1 -1 -1 -1 -1 
+pt_night_fang_pirates Night_Fangs_Pirates 562949953421345 0 2 344 217 5 25 0 218 4 8 0 51 1 5 0 43 1 5 0 40 0 1 1 -1 
+pt_blazing_claw_pirates Blazing_Claw_Pirates 562949953421344 0 23 344 215 5 25 0 216 4 8 0 47 1 5 0 67 1 5 0 40 0 1 1 -1 
+pt_tusken_raiders Tusken_Raiders 562949953421353 0 2 344 219 10 25 0 220 5 10 0 -1 -1 -1 -1 
+pt_black_sun_pirates Black_Sun_Pirates 562949953421337 0 22 344 211 10 20 0 212 5 10 0 213 5 10 0 214 2 15 0 40 0 1 1 -1 
 pt_deserters Deserters 844424930131995 0 21 344 -1 -1 -1 -1 -1 -1 
 pt_galacticempire_escort Patrol_Fleet 562949957681179 0 1 172 86 1 1 0 -1 -1 -1 -1 -1 
-pt_independent_traders Merchant_Convoy 5629499534475295 0 1 11 220 1 1 0 105 1 10 0 104 1 1 0 90 10 20 0 -1 -1 
-pt_merchant_caravan Merchant_Freighter 5629499534475294 0 1 11 220 1 1 0 90 15 30 0 -1 -1 -1 -1 
+pt_independent_traders Merchant_Convoy 5629499534475295 0 1 11 224 1 1 0 105 1 10 0 104 1 1 0 90 10 20 0 -1 -1 
+pt_merchant_caravan Merchant_Freighter 5629499534475294 0 1 11 224 1 1 0 90 15 30 0 -1 -1 -1 -1 
 pt_miningvessel Mining_Vessel 8444249301581861 0 1 24 121 10 20 0 105 2 5 0 -1 -1 -1 -1 
-pt_troublesome_bandits Troublesome_Bandits 2533274790658075 0 2 344 205 15 55 0 -1 -1 -1 -1 -1 
-pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658075 0 3 344 205 25 65 0 221 1 1 1 -1 -1 -1 -1 
-pt_kidnapped_girl Kidnapped_Girl 262182 0 3 7 221 1 1 0 -1 -1 -1 -1 -1 
-pt_minorplanet_farmers Colonial_Farmers 34 0 4 7 86 6 12 0 219 4 8 0 -1 -1 -1 -1 
-pt_spy_partners Unremarkable_Travellers 844424930459675 0 3 7 945 1 1 0 90 5 10 0 -1 -1 -1 -1 
-pt_runaway_serfs Runaway_Slaves 2251799814012963 0 3 7 86 6 10 0 219 3 3 0 -1 -1 -1 -1 
-pt_spy Ordinary_Colonist 844424930459675 0 3 7 944 1 1 0 -1 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 2533274790658075 0 2 344 209 15 55 0 -1 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 2533274790658075 0 3 344 209 25 65 0 225 1 1 1 -1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262182 0 3 7 225 1 1 0 -1 -1 -1 -1 -1 
+pt_minorplanet_farmers Colonial_Farmers 34 0 4 7 86 6 12 0 223 4 8 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 844424930459675 0 3 7 952 1 1 0 90 5 10 0 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Slaves 2251799814012963 0 3 7 86 6 10 0 223 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Colonist 844424930459675 0 3 7 951 1 1 0 -1 -1 -1 -1 -1 
 pt_sacrificed_messenger Sacrificed_Messenger 844424930459675 0 3 7 -1 -1 -1 -1 -1 -1 
 pt_forager_party Foraging_Party 1407374887747611 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_scout_party Scouts 281474980904987 0 1 344 -1 -1 -1 -1 -1 -1 
 pt_patrol_party Patrol 562949957615643 0 1 137 -1 -1 -1 -1 -1 -1 
 pt_messenger_party Messenger 4194331 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_raider_party Raiders 4503599627632667 0 1 344 -1 -1 -1 -1 -1 -1 
-pt_raider_captives Raider_Captives 0 0 1 0 219 6 30 1 -1 -1 -1 -1 -1 
-pt_faction_caravan_party Freighters 7036874421960734 0 1 7 220 1 1 0 90 12 40 0 -1 -1 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 223 6 30 1 -1 -1 -1 -1 -1 
+pt_faction_caravan_party Freighters 7036874421960734 0 1 7 224 1 1 0 90 12 40 0 -1 -1 -1 -1 
 pt_prisoner_train_party Prisoner_Train 1407374887747615 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_default_prisoners Default_Prisoners 0 0 1 0 205 5 10 1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 209 5 10 1 -1 -1 -1 -1 -1 
 pt_center_reinforcements Reinforcements 4503599627370523 0 1 137 87 5 15 0 88 5 15 0 86 5 15 0 -1 -1 -1 
 pt_faction_hero_party War_Party 4259840 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_galacticempire_reinforcements_a <galacticempire_reinforcements_a> 0 0 1 0 150 4 8 0 148 5 7 0 152 4 5 0 151 3 3 0 153 3 6 0 -1 
-pt_galacticempire_reinforcements_b <galacticempire_reinforcements_b> 0 0 1 0 156 2 4 0 154 5 9 0 158 2 4 0 157 2 2 0 153 1 5 0 -1 
-pt_galacticempire_reinforcements_c <galacticempire_reinforcements_c> 0 0 1 0 162 0 1 0 161 0 3 0 160 0 2 0 159 0 2 0 157 0 2 0 -1 
-pt_rebelalliance_reinforcements_a <rebelalliance_reinforcements_a> 0 0 1 0 166 30 35 0 176 15 18 0 108 15 20 0 106 4 8 0 180 4 8 0 -1 
-pt_rebelalliance_reinforcements_b <rebelalliance_reinforcements_b> 0 0 1 0 177 10 18 0 108 18 30 0 106 8 12 0 181 4 8 0 -1 -1 
-pt_rebelalliance_reinforcements_c <rebelalliance_reinforcements_c> 0 0 1 0 107 10 12 0 184 5 8 0 178 8 12 0 1009 0 6 0 185 2 5 0 -1 
-pt_huttcartel_reinforcements_a <huttcartel_reinforcements_a> 0 0 1 0 190 5 8 0 191 4 10 0 36 3 6 0 40 0 2 1 -1 -1 
-pt_huttcartel_reinforcements_b <huttcartel_reinforcements_b> 0 0 1 0 192 4 7 0 51 3 5 0 47 3 5 0 33 1 3 0 43 3 5 0 40 0 2 1 
-pt_huttcartel_reinforcements_c <huttcartel_reinforcements_c> 0 0 1 0 35 0 2 0 36 3 3 0 195 2 3 0 78 0 3 0 119 0 3 0 -1 
+pt_galacticempire_reinforcements_a <galacticempire_reinforcements_a> 0 0 1 0 150 4 8 0 148 5 7 0 152 4 5 0 151 3 3 0 157 3 6 0 -1 
+pt_galacticempire_reinforcements_b <galacticempire_reinforcements_b> 0 0 1 0 160 2 4 0 158 5 9 0 162 2 4 0 161 2 2 0 157 1 5 0 -1 
+pt_galacticempire_reinforcements_c <galacticempire_reinforcements_c> 0 0 1 0 166 0 1 0 165 0 3 0 164 0 2 0 163 0 2 0 161 0 2 0 -1 
+pt_rebelalliance_reinforcements_a <rebelalliance_reinforcements_a> 0 0 1 0 170 30 35 0 180 15 18 0 108 15 20 0 106 4 8 0 184 4 8 0 -1 
+pt_rebelalliance_reinforcements_b <rebelalliance_reinforcements_b> 0 0 1 0 181 10 18 0 108 18 30 0 106 8 12 0 185 4 8 0 -1 -1 
+pt_rebelalliance_reinforcements_c <rebelalliance_reinforcements_c> 0 0 1 0 107 10 12 0 188 5 8 0 182 8 12 0 1016 0 6 0 189 2 5 0 -1 
+pt_huttcartel_reinforcements_a <huttcartel_reinforcements_a> 0 0 1 0 194 5 8 0 195 4 10 0 36 3 6 0 40 0 2 1 -1 -1 
+pt_huttcartel_reinforcements_b <huttcartel_reinforcements_b> 0 0 1 0 196 4 7 0 51 3 5 0 47 3 5 0 33 1 3 0 43 3 5 0 40 0 2 1 
+pt_huttcartel_reinforcements_c <huttcartel_reinforcements_c> 0 0 1 0 35 0 2 0 36 3 3 0 199 2 3 0 78 0 3 0 119 0 3 0 -1 
 pt_faction_human_reinforcements_a <faction_human_reinforcements_a> 0 0 1 0 88 6 12 0 -1 -1 -1 -1 -1 
 pt_faction_human_reinforcements_b <faction_human_reinforcements_b> 0 0 1 0 88 3 6 0 89 2 4 0 95 1 2 0 -1 -1 -1 
 pt_faction_human_reinforcements_c <faction_human_reinforcements_c> 0 0 1 0 89 2 4 0 95 2 4 0 -1 -1 -1 -1 
@@ -63,24 +63,24 @@ pt_faction_trandoshan_reinforcements_c <faction_trandoshan_reinforcements_c> 0 0
 pt_faction_droid_reinforcements_a <faction_clone_reinforcements_a> 0 0 1 0 101 6 12 0 -1 -1 -1 -1 -1 
 pt_faction_droid_reinforcements_b <faction_clone_reinforcements_b> 0 0 1 0 101 5 9 0 102 1 3 0 -1 -1 -1 -1 
 pt_faction_droid_reinforcements_c <faction_clone_reinforcements_c> 0 0 1 0 107 3 6 0 109 1 2 0 -1 -1 -1 -1 
-pt_501stl_reinforcements_a <501stl_reinforcements_a> 0 0 1 0 1013 11 12 0 1014 5 8 0 -1 -1 -1 -1 
-pt_501stl_reinforcements_b <501stl_reinforcements_b> 0 0 1 0 1013 5 12 0 1014 8 12 0 -1 -1 -1 -1 
-pt_501stl_reinforcements_c <501stl_reinforcements_c> 0 0 1 0 1014 8 10 0 1015 2 4 0 -1 -1 -1 -1 
-pt_7thsc_reinforcements_a <7thsc_reinforcements_a> 0 0 1 0 1024 11 12 0 1025 5 8 0 -1 -1 -1 -1 
-pt_7thsc_reinforcements_b <7thsc_reinforcements_b> 0 0 1 0 1024 5 12 0 1025 8 12 0 -1 -1 -1 -1 
-pt_7thsc_reinforcements_c <7thsc_reinforcements_c> 0 0 1 0 1025 8 10 0 1029 2 4 0 -1 -1 -1 -1 
-pt_gm_reinforcements_a <gm_reinforcements_a> 0 0 1 0 1035 11 12 0 1036 5 8 0 -1 -1 -1 -1 
-pt_gm_reinforcements_b <gm_reinforcements_b> 0 0 1 0 1035 5 12 0 1036 8 12 0 -1 -1 -1 -1 
-pt_gm_reinforcements_c <gm_reinforcements_c> 0 0 1 0 1036 8 10 0 1040 2 4 0 -1 -1 -1 -1 
-pt_442ndsb_reinforcements_a <442ndsb_reinforcements_a> 0 0 1 0 1045 11 12 0 1046 5 8 0 -1 -1 -1 -1 
-pt_442ndsb_reinforcements_b <442ndsb_reinforcements_b> 0 0 1 0 1045 5 12 0 1046 8 12 0 -1 -1 -1 -1 
-pt_442ndsb_reinforcements_c <442ndsb_reinforcements_c> 0 0 1 0 1046 8 10 0 1048 2 4 0 -1 -1 -1 -1 
-pt_104thb_reinforcements_a <104thb_reinforcements_a> 0 0 1 0 1059 11 12 0 1058 5 8 0 -1 -1 -1 -1 
-pt_104thb_reinforcements_b <104thb_reinforcements_b> 0 0 1 0 1059 5 12 0 1058 8 12 0 -1 -1 -1 -1 
-pt_104thb_reinforcements_c <104thb_reinforcements_c> 0 0 1 0 1058 8 10 0 1062 2 4 0 -1 -1 -1 -1 
-pt_cst_reinforcements_a <cst_reinforcements_a> 0 0 1 0 1052 11 12 0 1053 5 8 0 -1 -1 -1 -1 
-pt_cst_reinforcements_b <cst_reinforcements_b> 0 0 1 0 1052 5 12 0 1053 8 12 0 -1 -1 -1 -1 
-pt_cst_reinforcements_c <cst_reinforcements_c> 0 0 1 0 1053 8 10 0 1054 2 4 0 -1 -1 -1 -1 
+pt_501stl_reinforcements_a <501stl_reinforcements_a> 0 0 1 0 1020 11 12 0 1021 5 8 0 -1 -1 -1 -1 
+pt_501stl_reinforcements_b <501stl_reinforcements_b> 0 0 1 0 1020 5 12 0 1021 8 12 0 -1 -1 -1 -1 
+pt_501stl_reinforcements_c <501stl_reinforcements_c> 0 0 1 0 1021 8 10 0 1022 2 4 0 -1 -1 -1 -1 
+pt_7thsc_reinforcements_a <7thsc_reinforcements_a> 0 0 1 0 1031 11 12 0 1032 5 8 0 -1 -1 -1 -1 
+pt_7thsc_reinforcements_b <7thsc_reinforcements_b> 0 0 1 0 1031 5 12 0 1032 8 12 0 -1 -1 -1 -1 
+pt_7thsc_reinforcements_c <7thsc_reinforcements_c> 0 0 1 0 1032 8 10 0 1036 2 4 0 -1 -1 -1 -1 
+pt_gm_reinforcements_a <gm_reinforcements_a> 0 0 1 0 1042 11 12 0 1043 5 8 0 -1 -1 -1 -1 
+pt_gm_reinforcements_b <gm_reinforcements_b> 0 0 1 0 1042 5 12 0 1043 8 12 0 -1 -1 -1 -1 
+pt_gm_reinforcements_c <gm_reinforcements_c> 0 0 1 0 1043 8 10 0 1047 2 4 0 -1 -1 -1 -1 
+pt_442ndsb_reinforcements_a <442ndsb_reinforcements_a> 0 0 1 0 1052 11 12 0 1053 5 8 0 -1 -1 -1 -1 
+pt_442ndsb_reinforcements_b <442ndsb_reinforcements_b> 0 0 1 0 1052 5 12 0 1053 8 12 0 -1 -1 -1 -1 
+pt_442ndsb_reinforcements_c <442ndsb_reinforcements_c> 0 0 1 0 1053 8 10 0 1055 2 4 0 -1 -1 -1 -1 
+pt_104thb_reinforcements_a <104thb_reinforcements_a> 0 0 1 0 1066 11 12 0 1065 5 8 0 -1 -1 -1 -1 
+pt_104thb_reinforcements_b <104thb_reinforcements_b> 0 0 1 0 1066 5 12 0 1065 8 12 0 -1 -1 -1 -1 
+pt_104thb_reinforcements_c <104thb_reinforcements_c> 0 0 1 0 1065 8 10 0 1069 2 4 0 -1 -1 -1 -1 
+pt_cst_reinforcements_a <cst_reinforcements_a> 0 0 1 0 1059 11 12 0 1060 5 8 0 -1 -1 -1 -1 
+pt_cst_reinforcements_b <cst_reinforcements_b> 0 0 1 0 1059 5 12 0 1060 8 12 0 -1 -1 -1 -1 
+pt_cst_reinforcements_c <cst_reinforcements_c> 0 0 1 0 1060 8 10 0 1061 2 4 0 -1 -1 -1 -1 
 pt_327thsc_reinforcements_a <327thsc_reinforcements_a> 0 0 1 0 139 2 3 0 148 4 10 0 -1 -1 -1 -1 
 pt_327thsc_reinforcements_b <327thsc_reinforcements_b> 0 0 1 0 150 6 13 0 -1 -1 -1 -1 -1 
 pt_327thsc_reinforcements_c <327thsc_reinforcements_c> 0 0 1 0 140 1 2 0 59 1 2 0 150 1 2 0 -1 -1 -1 

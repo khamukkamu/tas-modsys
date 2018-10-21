@@ -1,5 +1,5 @@
 scene_propsfile version 1
- 1612
+ 1613
 spr_invalid_object 0 0 question_mark 0 0
 
 
@@ -4878,6 +4878,10 @@ spr_tas_tot_tree_Umbaran_3_3 0 0 tas_tot_tree_Umbaran_3_3 bo_tas_tot_tree_Umbara
 
 
 spr_tas_tot_tree_Umbaran_3_4 0 0 tas_tot_tree_Umbaran_3_4 bo_tas_tot_tree_Umbaran_1_4 0
+
+
+spr_holo_twilek 0 0 holo_twilek 0 1
+-40  3 1950 3 170 30 30 1955 3 0 0 0 1960 2 30 200 
 
 
 spr_scene_props_end 16384 0 psys_helper 0 0
