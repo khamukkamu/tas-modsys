@@ -1,0 +1,14 @@
+To do list for TAS
+-Fix props for scenes (Testers report any found broken props APART the whole system of Salucami its broken af) Props count as broken, those that dissappear from certain distances
+-Commanders RC has not yet got to this. You may try using facial codes from CWC, but i do not know if that will work. It should , but it is unsure. Needs testers to view through commanders while testing.
+-Change any texture for troops or armors using AGENT_SHADER to STANDART_SHADER, IRON_SHADER to SPECULAR_SHADER (imo some shiny armors look as good without the shining so ill leave the judgement about that to others) 
+-get troops working and add more buildable buildings for hiring them (Nightsister altar, Deathwatch Barracks, Umbaran Barracks, Advanced droid foundry ( Aseries, IG type droids including lancers, Magnaguards), Sith Academy (force sensitive troops), Sith Barracks (Infantry and droids, look cwc as reference if Mongol away and something unclear)
+-Flying with jetpacks. (As DarthSernis suggested for force powers to use delay to avoid spammage, same could be used for Jetpack, a certain time until it can be used again, and if possible, time limit for how long it can be used at once)
+-Force powers usable via press of button (Totigor made the code that enables this for now only for Force choke (DarthSernis suggested for force powers to use delay to avoid spammage)
+Other powers that could be done with ease due to animation codes ability to physically manipulate position of target
+Force push (see CWC for reference, there are 2 animations for this)
+Force sweep (knocks enemies off feet and forces them to go through animation of getting back on feet) See CWC for refrence if unclear (force knockdown)
+Force lightning... is something id much like to see happen, but i have no illusions why its difficult to make happen. I have 2 ideas for this.
+1. Force lightning works similar as other force powers, and needs an animation, but also has an visual effect on enemies (similar as Bear Force II)
+2. Using the power launches an lightning bolt in an similar way as they now work in the mod, as a weapon, but without needing the weapon to do it. The bolt would be very powerfull but only effect one target and need a long delay
+
