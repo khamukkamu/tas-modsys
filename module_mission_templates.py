@@ -6271,6 +6271,18 @@ kham_lightsaber_deflection_ai,
     common_use_jetpack,
     common_toggle_weapon_capabilities,
     common_crouch_button,
+   #AUTO FIRE
+    common_init_auto_fire,
+    common_auto_fire_held,
+    common_auto_fire_clicked,
+    common_auto_fire,
+    common_chaingun_shoot_pose,
+    #anim_flag_test,
+    fixed_point_test,
+    common_autofire_weapons_deal_less_damage,
+    kham_lightsaber_deflection,
+    kham_lightsaber_deflection_ai_init,
+    kham_lightsaber_deflection_ai,
 
     common_inventory_not_available,
 
