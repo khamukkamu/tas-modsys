@@ -12,3 +12,6 @@ Force lightning... is something id much like to see happen, but i have no illusi
 1. Force lightning works similar as other force powers, and needs an animation, but also has an visual effect on enemies (similar as Bear Force II)
 2. Using the power launches an lightning bolt in an similar way as they now work in the mod, as a weapon, but without needing the weapon to do it. The bolt would be very powerfull but only effect one target and need a long delay
 
+
+
+test
