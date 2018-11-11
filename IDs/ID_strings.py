@@ -1557,5 +1557,15 @@ str_swconquest_credits_prefc = 1555
 str_swconquest_credits_contb = 1556
 str_cmenu_follow = 1557
 str_reg0 = 1558
+str_done = 1559
+str_reset_to_default = 1560
+str_space = 1561
+str_us_ = 1562
+str_allies_ = 1563
+str_enemies_ = 1564
+str_routed = 1565
+str_tactical_controls = 1566
+str_division_placement = 1567
+str_formations = 1568
 
 

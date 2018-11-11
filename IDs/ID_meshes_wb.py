@@ -433,5 +433,12 @@ mesh_pic_troop_trees = 431
 mesh_pic_units_details = 432
 mesh_mp_inventory_choose = 433
 mesh_inv_slot = 434
+mesh_order_frame = 435
+mesh_flag_spears = 436
+mesh_flag_skirmishers = 437
+mesh_flag_horsemen = 438
+mesh_flag_d7 = 439
+mesh_flag_d8 = 440
+mesh_flag_d9 = 441
 
 
