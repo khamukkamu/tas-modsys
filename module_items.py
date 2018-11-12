@@ -114,21 +114,21 @@ items = [
  #SW - increased food quantity (ie, max_ammo) by 2x
   ["smoked_fish","Smoked Fish", [("smoked_fish",0)], itp_type_goods|itp_consumable|itp_food, 0, 49,weight(25)|abundance(110)|food_quality(50)|max_ammo(100),imodbits_none],
   ["dried_meat","Nerf Beef", [("smoked_meat",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 72,weight(25)|abundance(100)|food_quality(70)|max_ammo(120),imodbits_none],
-  ["cattle_meat","Nerf Meat", [("raw_meat",0)], itp_type_goods|itp_consumable|itp_food, 0, 103,weight(30)|abundance(100)|food_quality(80)|max_ammo(100),imodbits_none], 	#removed merch tag but didn't comment out since it may be used for scene props?
+  ["cattle_meat","Nerf Meat", [("raw_meat",0)], itp_type_goods|itp_consumable|itp_food, 0, 103,weight(30)|abundance(100)|food_quality(80)|max_ammo(100),imodbits_none],   #removed merch tag but didn't comment out since it may be used for scene props?
   ["bantha_steak","Bantha Steak", [("bantha_steak",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 103,weight(30)|abundance(100)|food_quality(80)|max_ammo(100),imodbits_none], 
   ["pork","Pork", [("fried_pig",0)], itp_type_goods|itp_consumable|itp_food, 0, 85,weight(20)|abundance(100)|food_quality(70)|max_ammo(100),imodbits_none],
-  ["bread","Bread", [("bread_a",0)], itp_type_goods|itp_consumable|itp_food, 0, 32,weight(25)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],	#removed merch tag but didn't comment out since it may be used for scene props?
+  ["bread","Bread", [("bread_a",0)], itp_type_goods|itp_consumable|itp_food, 0, 32,weight(25)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none], #removed merch tag but didn't comment out since it may be used for scene props?
   ["vagnerian_canape","Vagnerian Canape", [("vagnerian_canape",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 150,weight(5)|abundance(70)|food_quality(70)|max_ammo(25),imodbits_none],
   ["carbohydrate_pack","Carbohydrate Pack", [("carbohydrate_food",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 20,weight(15)|abundance(110)|food_quality(40)|max_ammo(150),imodbits_none], 
-  ["apples","Apples", [("apple_basket",0)], itp_type_goods|itp_consumable|itp_food, 0, 44,weight(35)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],	#removed merch tag but didn't comment out since it may be used for scene props?
+  ["apples","Apples", [("apple_basket",0)], itp_type_goods|itp_consumable|itp_food, 0, 44,weight(35)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],  #removed merch tag but didn't comment out since it may be used for scene props?
   ["blue_milk","Blue Milk", [("blue_milk",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 100,weight(25)|abundance(110)|food_quality(60)|max_ammo(80),imodbits_none],
   ["mujo_fruit","Mujo Fruit", [("mujo_fruit",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 44,weight(35)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],
   ["cheese","Christophsis cheese", [("cheese_b",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 95,weight(15)|abundance(110)|food_quality(40)|max_ammo(60),imodbits_none],
-  ["chicken","Chicken", [("chicken_roasted",0)], itp_type_goods|itp_consumable|itp_food, 0, 75,weight(15)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],	#removed merch tag but didn't comment out since it may be used for scene props?
+  ["chicken","Chicken", [("chicken_roasted",0)], itp_type_goods|itp_consumable|itp_food, 0, 75,weight(15)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none], #removed merch tag but didn't comment out since it may be used for scene props?
   ["protein_pack","Protein Pack", [("protein_food",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 20,weight(15)|abundance(110)|food_quality(40)|max_ammo(150),imodbits_none], 
   ["honey","Honey", [("honey_pot",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 136,weight(5)|abundance(110)|food_quality(40)|max_ammo(40),imodbits_none],
   ["sausages","Nerf sausages", [("sausages",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 60,weight(15)|abundance(110)|food_quality(40)|max_ammo(80),imodbits_none],
-  ["cabbages","Cabbages", [("cabbage",0)], itp_type_goods|itp_consumable|itp_food, 0, 30,weight(25)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],	#removed merch tag but didn't comment out since it may be used for scene props?
+  ["cabbages","Cabbages", [("cabbage",0)], itp_type_goods|itp_consumable|itp_food, 0, 30,weight(25)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none], #removed merch tag but didn't comment out since it may be used for scene props?
   ["bristle_melon","Bristle Melon", [("bristlemelon",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 30,weight(25)|abundance(110)|food_quality(40)|max_ammo(100),imodbits_none],
   ["butter","Bantha butter", [("butter_pot",0)], itp_merchandise|itp_type_goods|itp_consumable|itp_food, 0, 150,weight(12)|abundance(110)|food_quality(40)|max_ammo(60),imodbits_none],
 
@@ -174,9 +174,9 @@ items = [
   ["pottery","Geonosian pottery", [("jug",0)], itp_merchandise|itp_type_goods, 0, 126,weight(50)|abundance(90),imodbits_none],
   ["linen","Lashaa silk", [("linen",0)], itp_merchandise|itp_type_goods, 0, 250,weight(40)|abundance(90),imodbits_none],
   ["furs","Ewok Furs", [("fur_pack",0)], itp_merchandise|itp_type_goods, 0, 391,weight(40)|abundance(90),imodbits_none],
-  ["wookiee_fur","Wookiee Pelt", [("wookiee_fur",0)], itp_type_goods|itp_always_loot, 0, 250,weight(10)|abundance(60),imodbits_none], 	#no merch, only can get by killing wookiees
-  ["trandoshan_skin","Trandoshan Skin", [("trandoshan_skin",0)], itp_type_goods|itp_always_loot, 0, 250,weight(10)|abundance(60),imodbits_none], 	#no merch, only can get by killing wookiees
-  ["droid_parts","Droid Parts", [("robot_parts",0)], itp_merchandise|itp_type_goods|itp_always_loot, 0, 200,weight(15)|abundance(60),imodbits_none], 	#also given to droids
+  ["wookiee_fur","Wookiee Pelt", [("wookiee_fur",0)], itp_type_goods|itp_always_loot, 0, 250,weight(10)|abundance(60),imodbits_none],   #no merch, only can get by killing wookiees
+  ["trandoshan_skin","Trandoshan Skin", [("trandoshan_skin",0)], itp_type_goods|itp_always_loot, 0, 250,weight(10)|abundance(60),imodbits_none],  #no merch, only can get by killing wookiees
+  ["droid_parts","Droid Parts", [("robot_parts",0)], itp_merchandise|itp_type_goods|itp_always_loot, 0, 200,weight(15)|abundance(60),imodbits_none],  #also given to droids
   ["wool","Nerf wool", [("wool_sack",0)], itp_merchandise|itp_type_goods, 0, 130,weight(40)|abundance(90),imodbits_none],
   ["velvet","Naboo Velvet", [("velvet",0)], itp_merchandise|itp_type_goods, 0, 1025,weight(40)|abundance(30),imodbits_none],
   ["tools","Hydrospanners", [("hydrospanner",0)], itp_merchandise|itp_type_goods, 0, 410,weight(50)|abundance(90),imodbits_none],
@@ -728,7 +728,7 @@ items = [
 #b2 series reskin
 ["b2series_body_enhanced", "C-B3 Cortosis Droid Body", [("B2-Battledroid_enhanced",0)], itp_unique|itp_type_body_armor|itp_covers_legs|itp_civilian,0, 7420, weight(45)|abundance(0)|head_armor(66)|body_armor(84)|leg_armor(36)|difficulty(0) ,imodbits_none ],
 ["b2series_attack","B2-Series Battle Droid Attack", [("_",0),("ArcTrooperGloves_L",ixmesh_inventory)], itp_unique|itp_type_one_handed_wpn|itp_primary|itp_secondary, itc_dagger, 500, weight(1)|abundance(0)|difficulty(0)|spd_rtng(75) | weapon_length(20)|swing_damage(10, blunt) | thrust_damage(8, blunt),imodbits_none ], 
-["b2series_blaster", "B2-Series Battle Droid Blaster", [("_",0),("ArcTrooperGloves_L",ixmesh_inventory)], itp_unique|itp_type_pistol|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_reload_pistol, 500 , weight(2)|abundance(0)|difficulty(0)|spd_rtng(93) | shoot_speed(145) | thrust_damage(42,pierce)|max_ammo(20)|accuracy(85),imodbits_none,[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)])]],	
+["b2series_blaster", "B2-Series Battle Droid Blaster", [("_",0),("ArcTrooperGloves_L",ixmesh_inventory)], itp_unique|itp_type_pistol|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_reload_pistol, 500 , weight(2)|abundance(0)|difficulty(0)|spd_rtng(93) | shoot_speed(145) | thrust_damage(42,pierce)|max_ammo(20)|accuracy(85),imodbits_none,[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)])]],  
 
 ["transparent_droid_head", "Transparent Head (for Droids)", [("transparent",0),("transparent_helmet_inv",ixmesh_inventory)], itp_unique|itp_type_head_armor|itp_covers_head|itp_civilian,0, 1, weight(0.25)|abundance(0)|head_armor(1)|body_armor(0)|leg_armor(0)|difficulty(0) ,imodbits_none ], 
 ["transparent_droid_hands", "Transparent Hands (for Droids)", [("transparent",0),("transparent_helmet_inv",ixmesh_inventory)], itp_unique|itp_type_hand_armor|itp_civilian,0, 1 , weight(0.25)|abundance(0)|head_armor(0)|body_armor(1)|leg_armor(0)|difficulty(0) ,imodbits_none ], 
@@ -838,7 +838,7 @@ items = [
 
 #####TAS additions
 #### to Be fixed at a later date
-["rep_arm_galacticmarine", "Galactic Marines Armor", [("galactic_marine",0)], itp_merchandise|itp_type_body_armor|itp_replaces_helm|itp_covers_head|itp_covers_legs|itp_civilian, 0, 400, weight(18)|abundance(100)|head_armor(0)|body_armor(54)|leg_armor(30)|difficulty(0), imodbits_armor ], 
+["rep_arm_galacticmarine", "Galactic Marines Armor", [("galactic_marine",0)], itp_merchandise|itp_type_body_armor|itp_replaces_helm|itp_covers_head|itp_covers_legs|itp_civilian, 0, 400, weight(18)|abundance(100)|head_armor(34)|body_armor(54)|leg_armor(30)|difficulty(0), imodbits_armor ], 
 
 #TAS
 #Sith Armors
@@ -1349,16 +1349,28 @@ items = [
 # one handed lightsabers (lower speed)
 ["lightsaber_green_1h", "One Handed Lightsaber", [("lightsaber_green_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
  605*lsbr_vluemul , weight(0.4)|abundance(15)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_green_1h", "One Handed Lightsaber", [("lightsaber_green_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(15)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ], 
 ["lightsaber_blue_1h", "One Handed Lightsaber", [("lightsaber_blue_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
  605*lsbr_vluemul , weight(0.4)|abundance(15)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_blue_1h", "One Handed Lightsaber", [("lightsaber_blue_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(15)|difficulty(0)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ], 
 ["lightsaber_orange_1h", "One Handed Lightsaber", [("lightsaber_orange_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
  605*lsbr_vluemul , weight(0.4)|abundance(5)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_orange_1h", "One Handed Lightsaber", [("lightsaber_orange_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(5)|difficulty(0)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ], 
 ["lightsaber_purple_1h", "One Handed Lightsaber", [("lightsaber_purple_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
  605*lsbr_vluemul , weight(0.4)|abundance(10)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_purple_1h", "Training One Handed Lightsaber", [("lightsaber_purple_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(10)|difficulty(0)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ], 
 ["lightsaber_yellow_1h", "One Handed Lightsaber", [("lightsaber_yellow_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
  605*lsbr_vluemul , weight(0.4)|abundance(5)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_yellow_1h", "Training One Handed Lightsaber", [("lightsaber_yellow_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(5)|difficulty(0)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ],
 ["lightsaber_red_1h", "One Handed Lightsaber", [("lightsaber_red_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
- 605*lsbr_vluemul , weight(0.4)|abundance(20)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ], 
+ 605*lsbr_vluemul , weight(0.4)|abundance(20)|difficulty(10)|spd_rtng(105) | weapon_length(100)|swing_damage(60 , pierce) | thrust_damage(60 ,  pierce),imodbits_lightsaber ],
+["training_lightsaber_red_1h", "Training One Handed Lightsaber", [("lightsaber_red_1h",0),("ls1hoff",ixmesh_carry)], itp_type_one_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_1h|itcf_carry_dagger_front_left,
+ 605*lsbr_vluemul , weight(0.4)|abundance(20)|difficulty(0)|spd_rtng(105) | weapon_length(100)|swing_damage(45 , blunt) | thrust_damage(45 ,  blunt),imodbits_lightsaber ], 
 # lightsaber_pike  (abundance is reduced since you can buy them all from the force-sensitive merchant at the trade federation base)
 ["lightsaber_green_pike","Lightsaber Pike", [("lightsaber_green_pike",0),("lspikeoff",ixmesh_carry)], itp_type_polearm|itp_merchandise| itp_spear|itp_primary|itp_penalty_with_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber_pike|itcf_carry_spear,
  1040*lsbr_vluemul , weight(1.2)|abundance(10)|difficulty(10)|spd_rtng(120) | weapon_length(150)|swing_damage(75, pierce) | thrust_damage(75,  pierce),imodbits_lightsaber ],
@@ -1381,54 +1393,54 @@ items = [
 #["lightsaber_red", "Lightsaber", [("lightsaber_red",0),("lightsaber_redoff",ixmesh_carry)], itp_type_two_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber|itcf_carry_dagger_front_left,
 # 900 , weight(0.5)|abundance(60)|difficulty(12)|spd_rtng(120) | weapon_length(115)|swing_damage(75 , pierce) | thrust_damage(75 ,  pierce),imodbits_lightsaber ],
 ["lightsaber_red_multikill","Multi-hit Lightsaber (in development)", [("lightsaber_red",0),("lsoff",ixmesh_carry)], itp_type_thrown|itp_unique|itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack ,itc_lightsaber|itcf_carry_dagger_front_left, 
-	3000*lsbr_vluemul , weight(0.5)|abundance(0)|difficulty(0)|spd_rtng(120)|weapon_length(115)|shoot_speed(1)|swing_damage(75,pierce)|thrust_damage(75,pierce)|max_ammo(1),imodbits_none,
-	[
-	
-	#ISSUES - non-player agents won't use it because it is a 'throwing' weapon
-	
-		(ti_on_weapon_attack,[
-							#store the trigger parameters
-							#(store_trigger_param_1, ":cur_agent"),		#doesn't seem like it works?
-							#(store_trigger_param_2, ":troop_no"),
-							#(get_player_agent_no, ":player_agent"),		#this only works if the player is swinging the lightsaber, not other troops, etc.
-							#(agent_get_position,pos1,":player_agent"),
-							#try and figure out the agent id of the person using the weapon
-							(assign,":distance",99999),
-							(try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"),
-								(agent_get_look_position, pos2, ":agent"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",":distance"),
-								(assign,":cur_agent",":agent"),
-								#(agent_get_team,":cur_agent_team", ":cur_agent"),		-> Not used, commented out by Swyter.
-								(assign,":distance",":dist"),
-							(end_try),							
-							#do the attack
-							#(agent_get_position,pos1,":cur_agent"),
+  3000*lsbr_vluemul , weight(0.5)|abundance(0)|difficulty(0)|spd_rtng(120)|weapon_length(115)|shoot_speed(1)|swing_damage(75,pierce)|thrust_damage(75,pierce)|max_ammo(1),imodbits_none,
+  [
+  
+  #ISSUES - non-player agents won't use it because it is a 'throwing' weapon
+  
+    (ti_on_weapon_attack,[
+              #store the trigger parameters
+              #(store_trigger_param_1, ":cur_agent"),   #doesn't seem like it works?
+              #(store_trigger_param_2, ":troop_no"),
+              #(get_player_agent_no, ":player_agent"),    #this only works if the player is swinging the lightsaber, not other troops, etc.
+              #(agent_get_position,pos1,":player_agent"),
+              #try and figure out the agent id of the person using the weapon
+              (assign,":distance",99999),
+              (try_for_agents,":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"),
+                (agent_get_look_position, pos2, ":agent"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",":distance"),
+                (assign,":cur_agent",":agent"),
+                #(agent_get_team,":cur_agent_team", ":cur_agent"),    -> Not used, commented out by Swyter.
+                (assign,":distance",":dist"),
+              (end_try),              
+              #do the attack
+              #(agent_get_position,pos1,":cur_agent"),
                             (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								#(agent_is_human,":agent"),
-								(neg|agent_is_ally, ":agent"),
-								(agent_get_position, pos2, ":agent"),
-								(neg|position_is_behind_position,pos2,pos1),	
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",275),
-								#(position_move_z,pos2,150),
-								#(particle_system_burst, "psys_game_blood", pos2,95),
-								#(particle_system_burst, "psys_game_blood_2", pos2,95),
-								(store_agent_hit_points,":hp",":agent",1),		# set absolute to 1 to retrieve actual hps, otherwise will return relative hp in range [0..100]
-								(store_random_in_range, ":damage", 10, 50),
-								(val_sub, ":hp", ":damage"),
-								#(val_min, ":hp", 0),
-								(agent_set_hit_points,":agent",":hp",1),		# set absolute to 1 if value is absolute, otherwise value will be treated as relative number in range [0..100]
-								(agent_deliver_damage_to_agent,":cur_agent",":agent"),
-								(agent_play_sound,":agent","snd_metal_hit_low_armor_high_damage"),
-								#need to also play sound effect of them getting hurt or dying?  also needs to be specific to their race....
+                (agent_is_alive,":agent"),
+                #(agent_is_human,":agent"),
+                (neg|agent_is_ally, ":agent"),
+                (agent_get_position, pos2, ":agent"),
+                (neg|position_is_behind_position,pos2,pos1),  
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",275),
+                #(position_move_z,pos2,150),
+                #(particle_system_burst, "psys_game_blood", pos2,95),
+                #(particle_system_burst, "psys_game_blood_2", pos2,95),
+                (store_agent_hit_points,":hp",":agent",1),    # set absolute to 1 to retrieve actual hps, otherwise will return relative hp in range [0..100]
+                (store_random_in_range, ":damage", 10, 50),
+                (val_sub, ":hp", ":damage"),
+                #(val_min, ":hp", 0),
+                (agent_set_hit_points,":agent",":hp",1),    # set absolute to 1 if value is absolute, otherwise value will be treated as relative number in range [0..100]
+                (agent_deliver_damage_to_agent,":cur_agent",":agent"),
+                (agent_play_sound,":agent","snd_metal_hit_low_armor_high_damage"),
+                #need to also play sound effect of them getting hurt or dying?  also needs to be specific to their race....
                             (try_end),
-							  ]
-		),
-	]],
+                ]
+    ),
+  ]],
 #TAS Additions (lighsabers)
 
 #light sabers
@@ -1544,19 +1556,19 @@ items = [
 #["force_heal","Force Heal", [("force_push",0),("force_push_inv",ixmesh_inventory)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary,itcf_throw_stone, 500 , weight(0.1)|abundance(100)|difficulty(0)|spd_rtng(100) | shoot_speed(190) | thrust_damage(-40 , blunt)|max_ammo(25)|weapon_length(8)|accuracy(92),imodbits_none],
 # accurancy doesn't seem to help?
 #force_throw_lightsaber for the troops = low ammo so troops eventually attack+ itcf_throw_stone so it disappears
-["force_throw_lightsaber_green",	"Throwing Lightsaber", [("lightsaber_green",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_blue",		"Throwing Lightsaber", [("lightsaber_blue",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_orange",	"Throwing Lightsaber", [("lightsaber_orange",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_purple",	"Throwing Lightsaber", [("lightsaber_purple",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_yellow",	"Throwing Lightsaber", [("lightsaber_yellow",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_red",		"Throwing Lightsaber", [("lightsaber_red",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_green",  "Throwing Lightsaber", [("lightsaber_green",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_blue",   "Throwing Lightsaber", [("lightsaber_blue",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_orange", "Throwing Lightsaber", [("lightsaber_orange",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_purple", "Throwing Lightsaber", [("lightsaber_purple",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_yellow", "Throwing Lightsaber", [("lightsaber_yellow",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_red",    "Throwing Lightsaber", [("lightsaber_red",0)], itp_type_thrown |itp_unique|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_stone,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(12)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
 #force_throw_lightsaber (merchandise only with high ammo for player)  - #itcf_throw_stone, itcf_throw_knife, itcf_throw_axe
-["force_throw_lightsaber_green_merch",	"Throwing Lightsaber", [("lightsaber_green",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_blue_merch",	"Throwing Lightsaber", [("lightsaber_blue",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_orange_merch",	"Throwing Lightsaber", [("lightsaber_orange",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_purple_merch",	"Throwing Lightsaber", [("lightsaber_purple",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_yellow_merch",	"Throwing Lightsaber", [("lightsaber_yellow",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
-["force_throw_lightsaber_red_merch",		"Throwing Lightsaber", [("lightsaber_red",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_green_merch",  "Throwing Lightsaber", [("lightsaber_green",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_blue_merch", "Throwing Lightsaber", [("lightsaber_blue",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_orange_merch", "Throwing Lightsaber", [("lightsaber_orange",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_purple_merch", "Throwing Lightsaber", [("lightsaber_purple",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_yellow_merch", "Throwing Lightsaber", [("lightsaber_yellow",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(20)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
+["force_throw_lightsaber_red_merch",    "Throwing Lightsaber", [("lightsaber_red",0)], itp_type_thrown |itp_merchandise|itp_primary|itp_secondary|itp_bonus_against_shield|itp_wooden_attack,itcf_throw_knife,900, weight(0.5)|abundance(60)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80,pierce)|max_ammo(99)|weapon_length(115)|accuracy(98),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
 #force_throw_lightsaber_pike (merch + high ammo since they are not used for troops) - switched to use itcf_throw_stone instead of itcf_throw_javelin since I switched the ready_javelin and release_javelin animations
 ["force_throw_lightsaber_green_pike", "Throwing Lightsaber Pike", [("lightsaber_green_pike",0),("lspikeoff", ixmesh_carry)], itp_type_thrown |itp_merchandise|itp_primary|itp_bonus_against_shield|itp_wooden_attack ,itcf_throw_stone|itcf_carry_spear, 1040 , weight(2)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80 ,  pierce)|max_ammo(99)|weapon_length(150),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
 ["force_throw_lightsaber_blue_pike", "Throwing Lightsaber Pike", [("lightsaber_blue_pike",0),("lspikeoff", ixmesh_carry)], itp_type_thrown |itp_merchandise|itp_primary|itp_bonus_against_shield|itp_wooden_attack ,itcf_throw_stone|itcf_carry_spear, 1040 , weight(2)|abundance(40)|difficulty(4)|spd_rtng(50) | shoot_speed(35) | thrust_damage(80 ,  pierce)|max_ammo(99)|weapon_length(150),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_throw_lightsaber"),(position_move_x, pos1,0),(position_move_y, pos1,0)])]],
@@ -1576,12 +1588,12 @@ items = [
 #Highlander begin--------------------------------------
   (store_current_scene,":scene"),
   (try_begin),
-	(neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
-	#@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
-	(call_script,"script_emit_projectile",pos1,30,0,0,1,300,700,600,"psys_projectile_fly_smoke",4,0,-1,1),
+  (neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
+  #@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
+  (call_script,"script_emit_projectile",pos1,30,0,0,1,300,700,600,"psys_projectile_fly_smoke",4,0,-1,1),
   (else_try),
-	#ship battle
-	(call_script,"script_emit_projectile",pos1,30,0,0,1,300,700,600,"psys_projectile_fly_smoke",4,0,-1,0),
+  #ship battle
+  (call_script,"script_emit_projectile",pos1,30,0,0,1,300,700,600,"psys_projectile_fly_smoke",4,0,-1,0),
   (try_end),
 #Highlander end--------------------------------------
 
@@ -1594,12 +1606,12 @@ items = [
 #Highlander begin--------------------------------------
   (store_current_scene,":scene"),
   (try_begin),
-	(neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
-	#@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
-	(call_script,"script_emit_projectile",pos1,15,0,0,1,500,1200,500,"psys_projectile_fly_smoke",4,0,-1,1),
+  (neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
+  #@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
+  (call_script,"script_emit_projectile",pos1,15,0,0,1,500,1200,500,"psys_projectile_fly_smoke",4,0,-1,1),
   (else_try),
-	#ship battle
-	(call_script,"script_emit_projectile",pos1,15,0,0,1,500,1200,500,"psys_projectile_fly_smoke",4,0,-1,0),
+  #ship battle
+  (call_script,"script_emit_projectile",pos1,15,0,0,1,500,1200,500,"psys_projectile_fly_smoke",4,0,-1,0),
   (try_end),
 #Highlander end--------------------------------------
 
@@ -1612,12 +1624,12 @@ items = [
 #Highlander begin--------------------------------------
   (store_current_scene,":scene"),
   (try_begin),
-	(neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
-	#@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
-	(call_script,"script_emit_projectile",pos1,22,0,0,1,400,500,500,"psys_projectile_fly_smoke",4,0,-1,1),
+  (neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
+  #@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
+  (call_script,"script_emit_projectile",pos1,22,0,0,1,400,500,500,"psys_projectile_fly_smoke",4,0,-1,1),
   (else_try),
-	#ship battle
-	(call_script,"script_emit_projectile",pos1,22,0,0,1,400,500,500,"psys_projectile_fly_smoke",4,0,-1,0),
+  #ship battle
+  (call_script,"script_emit_projectile",pos1,22,0,0,1,400,500,500,"psys_projectile_fly_smoke",4,0,-1,0),
   (try_end),
 #Highlander end--------------------------------------
 
@@ -1771,469 +1783,469 @@ items = [
 
 #removed merch flag since there are two a280's
 ["a280", "A-280", [("A280",0),("A280_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(4.6)|abundance(110)|difficulty(0)|spd_rtng(150) | shoot_speed(190) | thrust_damage(42 ,pierce)|max_ammo(64)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_a280", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(4.6)|abundance(110)|difficulty(0)|spd_rtng(150) | shoot_speed(190) | thrust_damage(42 ,pierce)|max_ammo(64)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_a280", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["a280_crouch", "A-280", [("A280",0),("A280_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(4.6)|abundance(110)|difficulty(0)|spd_rtng(150) | shoot_speed(130) | thrust_damage(42 ,pierce)|max_ammo(64)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_a280_crouch", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(4.6)|abundance(110)|difficulty(0)|spd_rtng(150) | shoot_speed(130) | thrust_damage(42 ,pierce)|max_ammo(64)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_a280_crouch", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["a280_stun", "Stun A-280", [("A280",0),("A280_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(4.6)|abundance(80)|difficulty(0)|spd_rtng(150) | shoot_speed(130) | thrust_damage(42 ,blunt)|max_ammo(64)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1300 , weight(4.6)|abundance(80)|difficulty(0)|spd_rtng(150) | shoot_speed(130) | thrust_damage(42 ,blunt)|max_ammo(64)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 #removed merch flag since there are two a295's
 ["a295", "A-295", [("A295",0),("A295_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1280 , weight(3.7)|abundance(110)|difficulty(0)|spd_rtng(210) | shoot_speed(130) | thrust_damage(46, pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_a295", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1280 , weight(3.7)|abundance(110)|difficulty(0)|spd_rtng(210) | shoot_speed(130) | thrust_damage(46, pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_a295", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["a295_crouch", "A-295", [("A295",0),("A295_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1280 , weight(3.7)|abundance(110)|difficulty(0)|spd_rtng(210) | shoot_speed(130) | thrust_damage(46, pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_a295_crouch", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1280 , weight(3.7)|abundance(110)|difficulty(0)|spd_rtng(210) | shoot_speed(130) | thrust_damage(46, pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_a295_crouch", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["a295_stun", "Stun A-295", [("A295",0),("A295_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket,
-	1280 , weight(3.7)|abundance(80)|difficulty(0)|spd_rtng(210) | shoot_speed(190) | thrust_damage(46 ,blunt)|max_ammo(36)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 	
+  1280 , weight(3.7)|abundance(80)|difficulty(0)|spd_rtng(210) | shoot_speed(190) | thrust_damage(46 ,blunt)|max_ammo(36)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 #["mandalorian_heavy_blaster", "Mandalorian Heavy Blaster", [("mandalorian_heavy_blaster",0),("mandalorian_heavy_blaster_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_sword_back|itcf_reload_musket,
 ["mandalorian_heavy_blaster", "Mandalorian Heavy Blaster", [("mandalorian_heavy_blaster",0),("mandalorian_heavy_blaster_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket,
-	1300 , weight(5.5)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(170) | thrust_damage(55 ,pierce)|max_ammo(30)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_mandalorian_heavy_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1300 , weight(5.5)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(170) | thrust_damage(55 ,pierce)|max_ammo(30)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_mandalorian_heavy_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["corellian_destroyer_blaster", "Corellian Destroyer Blaster", [("corellian_destroyer_blaster",0),("corellian_destroyer_blaster_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	1250 , weight(3.7)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(150) | thrust_damage(60 ,pierce)|max_ammo(20)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_corellian_destroyer_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1250 , weight(3.7)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(150) | thrust_damage(60 ,pierce)|max_ammo(20)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_corellian_destroyer_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["dlt19", "DLT-19", [("DLT19",0),("DLT19_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	600 , weight(5.3)|abundance(100)|difficulty(0)|spd_rtng(90) | shoot_speed(180) | thrust_damage(60 ,pierce)|max_ammo(100)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dlt19", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  600 , weight(5.3)|abundance(100)|difficulty(0)|spd_rtng(90) | shoot_speed(180) | thrust_damage(60 ,pierce)|max_ammo(100)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dlt19", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["dlt19_scope", "DLT-19 with Scope", [("DLT19_scope",0),("DLT19_scope_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	690 , weight(6)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(195) | thrust_damage(70 ,pierce)|max_ammo(50)|accuracy(96),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  690 , weight(6)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(195) | thrust_damage(70 ,pierce)|max_ammo(50)|accuracy(96),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["wpn_blaster_cycler_rifle", "Cycler rifle", [("cycler_rifle",0),("DLT19_scope_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	500 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(200) | thrust_damage(42 ,pierce)|max_ammo(16)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  500 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(200) | thrust_damage(42 ,pierce)|max_ammo(16)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["dlt20a", "DLT-20A", [("DLT20A",0),("DLT20A_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(5.5)|abundance(100)|difficulty(0)|spd_rtng(100) | shoot_speed(180) | thrust_damage(55 ,pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1300 , weight(5.5)|abundance(100)|difficulty(0)|spd_rtng(100) | shoot_speed(180) | thrust_damage(55 ,pierce)|max_ammo(36)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["e17d", "E-17d", [("uio0000_E-17d",0),("uio0000_E-17d_inv",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield|itp_extra_penetration,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	735 , weight(5.5)|abundance(110)|difficulty(0)|spd_rtng(80) | shoot_speed(205) | thrust_damage(80 ,pierce)|max_ammo(5)|accuracy(110),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  735 , weight(5.5)|abundance(110)|difficulty(0)|spd_rtng(80) | shoot_speed(205) | thrust_damage(80 ,pierce)|max_ammo(5)|accuracy(110),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 #TEST - DC15a particle effects
 # ["dc15a", "DC-15A", [("DC15A",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_sword_back|itcf_reload_musket, 
-	# 435 , weight(3.5)|abundance(100)|difficulty(0)|spd_rtng(90) | shoot_speed(190) | thrust_damage(60 ,pierce)|max_ammo(10)|accuracy(96),imodbits_gun,
-	# [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5),(particle_system_burst, "psys_blaster_smoke", pos1, 15)])]], 
+  # 435 , weight(3.5)|abundance(100)|difficulty(0)|spd_rtng(90) | shoot_speed(190) | thrust_damage(60 ,pierce)|max_ammo(10)|accuracy(96),imodbits_gun,
+  # [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5),(particle_system_burst, "psys_blaster_smoke", pos1, 15)])]], 
 #["dc15a", "DC-15A", [("DC15A",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
 #removed merch flag since there are two dc15a's
 # to be renamed as wpn_blaster_dc17m_auto
 # to add wpn_blaster_dc17m_single
 ["dc17m", "DC-17M", [("dc17m",0),("dc17m_inv",ixmesh_inventory)], itp_type_crossbow|itp_primary|itp_merchandise|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 # to be renamed as wpn_blaster_dc15a_auto
-# to add wpn_blaster_dc15a_single	
+# to add wpn_blaster_dc15a_single 
 ["dc15a", "DC-15A", [("DC15A",0),("DC15A_inv",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	1385 , weight(6.8)|abundance(110)|difficulty(14)|spd_rtng(90) | shoot_speed(270) | thrust_damage(70 ,pierce)|max_ammo(250)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc15a", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 	
+  1385 , weight(6.8)|abundance(110)|difficulty(14)|spd_rtng(90) | shoot_speed(270) | thrust_damage(70 ,pierce)|max_ammo(250)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc15a", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 # to be removed?
 ["dc15a_hip", "DC-15A", [("DC15A_javelin",0),("DC15A_inv",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_musket, 
-	1385 , weight(6.8)|abundance(110)|difficulty(14)|spd_rtng(90) | shoot_speed(270) | thrust_damage(75 ,pierce)|max_ammo(250)|accuracy(92),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc15a_hip", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 	
+  1385 , weight(6.8)|abundance(110)|difficulty(14)|spd_rtng(90) | shoot_speed(270) | thrust_damage(75 ,pierce)|max_ammo(250)|accuracy(92),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc15a_hip", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 #["dc15s", "DC-15S", [("DC15S",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_quiver_front_right|itcf_reload_musket, 
 #["dc15s", "DC-15S", [("DC15S",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
 ["dc15s", "DC-15S", [("DC15S",0),("DC15S_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_pistol, 
-	987 , weight(4)|abundance(100)|difficulty(0)|spd_rtng(170) | shoot_speed(200) | thrust_damage(42 ,pierce)|max_ammo(250)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc15s", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  987 , weight(4)|abundance(100)|difficulty(0)|spd_rtng(170) | shoot_speed(200) | thrust_damage(42 ,pierce)|max_ammo(250)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc15s", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["trandoshan_acp_array_gun", "Trandoshan ACP Array Gun", [("trandoshan_acp_array_gun_javelin",0),("trandoshan_acp_array_gun_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_pistol, 
-	883 , weight(4.52)|abundance(70)|difficulty(0)|spd_rtng(100) | shoot_speed(165) | thrust_damage(90 ,cut)|max_ammo(8)|accuracy(79),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  883 , weight(4.52)|abundance(70)|difficulty(0)|spd_rtng(100) | shoot_speed(165) | thrust_damage(90 ,cut)|max_ammo(8)|accuracy(79),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["trandoshan_stun_gun", "Trandoshan Stun Gun", [("trandoshan_stun_gun",0),("trandoshan_stun_gun_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	295 , weight(3.6)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(170) | thrust_damage(40 ,blunt)|max_ammo(12)|accuracy(65),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  295 , weight(3.6)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(170) | thrust_damage(40 ,blunt)|max_ammo(12)|accuracy(65),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 ["quicksnap_36t", "QuickSnap 36T", [("QuickSnap_36T_carabine",0),("QuickSnap_36T_carabine_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_pistol, 
-	305 , weight(4.23)|abundance(70)|difficulty(0)|spd_rtng(250) | shoot_speed(170) | thrust_damage(36 ,pierce)|max_ammo(100)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  305 , weight(4.23)|abundance(70)|difficulty(0)|spd_rtng(250) | shoot_speed(170) | thrust_damage(36 ,pierce)|max_ammo(100)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["bothan_bola_carabine", "Bothan Bola Carabine", [("bothan_bola_carabine",0),("bothan_bola_carabine_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	305 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(170) | thrust_damage(42 ,pierce)|max_ammo(16)|accuracy(95),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  305 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(170) | thrust_damage(42 ,pierce)|max_ammo(16)|accuracy(95),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["ee3", "EE-3", [("EE3",0),("EE3_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_pistol, 
-	975 , weight(2.57)|abundance(100)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(47 ,pierce)|max_ammo(30)|accuracy(98),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  975 , weight(2.57)|abundance(100)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(47 ,pierce)|max_ammo(30)|accuracy(98),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["ee3_stun", "Stun EE-3", [("EE3",0),("EE3_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_pistol, 
-	875 , weight(2.57)|abundance(80)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(47 ,blunt)|max_ammo(30)|accuracy(98),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  875 , weight(2.57)|abundance(80)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(47 ,blunt)|max_ammo(30)|accuracy(98),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 ["mg15", "RT-97C", [("MG15",0),("MG15_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	2000 , weight(6.43)|abundance(100)|difficulty(12)|spd_rtng(90) | shoot_speed(195) | thrust_damage(47 ,pierce)|max_ammo(250)|accuracy(100),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_mg15", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  2000 , weight(6.43)|abundance(100)|difficulty(12)|spd_rtng(90) | shoot_speed(195) | thrust_damage(47 ,pierce)|max_ammo(250)|accuracy(100),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_mg15", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 #used itcf_throw_javelin for e5 so it is fired from the hip
 ["e5", "E-5", [("e5_new_javelin",0),("e5_new_javelin",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_pistol, 
-	850 , weight(2.4)|abundance(70)|difficulty(0)|spd_rtng(95) | shoot_speed(140) | thrust_damage(42 ,pierce)|max_ammo(200)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_e5", slot_item_sound, "snd_e5"),]#(play_sound,"snd_e5"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  850 , weight(2.4)|abundance(70)|difficulty(0)|spd_rtng(95) | shoot_speed(140) | thrust_damage(42 ,pierce)|max_ammo(200)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_e5", slot_item_sound, "snd_e5"),]#(play_sound,"snd_e5"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 #SW - now using itcf_throw_javelin for e11(itcf_shoot_javelin doesn't work, had to rotate the mesh as well) 
 #["e11", "E-11", [("e11_new_javelin",0),("e11_new_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_spear|itcf_reload_pistol, 
 #removed merch flag since there are two e11's
 ["e11", "E-11", [("e11_new",0),("e11_new_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_pistol, 
-	1000 , weight(2.6)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,pierce)|max_ammo(100)|accuracy(92),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_e11", slot_item_sound, "snd_bigblaster15_variant"),]#(play_sound,"snd_bigblaster15_variant"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1000 , weight(2.6)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,pierce)|max_ammo(100)|accuracy(92),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_e11", slot_item_sound, "snd_bigblaster15_variant"),]#(play_sound,"snd_bigblaster15_variant"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["e11_hip", "E-11", [("e11_new_javelin",0),("e11_new_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_pistol, 
-	1000 , weight(2.6)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,pierce)|max_ammo(100)|accuracy(92),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_e11_hip", slot_item_sound, "snd_bigblaster15_variant"),]#(play_sound,"snd_bigblaster15_variant"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  1000 , weight(2.6)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,pierce)|max_ammo(100)|accuracy(92),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_e11_hip", slot_item_sound, "snd_bigblaster15_variant"),]#(play_sound,"snd_bigblaster15_variant"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 #["lightsaber_blue", "Lightsaber", [("lightsaber_blue",0),("lightsaber_blueoff",ixmesh_carry)], itp_type_two_handed_wpn|itp_merchandise| itp_primary|itp_bonus_against_shield|itp_wooden_parry|itp_wooden_attack, itc_lightsaber|itcf_carry_dagger_front_left,
 # 900 , weight(0.5)|abundance(80)|difficulty(14)|spd_rtng(120) | weapon_length(115)|swing_damage(75 , pierce) | thrust_damage(75 ,  pierce),imodbits_lightsaber ],
 #["e11", "E-11", [("e11_new",0),("lightsaber_blue", ixmesh_carry)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_revolver_right|itcf_reload_musket, 
 #["e11", "E-11", [("e11_new",0),("lightsaber_blue", ixmesh_carry)], itp_type_musket|itp_two_handed|itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_sword_back,
-#	310 , weight(2)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(16)|accuracy(94),imodbits_gun,
-#	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster15"),(position_move_x, pos1,12),(position_move_y, pos1,15)])]], 	
+# 310 , weight(2)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(16)|accuracy(94),imodbits_gun,
+# [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster15"),(position_move_x, pos1,12),(position_move_y, pos1,15)])]],  
 #SW - now using itcf_throw_javelin for e11(itcf_shoot_javelin doesn't work, had to rotate the mesh as well) 
 ["e11_stun", "Stun E-11", [("e11_new_javelin",0),("e11_new_inventory",ixmesh_inventory)], itp_type_crossbow |itp_two_handed|itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_spear|itcf_reload_pistol, 
-	1000 , weight(2.6)|abundance(80)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,blunt)|max_ammo(100)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],   
+  1000 , weight(2.6)|abundance(80)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(40 ,blunt)|max_ammo(100)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],   
 ["wookiee_bowcaster", "Bowcaster", [("wookiee_bowcaster",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield|itp_knock_back|itp_crush_through,itcf_shoot_crossbow|itcf_carry_crossbow_back|itcf_reload_musket, 
-	900 , weight(7.3)|abundance(100)|difficulty(15)|spd_rtng(80) | shoot_speed(100) | thrust_damage(73 ,pierce)|max_ammo(24)|accuracy(98),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  900 , weight(7.3)|abundance(100)|difficulty(15)|spd_rtng(80) | shoot_speed(100) | thrust_damage(73 ,pierce)|max_ammo(24)|accuracy(98),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["kashyyyk_long_gun", "Kashyyyk Long Gun", [("kashyyyk_long_gun",0),("kashyyyk_long_gun_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield|itp_cant_reload_on_horseback|itp_can_knock_down|itp_can_penetrate_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_mask, 
-	2000 , weight(7.3)|abundance(70)|difficulty(15)|spd_rtng(85) | shoot_speed(170) | thrust_damage(90 ,pierce)|max_ammo(10)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,18),(position_move_y, pos1,22)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],	
+  2000 , weight(7.3)|abundance(70)|difficulty(15)|spd_rtng(85) | shoot_speed(170) | thrust_damage(90 ,pierce)|max_ammo(10)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster22"),(position_move_x, pos1,18),(position_move_y, pos1,22)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 ["tusken_rifle", "Tusken Cycler Rifle", [("tusken_rifle",0),("tusken_rifle_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	910 , weight(5.35)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(193) | thrust_damage(39 ,pierce)|max_ammo(15)|accuracy(98),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],   
+  910 , weight(5.35)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(193) | thrust_damage(39 ,pierce)|max_ammo(15)|accuracy(98),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],   
 ["geonosian_sonic_rifle", "Geonosian Sonic Rifle", [("geonosian_sonic_rifle_javelin",0),("geonosian_sonic_rifle_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_merchandise|itp_primary|itp_bonus_against_shield|itp_knock_back|itp_can_penetrate_shield|itp_ignore_gravity,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_musket, 
-	931 , weight(3.0)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(90) | thrust_damage(60 ,pierce)|max_ammo(50)|accuracy(100),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_sonicblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  931 , weight(3.0)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(90) | thrust_damage(60 ,pierce)|max_ammo(50)|accuracy(100),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_sonicblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 ["t21", "T-21", [("T21",0),("T21_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	2000 , weight(6.5)|abundance(60)|difficulty(15)|spd_rtng(80) | shoot_speed(165) | thrust_damage(75 ,pierce)|max_ammo(30)|accuracy(92),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_t21", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  2000 , weight(6.5)|abundance(60)|difficulty(15)|spd_rtng(80) | shoot_speed(165) | thrust_damage(75 ,pierce)|max_ammo(30)|accuracy(92),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_t21", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
 #["msg90", "MSG-90", [("msg90_no_dipod",0)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_sword_back|itcf_reload_musket, 440 , weight(4.0)|abundance(60)|difficulty(0)|spd_rtng(80) | shoot_speed(200) | thrust_damage(70 ,pierce)|max_ammo(6)|accuracy(98),imodbits_gun,
 # [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)])]], 
 ["senate_rifle", "Security Guard Rifle", [("senate_rifle",0),("senate_rifle_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	500 , weight(3.4)|abundance(70)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(40 ,pierce)|max_ammo(14)|accuracy(96),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  500 , weight(3.4)|abundance(70)|difficulty(0)|spd_rtng(100) | shoot_speed(170) | thrust_damage(40 ,pierce)|max_ammo(14)|accuracy(96),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 ["kisteer_1284", "KiSteer 1284", [("kisteer_1284",0),("kisteer_1284_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	130 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(120) | thrust_damage(32 ,blunt)|max_ammo(10)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  130 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(80) | shoot_speed(120) | thrust_damage(32 ,blunt)|max_ammo(10)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster01"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
 ["ion_blaster", "Ion Blaster", [("ion_blaster",0),("ion_blaster_inventory",ixmesh_inventory)], itp_type_crossbow|itp_two_handed |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_pistol, 
-	130 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(70) | shoot_speed(120) | thrust_damage(32 ,blunt)|max_ammo(10)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_ionblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]], 
+  130 , weight(2.5)|abundance(70)|difficulty(0)|spd_rtng(70) | shoot_speed(120) | thrust_damage(32 ,blunt)|max_ammo(10)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_ionblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]], 
   
 #@> Added by Swyter...
 ["heavy_repeater", "Imperial Heavy Repeater", [("HeavyRepeater",0),("HeavyRepeater_inv",ixmesh_inventory),("HeavyRepeater_carried",ixmesh_carry)], itp_type_crossbow|itp_two_handed|itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_throw_javelin|itcf_carry_quiver_back|itcf_reload_pistol,
-	1500 , weight(4.68)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(169) | thrust_damage(36 ,pierce)|max_ammo(400)|accuracy(92),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_heavy_repeater", slot_item_sound, "snd_heavyrepeater"),]#(play_sound,"snd_heavyrepeater"),(position_move_x, pos1,30),(position_move_y, pos1,30)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1500 , weight(4.68)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(169) | thrust_damage(36 ,pierce)|max_ammo(400)|accuracy(92),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_heavy_repeater", slot_item_sound, "snd_heavyrepeater"),]#(play_sound,"snd_heavyrepeater"),(position_move_x, pos1,30),(position_move_y, pos1,30)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 
 ["storm_rifle", "StormTrooper Rifle", [("uio0000_stormtrooperrifle",0),("uio0000_stormtrooperrifle_inv",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	871 , weight(3.4)|abundance(70)|difficulty(0)|spd_rtng(85) | shoot_speed(170) | thrust_damage(47 ,pierce)|max_ammo(30)|accuracy(95),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_storm_rifle", slot_item_sound, "snd_stormrifle"),]#(play_sound,"snd_stormrifle"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],  
+  871 , weight(3.4)|abundance(70)|difficulty(0)|spd_rtng(85) | shoot_speed(170) | thrust_damage(47 ,pierce)|max_ammo(30)|accuracy(95),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_storm_rifle", slot_item_sound, "snd_stormrifle"),]#(play_sound,"snd_stormrifle"),(position_move_x, pos1,6),(position_move_y, pos1,8)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],  
   
  # ONE HANDED BLASTERS (ie. pistol)
 ["dh17", "DH-17", [("DH17",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	550 , weight(1.24)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(500)|accuracy(88),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dh17", slot_item_sound, "snd_dh17"),]#(play_sound,"snd_dh17"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]],
+  550 , weight(1.24)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(500)|accuracy(88),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dh17", slot_item_sound, "snd_dh17"),]#(play_sound,"snd_dh17"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]],
 ["dh17_stun", "Stun DH-17", [("DH17",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	550 , weight(1.24)|abundance(80)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,blunt)|max_ammo(500)|accuracy(88),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]], 
+  550 , weight(1.24)|abundance(80)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,blunt)|max_ammo(500)|accuracy(88),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]], 
 
 ["se14r", "SE-14R", [("se_14r",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	410 , weight(2)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(16)|accuracy(88),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_se14r", slot_item_sound, "snd_bigblaster19"),]#(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]],	
+  410 , weight(2)|abundance(100)|difficulty(0)|spd_rtng(110) | shoot_speed(160) | thrust_damage(36 ,pierce)|max_ammo(16)|accuracy(88),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_se14r", slot_item_sound, "snd_bigblaster19"),]#(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]],  
 ["dl44a", "DL-44", [("DL44a",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	750 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(55,pierce)|max_ammo(25)|accuracy(87),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]],
+  750 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(55,pierce)|max_ammo(25)|accuracy(87),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_bigblaster19"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]],
 ["dl44a_stun", "Stun DL-44", [("DL44a",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	750 , weight(1.5)|abundance(80)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(55,blunt)|max_ammo(25)|accuracy(87),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]], 
+  750 , weight(1.5)|abundance(80)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(55,blunt)|max_ammo(25)|accuracy(87),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]], 
 ["dl44b", "Modified DL-44", [("DL44b",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	860 , weight(1.6)|abundance(70)|difficulty(0)|spd_rtng(140) | shoot_speed(160) | thrust_damage(55,pierce)|max_ammo(25)|accuracy(89),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dl44b", slot_item_sound, "snd_bigblaster19"),]#(play_sound,"snd_bigblaster19"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	)]], 
+  860 , weight(1.6)|abundance(70)|difficulty(0)|spd_rtng(140) | shoot_speed(160) | thrust_damage(55,pierce)|max_ammo(25)|accuracy(89),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dl44b", slot_item_sound, "snd_bigblaster19"),]#(play_sound,"snd_bigblaster19"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  )]], 
 #removed the carry flag from the q2 since its typically a small hidden weapon
 ["q2", "Q2", [("Q2",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_reload_pistol, 
-	300 , weight(0.51)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(24 ,pierce)|max_ammo(6)|accuracy(85),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]], 
+  300 , weight(0.51)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(24 ,pierce)|max_ammo(6)|accuracy(85),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]], 
 ["q2_stun", "Stun Q2", [("Q2",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	300 , weight(0.51)|abundance(80)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(24 ,blunt)|max_ammo(6)|accuracy(85),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]],  
+  300 , weight(0.51)|abundance(80)|difficulty(0)|spd_rtng(120) | shoot_speed(140) | thrust_damage(24 ,blunt)|max_ammo(6)|accuracy(85),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]],  
 ["elg3a", "ELG-3A", [("ELG_3A",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	500 , weight(0.51)|abundance(80)|difficulty(0)|spd_rtng(125) | shoot_speed(150) | thrust_damage(29 ,pierce)|max_ammo(100)|accuracy(88),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]], 
+  500 , weight(0.51)|abundance(80)|difficulty(0)|spd_rtng(125) | shoot_speed(150) | thrust_damage(29 ,pierce)|max_ammo(100)|accuracy(88),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]], 
 ["elg3a_stun", "Stun ELG-3A", [("ELG_3A",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	500 , weight(0.51)|abundance(60)|difficulty(0)|spd_rtng(125) | shoot_speed(150) | thrust_damage(29 ,blunt)|max_ammo(100)|accuracy(88),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]],	
+  500 , weight(0.51)|abundance(60)|difficulty(0)|spd_rtng(125) | shoot_speed(150) | thrust_damage(29 ,blunt)|max_ammo(100)|accuracy(88),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_stunblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]],  
 ["scout_trooper_pistol", "Scout Trooper Pistol", [("scout_trooper_pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	595 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(150) | thrust_damage(28 ,pierce)|max_ammo(14)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]], 
+  595 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(150) | thrust_damage(28 ,pierce)|max_ammo(14)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]], 
 ["ddc_defender", "DDC Defender", [("DDC_defender",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	347 , weight(1.17)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(24 ,pierce)|max_ammo(100)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
-	)]],  
+  347 , weight(1.17)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(24 ,pierce)|max_ammo(100)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,12),(position_move_y, pos1,15)]
+  )]],  
 ["geonosian_sonic_pistol", "Geonosian Sonic Pistol", [("geonosian_sonic_pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	772 , weight(1.5)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(150) | thrust_damage(36 ,blunt)|max_ammo(10)|accuracy(89),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_sonicblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]],   
+  772 , weight(1.5)|abundance(70)|difficulty(0)|spd_rtng(90) | shoot_speed(150) | thrust_damage(36 ,blunt)|max_ammo(10)|accuracy(89),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_sonicblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]],   
 ["dl18", "DL-18", [("dl18",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	500 , weight(1.13)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(130) | thrust_damage(22 ,pierce)|max_ammo(100)|accuracy(89),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],  
+  500 , weight(1.13)|abundance(100)|difficulty(0)|spd_rtng(120) | shoot_speed(130) | thrust_damage(22 ,pierce)|max_ammo(100)|accuracy(89),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],  
 ["westar", "Westar-34", [("westar",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1300 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(40 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_westar", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],  
+  1300 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(40 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_westar", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],  
 ["westar_stun", "Stun Westar-34", [("westar",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1300 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(40 ,blunt)|max_ammo(20)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_westar"),(position_move_x, pos1,17),(position_move_y, pos1,9)]
-	)]],    
+  1300 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(140) | thrust_damage(40 ,blunt)|max_ammo(20)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_westar"),(position_move_x, pos1,17),(position_move_y, pos1,9)]
+  )]],    
 ["ion_pistol", "Ion Pistol", [("ion_pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	800 , weight(3.1)|abundance(70)|difficulty(0)|spd_rtng(60) | shoot_speed(120) | thrust_damage(36,blunt)|max_ammo(15)|accuracy(85),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_ionblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
-	)]], 
+  800 , weight(3.1)|abundance(70)|difficulty(0)|spd_rtng(60) | shoot_speed(120) | thrust_damage(36,blunt)|max_ammo(15)|accuracy(85),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_ionblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)]
+  )]], 
 #["trandoshan_supressor", "Trandoshan Supressor", [("trandoshan_supressor",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
 ["trandoshan_supressor", "Trandoshan Supressor", [("trandoshan_supressor",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_quiver_right_vertical|itcf_reload_pistol, 
-	795 , weight(1.5)|abundance(70)|difficulty(0)|spd_rtng(110) | shoot_speed(150) | thrust_damage(32,blunt)|max_ammo(10)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_trandoshan_supressor", slot_item_sound, "snd_stunblaster"),]#(play_sound,"snd_stunblaster"),(position_move_x, pos1,10),(position_move_y, pos1,14)]
-	)]],    
+  795 , weight(1.5)|abundance(70)|difficulty(0)|spd_rtng(110) | shoot_speed(150) | thrust_damage(32,blunt)|max_ammo(10)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_trandoshan_supressor", slot_item_sound, "snd_stunblaster"),]#(play_sound,"snd_stunblaster"),(position_move_x, pos1,10),(position_move_y, pos1,14)]
+  )]],    
 ["wrist_blaster", "Wrist Mounted Blaster", [("_",0),("wrist_blaster",ixmesh_inventory)], itp_merchandise|itp_type_pistol|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_reload_pistol, 
-	500 , weight(1.3)|abundance(60)|difficulty(0)|spd_rtng(105) | shoot_speed(135) | thrust_damage(35,pierce)|max_ammo(24)|accuracy(90),imodbits_none,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,0),(position_move_y, pos1,0)]
-	)]],
+  500 , weight(1.3)|abundance(60)|difficulty(0)|spd_rtng(105) | shoot_speed(135) | thrust_damage(35,pierce)|max_ammo(24)|accuracy(90),imodbits_none,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,0),(position_move_y, pos1,0)]
+  )]],
 
 #TAS additions (blasters)
 #rifles
 ["umbaran_rifle", "Umbaran rifle", [("umbaranrifle",0),("umbaranrifle",ixmesh_inventory)], itp_merchandise|itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_crossbow|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(6.7)|abundance(30)|difficulty(0)|spd_rtng(120) | shoot_speed(170) | thrust_damage(45 ,pierce)|max_ammo(50)|accuracy(96),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(6.7)|abundance(30)|difficulty(0)|spd_rtng(120) | shoot_speed(170) | thrust_damage(45 ,pierce)|max_ammo(50)|accuracy(96),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["e5s", "E-5s Sniper Rifle", [("e5s",0),("e5s",ixmesh_inventory)], itp_merchandise|itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(3.7)|abundance(70)|difficulty(0)|spd_rtng(65) | shoot_speed(200) | thrust_damage(65 ,pierce)|max_ammo(5)|accuracy(99),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(3.7)|abundance(70)|difficulty(0)|spd_rtng(65) | shoot_speed(200) | thrust_damage(65 ,pierce)|max_ammo(5)|accuracy(99),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["piraterifle", "Ancient Blaster Rifle", [("piraterifle",0),("piraterifle",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(6.7)|abundance(20)|difficulty(0)|spd_rtng(125) | shoot_speed(175) | thrust_damage(40 ,pierce)|max_ammo(10)|accuracy(85),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(6.7)|abundance(20)|difficulty(0)|spd_rtng(125) | shoot_speed(175) | thrust_damage(40 ,pierce)|max_ammo(10)|accuracy(85),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["assassin_rifle", "Assasin_Rifle", [("hardeenrifle",0),("hardeenrifle",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(6.7)|abundance(10)|difficulty(0)|spd_rtng(60) | shoot_speed(200) | thrust_damage(99 ,pierce)|max_ammo(5)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(6.7)|abundance(10)|difficulty(0)|spd_rtng(60) | shoot_speed(200) | thrust_damage(99 ,pierce)|max_ammo(5)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["sith_blaster", "Sith_Blaster", [("sith_blaster",0),("sith_blaster",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(5.5)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(180) | thrust_damage(50 ,pierce)|max_ammo(30)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_sith_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(5.5)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(180) | thrust_damage(50 ,pierce)|max_ammo(30)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_sith_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["sith_droid_blaster", "Sith Droid Blaster", [("sith_droid_blaster",0),("sith_droid_blaster",ixmesh_inventory)], itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1300 , weight(5.0)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(180) | thrust_damage(40 ,pierce)|max_ammo(30)|accuracy(94),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_sith_droid_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  1300 , weight(5.0)|abundance(70)|difficulty(0)|spd_rtng(120) | shoot_speed(180) | thrust_damage(40 ,pierce)|max_ammo(30)|accuracy(94),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_sith_droid_blaster", slot_item_sound, "snd_laser_fire"),]#(play_sound,"snd_laser_fire"),(position_move_x, pos1,12),(position_move_y, pos1,15),]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ["havoc_rifle","Havoc Rifle", [("havoc_rifle",0)], itp_merchandise|itp_type_crossbow|itp_two_handed|itp_primary|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	1385 , weight(6)|abundance(100)|difficulty(0)|spd_rtng(93) | shoot_speed(180) | thrust_damage(63 ,pierce)|max_ammo(30)|accuracy(95),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_havoc_rifle", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-		)]],
+  1385 , weight(6)|abundance(100)|difficulty(0)|spd_rtng(93) | shoot_speed(180) | thrust_damage(63 ,pierce)|max_ammo(30)|accuracy(95),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_havoc_rifle", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+    )]],
 ["wpn_blaster_dc17m_auto", "DC-17M", [("dc17m",0),("dc17m_inv",ixmesh_inventory)], itp_type_crossbow|itp_primary|itp_merchandise|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(96),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(96),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 ### Dummy wpn_blaster_dc17m_melee
 ["wpn_blaster_dc17m_single", "DC-17M", [("dc17m",0),("dc17m_inv",ixmesh_inventory)], itp_type_crossbow|itp_primary|itp_merchandise|itp_bonus_against_shield,itcf_shoot_musket|itcf_carry_spear|itcf_reload_musket, 
-	2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(97),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
-	+#<muzzleflare system>#
-	muzzleflare_system,
-	#</muzzleflare system>#
-	)]],
+  2000 , weight(4.2)|abundance(110)|difficulty(0)|spd_rtng(164) | shoot_speed(175) | thrust_damage(37 ,pierce)|max_ammo(100)|accuracy(97),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_dc17m", slot_item_sound, "snd_bigblaster01"),]#(play_sound,"snd_bigblaster01"),(position_move_x, pos1,4),(position_move_y, pos1,5)]
+  +#<muzzleflare system>#
+  muzzleflare_system,
+  #</muzzleflare system>#
+  )]],
 
 # Pistols:
 ["westar35", "Westar-35", [("westar-35",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_westar35", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],
+  1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_westar35", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],
 ["ll-30_pistol", "LL-30 Blaster Pistol", [("LL-30",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1200 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(150) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(95),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_ll-30_pistol", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]], 
+  1200 , weight(1.5)|abundance(100)|difficulty(0)|spd_rtng(130) | shoot_speed(150) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(95),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_ll-30_pistol", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]], 
 ["ig86_e5_pistol", "IG-86_pistol", [("e5_pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_ig86_e5_pistol", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],
+  1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_ig86_e5_pistol", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],
 ["bandit_pistol", "Bandit pistol", [("bandit_pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
-	[(ti_on_weapon_attack, [(item_set_slot, "itm_westar35", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],
+  1200 , weight(1.5)|abundance(40)|difficulty(0)|spd_rtng(130) | shoot_speed(175) | thrust_damage(50 ,pierce)|max_ammo(20)|accuracy(90),imodbits_gun,
+  [(ti_on_weapon_attack, [(item_set_slot, "itm_westar35", slot_item_sound, "snd_westar"),]#(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],
 ["dc17sa", "DC-17 Side Arm", [("dc_17pistol",0)], itp_type_pistol |itp_merchandise|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 
-	500 , weight(0.8)|abundance(40)|difficulty(0)|spd_rtng(120) | shoot_speed(155) | thrust_damage(48 ,pierce)|max_ammo(30)|accuracy(93),imodbits_gun,
-	[(ti_on_weapon_attack, [(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
-	)]],
+  500 , weight(0.8)|abundance(40)|difficulty(0)|spd_rtng(120) | shoot_speed(155) | thrust_damage(48 ,pierce)|max_ammo(30)|accuracy(93),imodbits_gun,
+  [(ti_on_weapon_attack, [(play_sound,"snd_westar"),(position_move_x, pos1,7),(position_move_y, pos1,9)]
+  )]],
 
 #TAS - SWC Legacy stuff moved in ranges.
 ["princess_leia_blaster", "Princess Leia's DDC Defender", [("DDC_defender",0)], itp_type_pistol|itp_primary|itp_bonus_against_shield,itcf_shoot_pistol|itcf_carry_revolver_right|itcf_reload_pistol, 2000 , weight(1.2)|difficulty(0)|spd_rtng(150) | shoot_speed(170) | thrust_damage(30 ,pierce)|max_ammo(44)|accuracy(95),imodbits_none, [(ti_on_weapon_attack, [(play_sound,"snd_littleblaster"),(position_move_x, pos1,14),(position_move_y, pos1,18)])]],  
@@ -2264,28 +2276,28 @@ items = [
 ##Highlander begin--------------------------------------
 #  (store_current_scene,":scene"),
 #  (try_begin),
-#		(neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
-#	#@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
-#	
-#	(call_script,"script_emit_projectile",
-#	pos1,#the position from where the projectile is emitted. Usually pos1 in the item triggers
-#	100,#projectile speed in m/s when emitted
-#	0,#Damage when the projectile itself hits an agent: Isn't needed for explosives. Use 0 here.
-#	0,#bounce effect: Doesn't work, yet. Use 0 here.
-#	1,#explosive: Should the projectile explode? Make sense for explosives. ;)
-#	500, #explosion countdown. In 1/100 sec. 300 means in 3 seconds after shooting this projectile detonates (if it doesn't detonate before). Use a high number like 10000, if you don't want this feature.
-#	1000,#explosion area:	/ The damage an agent receives when the projectile detonates will be generated the following way:
-#	900,#explosion damage:	\ damage = (explosion area - distance_to_explosion) * explosion damage / explosion area
-#	"psys_projectile_fly_smoke", # particle system: which particle system should be attached to the projectile? -1 = none.
-#	4, #Unused
-#	1, #Explode on ground hit: Should the projectile detonate, if it hits the ground?
-#	-1,#Put a scene prop ID here, if you want it to follow the projectile. The scene props NEED to be placed in the scene, if it should work. -1 for no scene prop.
-#	1 #check_collision: Set it to 1 in outdoors, 0 in interiors.
-#	),
-#	
+#   (neg|is_between,":scene","scn_ship_hangar_imp","scn_space_battle"), #land battle  
+# #@->(neg|is_between,":scene","scn_ship_hangar_closed_1a","scn_space_battle"), #land battle
+# 
+# (call_script,"script_emit_projectile",
+# pos1,#the position from where the projectile is emitted. Usually pos1 in the item triggers
+# 100,#projectile speed in m/s when emitted
+# 0,#Damage when the projectile itself hits an agent: Isn't needed for explosives. Use 0 here.
+# 0,#bounce effect: Doesn't work, yet. Use 0 here.
+# 1,#explosive: Should the projectile explode? Make sense for explosives. ;)
+# 500, #explosion countdown. In 1/100 sec. 300 means in 3 seconds after shooting this projectile detonates (if it doesn't detonate before). Use a high number like 10000, if you don't want this feature.
+# 1000,#explosion area: / The damage an agent receives when the projectile detonates will be generated the following way:
+# 900,#explosion damage:  \ damage = (explosion area - distance_to_explosion) * explosion damage / explosion area
+# "psys_projectile_fly_smoke", # particle system: which particle system should be attached to the projectile? -1 = none.
+# 4, #Unused
+# 1, #Explode on ground hit: Should the projectile detonate, if it hits the ground?
+# -1,#Put a scene prop ID here, if you want it to follow the projectile. The scene props NEED to be placed in the scene, if it should work. -1 for no scene prop.
+# 1 #check_collision: Set it to 1 in outdoors, 0 in interiors.
+# ),
+# 
 #  (else_try),
-#	#ship battle
-#	(call_script,"script_emit_projectile",pos1,100,0,0,1,500,1000,900,"psys_projectile_fly_smoke",4,1,-1,0),
+# #ship battle
+# (call_script,"script_emit_projectile",pos1,100,0,0,1,500,1000,900,"psys_projectile_fly_smoke",4,1,-1,0),
 #  (try_end),
 ##Highlander end--------------------------------------
 # ])]],
@@ -2298,26 +2310,26 @@ items = [
 # Flame Rifle Start ----------------------------------------------------------------- (do not give a reload flag so it uses the crossbow reload sound effect)
 # SW - concept below from Magic Mod: Curtain of Fire - http://forums.taleworlds.net/index.php/topic,30512.msg784362.html
 ["flame_rifle","CR-24 Flame Rifle (in development)", [("cr24_flame_rifle",0),("cr24_flame_rifle_inventory",ixmesh_inventory)],itp_type_crossbow |itp_unique|itp_primary|itp_bonus_against_shield|itp_two_handed,itcf_shoot_musket|itcf_carry_spear|itcf_reload_mask, 
-	3200 , weight(4)|abundance(60)|spd_rtng(89) | shoot_speed(160) | thrust_damage(120, pierce)|max_ammo(6)|accuracy(95)|weapon_length(10),imodbits_none,
-	[(ti_on_weapon_attack, [
-						 (try_for_range,reg5,1,500),
+  3200 , weight(4)|abundance(60)|spd_rtng(89) | shoot_speed(160) | thrust_damage(120, pierce)|max_ammo(6)|accuracy(95)|weapon_length(10),imodbits_none,
+  [(ti_on_weapon_attack, [
+             (try_for_range,reg5,1,500),
                             (particle_system_burst, "psys_torch_fire", pos1, 15),
-							(position_move_y,pos1,10),
+              (position_move_y,pos1,10),
                             (copy_position,pos2,pos1),
                             (position_set_z_to_ground_level, pos2),
                             (get_distance_between_positions,":dist",pos1,pos2),
                             (lt,":dist",10),
-							(particle_system_burst, "psys_cooking_fire_1", pos1, 25),
-							(particle_system_burst, "psys_cooking_smoke", pos1, 10),
-							(play_sound,"snd_flame_fire"),
-							(get_player_agent_no, ":player_agent"),  #SW modified
+              (particle_system_burst, "psys_cooking_fire_1", pos1, 25),
+              (particle_system_burst, "psys_cooking_smoke", pos1, 10),
+              (play_sound,"snd_flame_fire"),
+              (get_player_agent_no, ":player_agent"),  #SW modified
                             (try_for_agents,":agent"),
                                (agent_get_position,pos2,":agent"),
                                (get_distance_between_positions,":dist",pos1,pos2),
                                (lt,":dist",300),
                                (agent_set_hit_points,":agent",0,0),
-                               #(agent_deliver_damage_to_agent,":agent",":agent"),	#SW modified
-							   (agent_deliver_damage_to_agent,":player_agent",":agent"),
+                               #(agent_deliver_damage_to_agent,":agent",":agent"),  #SW modified
+                 (agent_deliver_damage_to_agent,":player_agent",":agent"),
                             (end_try),
                             (scene_prop_get_instance,":instance", "spr_explosion", 0),
                             (position_copy_origin,pos2,pos1),
@@ -2329,26 +2341,26 @@ items = [
 # Concussion Rifle Start -----------------------------------------------------------------
 # SW - concept below from Magic Mod: Curtain of Fire - http://forums.taleworlds.net/index.php/topic,30512.msg784362.html
  ["concussion_rifle","W-90 Concussion Rifle (in development)", [("DLT19",0),("DLT19_inventory",ixmesh_inventory)],itp_type_crossbow |itp_unique|itp_primary|itp_bonus_against_shield|itp_two_handed,itcf_shoot_musket|itcf_carry_spear|itcf_reload_mask, 
-	3200 , weight(4)|abundance(60)|spd_rtng(89) | shoot_speed(160) | thrust_damage(100, blunt)|max_ammo(8)|weapon_length(10),imodbits_none,
+  3200 , weight(4)|abundance(60)|spd_rtng(89) | shoot_speed(160) | thrust_damage(100, blunt)|max_ammo(8)|weapon_length(10),imodbits_none,
  [(ti_on_weapon_attack, [
-						 (try_for_range,reg5,1,500),
+             (try_for_range,reg5,1,500),
                             (particle_system_burst, "psys_food_steam", pos1, 15),
                             (position_move_y,pos1,10),
                             (copy_position,pos2,pos1),
                             (position_set_z_to_ground_level, pos2),
                             (get_distance_between_positions,":dist",pos1,pos2),
                             (lt,":dist",10),
-							(particle_system_burst, "psys_gourd_piece_2", pos1, 2),
-							(play_sound,"snd_concussion_fire"),
-							(get_player_agent_no, ":player_agent"),  #SW modified
+              (particle_system_burst, "psys_gourd_piece_2", pos1, 2),
+              (play_sound,"snd_concussion_fire"),
+              (get_player_agent_no, ":player_agent"),  #SW modified
                             (try_for_agents,":agent"),
                                (agent_get_position,pos2,":agent"),
                                (get_distance_between_positions,":dist",pos1,pos2),
                                (lt,":dist",300),
                                (agent_set_hit_points,":agent",1,0),
-                               #(agent_set_hit_points,":agent",0,1),							   
-                               #(agent_deliver_damage_to_agent,":agent",":agent"),	#SW modified
-							   (agent_deliver_damage_to_agent,":player_agent",":agent"),
+                               #(agent_set_hit_points,":agent",0,1),                 
+                               #(agent_deliver_damage_to_agent,":agent",":agent"),  #SW modified
+                 (agent_deliver_damage_to_agent,":player_agent",":agent"),
                             (end_try),
                             (scene_prop_get_instance,":instance", "spr_explosion", 0),
                             (position_copy_origin,pos2,pos1),
@@ -2356,13 +2368,13 @@ items = [
                             (position_move_z,pos2,1000),
                             (prop_instance_animate_to_position,":instance",pos2,175),
                             (assign,reg5,1000),
-                          (end_try),],)]],						  
+                          (end_try),],)]],              
 #------------------------------------------------------------------------------------------
 # SW - concept below from Magic Mod: Curtain of Fire - http://forums.taleworlds.net/index.php/topic,30512.msg784362.html
 # ["medpac","Medpac", [("_",0),("life_support_pack", ixmesh_inventory)], itp_type_thrown |itp_merchandise|itp_primary ,itcf_throw_stone, 
-	# 1000 , weight(1)|abundance(90)|difficulty(0)|spd_rtng(90) | shoot_speed(30) | thrust_damage(1,  blunt)|max_ammo(1)|weapon_length(1),imodbits_none,
-	# [(ti_on_weapon_attack, [(assign,":distance",99999),
-							# (try_for_agents,":agent"),
+  # 1000 , weight(1)|abundance(90)|difficulty(0)|spd_rtng(90) | shoot_speed(30) | thrust_damage(1,  blunt)|max_ammo(1)|weapon_length(1),imodbits_none,
+  # [(ti_on_weapon_attack, [(assign,":distance",99999),
+              # (try_for_agents,":agent"),
                               # (agent_is_alive,":agent"),
                               # (agent_is_human,":agent"),
                               # (agent_get_look_position, pos2, ":agent"),
@@ -2371,13 +2383,13 @@ items = [
                               # (assign,":chosen",":agent"),
                               # (assign,":distance",":dist"),
                             # (end_try),
-							# (agent_set_hit_points,":chosen",100,0),],)]],
-# #------------------------------------------------------------------------------------------							
+              # (agent_set_hit_points,":chosen",100,0),],)]],
+# #------------------------------------------------------------------------------------------             
 # # SW - concept below from Magic Mod: Curtain of Fire - http://forums.taleworlds.net/index.php/topic,30512.msg784362.html
 # ["medpac_adv","Advanced Medpac", [("_",0),("life_support_pack", ixmesh_inventory)], itp_type_thrown |itp_merchandise|itp_primary ,itcf_throw_stone, 
-	# 4000 , weight(1)|abundance(75)|difficulty(0)|spd_rtng(90) | shoot_speed(30) | thrust_damage(1,  blunt)|max_ammo(3)|weapon_length(1),imodbits_none,
-	# [(ti_on_weapon_attack, [(assign,":distance",99999),
-						# (try_for_agents,":agent"),
+  # 4000 , weight(1)|abundance(75)|difficulty(0)|spd_rtng(90) | shoot_speed(30) | thrust_damage(1,  blunt)|max_ammo(3)|weapon_length(1),imodbits_none,
+  # [(ti_on_weapon_attack, [(assign,":distance",99999),
+            # (try_for_agents,":agent"),
                               # (agent_is_alive,":agent"),
                               # (agent_is_human,":agent"),
                               # (agent_get_look_position, pos2, ":agent"),
@@ -2386,221 +2398,221 @@ items = [
                               # (assign,":chosen",":agent"),
                               # (assign,":distance",":dist"),
                             # (end_try),
-							# (agent_set_hit_points,":chosen",100,0),],)]],
+              # (agent_set_hit_points,":chosen",100,0),],)]],
 #------------------------------------------------------------------------------------------
 # SW - concept below from Magic Mod: Curtain of Fire - http://forums.taleworlds.net/index.php/topic,30512.msg784362.html
 ["force_kill","Force Kill", [("_",0),("force_kill_inv", ixmesh_inventory)], itp_type_thrown|itp_unique|itp_two_handed|itp_primary ,itc_scimitar, 
-	6000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) | thrust_damage(100,pierce)|max_ammo(1)|weapon_length(8),imodbits_none,
-	[
-		(ti_on_weapon_attack, [(
-							 assign,":distance",99999),
+  6000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) | thrust_damage(100,pierce)|max_ammo(1)|weapon_length(8),imodbits_none,
+  [
+    (ti_on_weapon_attack, [(
+               assign,":distance",99999),
                              #(particle_system_burst, "psys_game_blood", pos1, 45), #SW modified
                              #(particle_system_burst, "psys_game_blood_2", pos1, 45), #SW modified
-							 (get_player_agent_no, ":player_agent"),
-							 (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"),
-								(agent_get_look_position, pos2, ":agent"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",":distance"),
-								(assign,":chosen",":agent"),
-								(assign,":distance",":dist"),
-								(agent_get_team  ,":team", ":chosen"),
-							 (end_try),
+               (get_player_agent_no, ":player_agent"),
+               (try_for_agents,":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"),
+                (agent_get_look_position, pos2, ":agent"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",":distance"),
+                (assign,":chosen",":agent"),
+                (assign,":distance",":dist"),
+                (agent_get_team  ,":team", ":chosen"),
+               (end_try),
                              (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"), #SW modified
-								(neq, ":agent", ":player_agent"), #SW modified
-								(neq,":agent",":chosen"),
-								(agent_get_team  ,":team2", ":agent"),
-								(neq,":team",":team2"),
-								(agent_get_position, pos2, ":agent"),
-								(agent_get_position,pos1,":chosen"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",350),
-									(position_move_z,pos2,150),
-									(particle_system_burst, "psys_game_blood", pos2,95),
-									(particle_system_burst, "psys_game_blood_2", pos2,95),
-									(play_sound,"snd_metal_hit_low_armor_high_damage"),
-									(agent_set_hit_points,":agent",0,0),
-									#(agent_deliver_damage_to_agent,":agent",":agent"), #SW modified
-									(agent_deliver_damage_to_agent,":player_agent",":agent"),
-									#SW - decrease player health
-									(store_agent_hit_points,":hp",":player_agent",1),
-									(store_random_in_range, ":random", 3, 6),
-									(val_sub,":hp",":random"),
-									(try_begin),
-										(le, ":hp", 0),
-										(agent_set_hit_points,":player_agent",0,0),
-									(else_try),
-										(agent_set_hit_points,":player_agent",":hp",1),
-									(try_end),
-									(agent_deliver_damage_to_agent,":player_agent",":player_agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"), #SW modified
+                (neq, ":agent", ":player_agent"), #SW modified
+                (neq,":agent",":chosen"),
+                (agent_get_team  ,":team2", ":agent"),
+                (neq,":team",":team2"),
+                (agent_get_position, pos2, ":agent"),
+                (agent_get_position,pos1,":chosen"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",350),
+                  (position_move_z,pos2,150),
+                  (particle_system_burst, "psys_game_blood", pos2,95),
+                  (particle_system_burst, "psys_game_blood_2", pos2,95),
+                  (play_sound,"snd_metal_hit_low_armor_high_damage"),
+                  (agent_set_hit_points,":agent",0,0),
+                  #(agent_deliver_damage_to_agent,":agent",":agent"), #SW modified
+                  (agent_deliver_damage_to_agent,":player_agent",":agent"),
+                  #SW - decrease player health
+                  (store_agent_hit_points,":hp",":player_agent",1),
+                  (store_random_in_range, ":random", 3, 6),
+                  (val_sub,":hp",":random"),
+                  (try_begin),
+                    (le, ":hp", 0),
+                    (agent_set_hit_points,":player_agent",0,0),
+                  (else_try),
+                    (agent_set_hit_points,":player_agent",":hp",1),
+                  (try_end),
+                  (agent_deliver_damage_to_agent,":player_agent",":player_agent"),
                               (end_try),
-					],)]],
+          ],)]],
 #------------------------------------------------------------------------------------------
 ["force_choke","Force Choke", [("_",0),("force_kill_inv", ixmesh_inventory)], itp_type_thrown|itp_unique|itp_two_handed|itp_primary ,itc_scimitar, 
-	5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
-	[
-		(ti_on_weapon_attack, [
-					(
-							assign,":distance",99999),
+  5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
+  [
+    (ti_on_weapon_attack, [
+          (
+              assign,":distance",99999),
                             #(particle_system_burst, "psys_game_blood", pos1, 45), #SW modified
                             #(particle_system_burst, "psys_game_blood_2", pos1, 45), #SW modified
-							(get_player_agent_no, ":player_agent"),
-							(try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"),
-								(agent_get_look_position, pos2, ":agent"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",":distance"),
-								(assign,":chosen",":agent"),
-								(assign,":distance",":dist"),
-								(agent_get_team  ,":team", ":chosen"),
-							(end_try),
+              (get_player_agent_no, ":player_agent"),
+              (try_for_agents,":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"),
+                (agent_get_look_position, pos2, ":agent"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",":distance"),
+                (assign,":chosen",":agent"),
+                (assign,":distance",":dist"),
+                (agent_get_team  ,":team", ":chosen"),
+              (end_try),
                             (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"), #SW modified
-								(neq, ":agent", ":player_agent"), #SW modified
-								(neq,":agent",":chosen"),
-								(agent_get_team  ,":team2", ":agent"),
-								(neq,":team",":team2"),
-								(agent_get_position, pos2, ":agent"),
-								(agent_get_position,pos1,":chosen"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",500),	#SW - increased distance from 350
-								#(position_move_z,pos2,150),
-								#(particle_system_burst, "psys_game_blood", pos2,95),
-								#(particle_system_burst, "psys_game_blood_2", pos2,95),
-								#(play_sound,"snd_metal_hit_low_armor_high_damage"),
-								#SW - modified to knock down agents
-								(agent_play_sound,":player_agent","snd_force_push"),								
-								(store_random_in_range, ":rand", 0, 100),
-								(try_begin),
-									(lt, ":rand", 35),
-									#(agent_set_animation, ":agent", "anim_force_unsuccessful"),
-									(agent_set_animation, ":agent", "anim_force_choke"),
-									(store_random_in_range, ":hp_loss", 4, 6),
-								(else_try),
-									#(agent_set_animation, ":agent", "anim_force_crouch"),
-									(agent_set_animation, ":agent", "anim_force_choke"),
-									(store_random_in_range, ":hp_loss", 6, 10),
-								(try_end),								
-								(store_agent_hit_points,":hp",":agent",1),
-								(val_sub,":hp",":hp_loss"),
-								(agent_set_hit_points,":agent",":hp",1),
-								(agent_deliver_damage_to_agent,":player_agent",":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"), #SW modified
+                (neq, ":agent", ":player_agent"), #SW modified
+                (neq,":agent",":chosen"),
+                (agent_get_team  ,":team2", ":agent"),
+                (neq,":team",":team2"),
+                (agent_get_position, pos2, ":agent"),
+                (agent_get_position,pos1,":chosen"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",500), #SW - increased distance from 350
+                #(position_move_z,pos2,150),
+                #(particle_system_burst, "psys_game_blood", pos2,95),
+                #(particle_system_burst, "psys_game_blood_2", pos2,95),
+                #(play_sound,"snd_metal_hit_low_armor_high_damage"),
+                #SW - modified to knock down agents
+                (agent_play_sound,":player_agent","snd_force_push"),                
+                (store_random_in_range, ":rand", 0, 100),
+                (try_begin),
+                  (lt, ":rand", 35),
+                  #(agent_set_animation, ":agent", "anim_force_unsuccessful"),
+                  (agent_set_animation, ":agent", "anim_force_choke"),
+                  (store_random_in_range, ":hp_loss", 4, 6),
+                (else_try),
+                  #(agent_set_animation, ":agent", "anim_force_crouch"),
+                  (agent_set_animation, ":agent", "anim_force_choke"),
+                  (store_random_in_range, ":hp_loss", 6, 10),
+                (try_end),                
+                (store_agent_hit_points,":hp",":agent",1),
+                (val_sub,":hp",":hp_loss"),
+                (agent_set_hit_points,":agent",":hp",1),
+                (agent_deliver_damage_to_agent,":player_agent",":agent"),
                               (end_try),
-					],)]],
+          ],)]],
 #------------------------------------------------------------------------------------------------------------------------------------------
 ["force_knockdown","Force Knockdown", [("_",0),("force_stun_inv", ixmesh_inventory)], itp_type_thrown|itp_unique|itp_two_handed|itp_primary ,itc_scimitar, 
-	5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
-	[
-		(ti_on_weapon_attack, [
-					(
-							assign,":distance",99999),
+  5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
+  [
+    (ti_on_weapon_attack, [
+          (
+              assign,":distance",99999),
                             #(particle_system_burst, "psys_game_blood", pos1, 45), #SW modified
                             #(particle_system_burst, "psys_game_blood_2", pos1, 45), #SW modified
-							(get_player_agent_no, ":player_agent"),
-							(try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"),
-								(agent_get_look_position, pos2, ":agent"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",":distance"),
-								(assign,":chosen",":agent"),
-								(assign,":distance",":dist"),
-								(agent_get_team  ,":team", ":chosen"),
-							(end_try),
+              (get_player_agent_no, ":player_agent"),
+              (try_for_agents,":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"),
+                (agent_get_look_position, pos2, ":agent"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",":distance"),
+                (assign,":chosen",":agent"),
+                (assign,":distance",":dist"),
+                (agent_get_team  ,":team", ":chosen"),
+              (end_try),
                             (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"), #SW modified
-								(neq, ":agent", ":player_agent"), #SW modified
-								(neq,":agent",":chosen"),
-								(agent_get_team  ,":team2", ":agent"),
-								(neq,":team",":team2"),
-								(agent_get_position, pos2, ":agent"),
-								(agent_get_position,pos1,":chosen"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",500),	#SW - increased distance from 350
-								#(position_move_z,pos2,150),
-								#(particle_system_burst, "psys_game_blood", pos2,95),
-								#(particle_system_burst, "psys_game_blood_2", pos2,95),
-								#(play_sound,"snd_metal_hit_low_armor_high_damage"),
-								#SW - modified to knock down agents
-								(agent_play_sound,":player_agent","snd_force_push"),								
-								(store_random_in_range, ":rand", 0, 100),
-								(try_begin),
-									(lt, ":rand", 35),
-									#(agent_set_animation, ":agent", "anim_force_unsuccessful"),
-									(agent_set_animation, ":agent", "anim_force_knocked"),
-									(store_random_in_range, ":hp_loss", 4, 6),
-								(else_try),
-									#(agent_set_animation, ":agent", "anim_force_crouch"),
-									(agent_set_animation, ":agent", "anim_force_knocked"),
-									(store_random_in_range, ":hp_loss", 6, 10),
-								(try_end),								
-								(store_agent_hit_points,":hp",":agent",1),
-								(val_sub,":hp",":hp_loss"),
-								(agent_set_hit_points,":agent",":hp",1),
-								(agent_deliver_damage_to_agent,":player_agent",":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"), #SW modified
+                (neq, ":agent", ":player_agent"), #SW modified
+                (neq,":agent",":chosen"),
+                (agent_get_team  ,":team2", ":agent"),
+                (neq,":team",":team2"),
+                (agent_get_position, pos2, ":agent"),
+                (agent_get_position,pos1,":chosen"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",500), #SW - increased distance from 350
+                #(position_move_z,pos2,150),
+                #(particle_system_burst, "psys_game_blood", pos2,95),
+                #(particle_system_burst, "psys_game_blood_2", pos2,95),
+                #(play_sound,"snd_metal_hit_low_armor_high_damage"),
+                #SW - modified to knock down agents
+                (agent_play_sound,":player_agent","snd_force_push"),                
+                (store_random_in_range, ":rand", 0, 100),
+                (try_begin),
+                  (lt, ":rand", 35),
+                  #(agent_set_animation, ":agent", "anim_force_unsuccessful"),
+                  (agent_set_animation, ":agent", "anim_force_knocked"),
+                  (store_random_in_range, ":hp_loss", 4, 6),
+                (else_try),
+                  #(agent_set_animation, ":agent", "anim_force_crouch"),
+                  (agent_set_animation, ":agent", "anim_force_knocked"),
+                  (store_random_in_range, ":hp_loss", 6, 10),
+                (try_end),                
+                (store_agent_hit_points,":hp",":agent",1),
+                (val_sub,":hp",":hp_loss"),
+                (agent_set_hit_points,":agent",":hp",1),
+                (agent_deliver_damage_to_agent,":player_agent",":agent"),
                               (end_try),
-					],)]],
+          ],)]],
 
 #------------------------------------------------------------------------------------------------------------------------------------------
 ["force_stun","Force Stun", [("_",0),("force_stun_inv", ixmesh_inventory)], itp_type_thrown|itp_unique|itp_two_handed|itp_primary ,itc_force_power, 
-	5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
-	[
-		(ti_on_weapon_attack, [
-					(
-							assign,":distance",99999),
+  5000 , weight(0.1)|abundance(60)|difficulty(0)|spd_rtng(50) | shoot_speed(5) |thrust_damage(15,blunt)|max_ammo(1)|weapon_length(8),imodbits_none,
+  [
+    (ti_on_weapon_attack, [
+          (
+              assign,":distance",99999),
                             #(particle_system_burst, "psys_game_blood", pos1, 45), #SW modified
                             #(particle_system_burst, "psys_game_blood_2", pos1, 45), #SW modified
-							(get_player_agent_no, ":player_agent"),
-							(try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"),
-								(agent_get_look_position, pos2, ":agent"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",":distance"),
-								(assign,":chosen",":agent"),
-								(assign,":distance",":dist"),
-								(agent_get_team  ,":team", ":chosen"),
-							(end_try),
+              (get_player_agent_no, ":player_agent"),
+              (try_for_agents,":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"),
+                (agent_get_look_position, pos2, ":agent"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",":distance"),
+                (assign,":chosen",":agent"),
+                (assign,":distance",":dist"),
+                (agent_get_team  ,":team", ":chosen"),
+              (end_try),
                             (try_for_agents,":agent"),
-								(agent_is_alive,":agent"),
-								(agent_is_human,":agent"), #SW modified
-								(neq, ":agent", ":player_agent"), #SW modified
-								(neq,":agent",":chosen"),
-								(agent_get_team  ,":team2", ":agent"),
-								(neq,":team",":team2"),
-								(agent_get_position, pos2, ":agent"),
-								(agent_get_position,pos1,":chosen"),
-								(get_distance_between_positions,":dist",pos1,pos2),
-								(lt,":dist",500),	#SW - increased distance from 350
-								#(position_move_z,pos2,150),
-								#(particle_system_burst, "psys_game_blood", pos2,95),
-								#(particle_system_burst, "psys_game_blood_2", pos2,95),
-								#(play_sound,"snd_metal_hit_low_armor_high_damage"),
-								#SW - modified to knock down agents
-								(agent_play_sound,":player_agent","snd_force_push"),								
-								(store_random_in_range, ":rand", 0, 100),
-								(try_begin),
-									(lt, ":rand", 35),
-									(agent_set_animation, ":agent", "anim_force_mini_stun"),
-									(store_random_in_range, ":hp_loss", 4, 6),
-								(else_try),
-									(agent_set_animation, ":agent", "anim_force_stun"),
-									(store_random_in_range, ":hp_loss", 6, 10),
-								(try_end),								
-								(store_agent_hit_points,":hp",":agent",1),
-								(val_sub,":hp",":hp_loss"),
-								(agent_set_hit_points,":agent",":hp",1),
-								(agent_deliver_damage_to_agent,":player_agent",":agent"),
+                (agent_is_alive,":agent"),
+                (agent_is_human,":agent"), #SW modified
+                (neq, ":agent", ":player_agent"), #SW modified
+                (neq,":agent",":chosen"),
+                (agent_get_team  ,":team2", ":agent"),
+                (neq,":team",":team2"),
+                (agent_get_position, pos2, ":agent"),
+                (agent_get_position,pos1,":chosen"),
+                (get_distance_between_positions,":dist",pos1,pos2),
+                (lt,":dist",500), #SW - increased distance from 350
+                #(position_move_z,pos2,150),
+                #(particle_system_burst, "psys_game_blood", pos2,95),
+                #(particle_system_burst, "psys_game_blood_2", pos2,95),
+                #(play_sound,"snd_metal_hit_low_armor_high_damage"),
+                #SW - modified to knock down agents
+                (agent_play_sound,":player_agent","snd_force_push"),                
+                (store_random_in_range, ":rand", 0, 100),
+                (try_begin),
+                  (lt, ":rand", 35),
+                  (agent_set_animation, ":agent", "anim_force_mini_stun"),
+                  (store_random_in_range, ":hp_loss", 4, 6),
+                (else_try),
+                  (agent_set_animation, ":agent", "anim_force_stun"),
+                  (store_random_in_range, ":hp_loss", 6, 10),
+                (try_end),                
+                (store_agent_hit_points,":hp",":agent",1),
+                (val_sub,":hp",":hp_loss"),
+                (agent_set_hit_points,":agent",":hp",1),
+                (agent_deliver_damage_to_agent,":player_agent",":agent"),
                               (end_try),
-					],)]],
+          ],)]],
 #------------------------------------------------------------------------------------------------------------------------------------------
-							
+              
 # SWC - TAS Mounts - Horses
 ## Horses begin:
 ["horses_begin","<dummy>", [("_",0)], 0,0,0,0,imodbits_none],
@@ -2630,9 +2642,9 @@ items = [
 
 
 
-	#################
-	# Autoloot: Need this dummy item here to mark end of file
-	#######
+  #################
+  # Autoloot: Need this dummy item here to mark end of file
+  #######
 ["items_end","<dummy>", [("_",0)], 0,0,0,0,imodbits_none],
 
 ]
