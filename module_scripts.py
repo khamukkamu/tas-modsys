@@ -16940,6 +16940,7 @@ scripts = [
           (team_set_order_position, ":team_no", grc_cavalry, pos1),
         (try_end),
       (try_end),
+      (call_script, "script_player_order_formations", ":order"),  #for formations
       (set_show_messages, 1),
   ]),
   
@@ -36295,6 +36296,7 @@ if is_a_wb_script==1:
         (assign, ":size_minimum", formation_min_foot_troops),
         (try_begin),
           (this_or_next|eq, ":fformation", formation_ranks),
+          (this_or_next|eq, ":fformation", formation_shield),
           (eq, ":fformation", formation_default),
           (assign, ":valid_type", 1),
         (try_end),

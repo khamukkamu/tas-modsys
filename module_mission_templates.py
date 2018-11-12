@@ -1513,7 +1513,7 @@ kham_lightsaber_deflection_ai,
       #SWY - trigger to make unique agents behavior - custom scripting
       (0.352, 0, ti_once, [], [(call_script,"script_swy_unique_units_stuff",-1)]),
       common_gate_system,
-    ]+common_helmet_view + kham_iron_sights_triggers,
+    ]+common_helmet_view + kham_iron_sights_triggers + utility_triggers + extended_battle_menu + common_division_data + division_order_processing + real_deployment + formations_triggers + AI_triggers,
   ),
 
 #########################################################################################################################
