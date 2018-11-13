@@ -4201,8 +4201,6 @@ game_menus += [
        [(jump_to_menu, "mnu_setup_keys"),
         ]
        ),
-
-      ("formation_mod_option",[],"Formations mod options.", [(start_presentation, "prsnt_formation_mod_option")]),
     
       ("back_to_camp",[],"Back to camp menu.",
        [(jump_to_menu, "mnu_camp"),

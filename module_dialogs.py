@@ -480,7 +480,7 @@ dialogs = [
       (else_try),
         (assign, ":waypoints", 3),
       (try_end),
-      (call_script, "script_freelancer_mission_scout_waypoints", ":waypoints")]],
+      (call_script, "script_cf_freelancer_mission_scout_waypoints", ":waypoints")]],
   [anyone|plyr, "freelancer_lord_mission_told_scout_waypoints", [], "I cannot accept this mission.", "freelancer_lord_mission_told_scout_waypoints_rejected",[]],
   
   [anyone,"freelancer_lord_mission_told_scout_waypoints_accepted",
