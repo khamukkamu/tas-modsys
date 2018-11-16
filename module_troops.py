@@ -293,9 +293,6 @@ troops = [
    #to release
 [],
     str_6|agi_6|int_6|cha_6,wp_one_handed(30)|wp_two_handed(30)|wp_polearm(30)|wp_crossbow(35)|wp_throwing(30)|wp_firearm(45),0,swc_brunette_m_hero],
-  ["multiplayer_profile_troop_male","multiplayer_profile_troop_male","multiplayer_profile_troop_male", tf_hero|tf_guarantee_all_armor, 0, 0,fac_commoners,
-   [itm_leather_jerkin, itm_leather_boots],
-   0, 0, 0, 0x000000018000000136db6db6db6db6db00000000001db6db0000000000000000],
   ["temp_troop","Temp Troop","Temp Troop",tf_hero,no_scene,reserved,fac_commoners,[],def_attrib,0,knows_common|knows_inventory_management_10,0],
   ["game","Game","Game",tf_hero,no_scene,reserved,fac_commoners,[],def_attrib,0,knows_common,0],
   ["unarmed_troop","Unarmed Troop","Unarmed Troops",tf_hero,no_scene,reserved,fac_commoners,[itm_laser_bolts_red_pistol,itm_dh17],def_attrib|str_14,0,knows_common|knows_power_draw_2,0],
@@ -3692,24 +3689,20 @@ troops = [
 # ],
 
 #SW - Darksider troop tree
-["sith_hopeful","Darksider","Darksiders",
+["sith_hopeful","Jedi Hopeful","Jedi Hopefuls",
   tf_guarantee_boots|tf_guarantee_all_armor|tf_guarantee_ranged,
   no_scene,reserved,fac_neutral,
   [
-    #itm_tunic_blue,
-    #itm_tunic_blue,
-    itm_black_boots,
-    #itm_black_boots,
-    #itm_leather_boots2,
+    itm_leather_boots2,
     itm_black_gloves,
-    itm_sith_marauder_robe_a,
-    itm_sith_marauder_robe_b,
-    itm_sith_marauder_robe_c,
-    itm_sith_marauder_robe_d,
-    itm_training_lightsaber_red_1h,
-    itm_training_lightsaber_red_1h,
-    itm_laser_bolts_red_pistol,
-    itm_laser_bolts_red_pistol,
+    itm_jedi_clothes_robes_tan,
+    itm_jedi_clothes_robes_black,
+    itm_jedi_clothes_robes_grey,
+    itm_jedi_clothes_robes_brown,
+    itm_training_lightsaber_blue_1h,
+    itm_training_lightsaber_green_1h,
+    itm_laser_bolts_green_pistol,
+    itm_laser_bolts_green_pistol,
     itm_q2,
     itm_q2,
     itm_dl44a,
@@ -3718,7 +3711,7 @@ troops = [
   def_attrib_force_1|level(10),
   wp(100)|wp_archery(120),
   starwars_skills_force_1,
-  sw_imperial_face_1, sw_imperial_face_2
+  sw_rebel_face_1, sw_rebel_face_2
 ],
 ["sith_acolyte","Dark Acolyte","Dark Acolytes",
   tf_guarantee_boots|tf_guarantee_all_armor,
@@ -4475,20 +4468,24 @@ troops = [
   sw_rebel_face_1, sw_rebel_face_2
 ],
 #SW - jedi upgrade tree
-["jedi_hopeful","Jedi Hopeful","Jedi Hopefuls",
+["jedi_hopeful","Darksider","Darksiders",
   tf_guarantee_boots|tf_guarantee_all_armor|tf_guarantee_ranged,
   no_scene,reserved,fac_neutral,
   [
-    itm_leather_boots2,
+    #itm_tunic_blue,
+    #itm_tunic_blue,
+    itm_black_boots,
+    #itm_black_boots,
+    #itm_leather_boots2,
     itm_black_gloves,
-    itm_jedi_clothes_robes_tan,
-    itm_jedi_clothes_robes_black,
-    itm_jedi_clothes_robes_grey,
-    itm_jedi_clothes_robes_brown,
-    itm_training_lightsaber_blue_1h,
-    itm_training_lightsaber_green_1h,
-    itm_laser_bolts_green_pistol,
-    itm_laser_bolts_green_pistol,
+    itm_sith_marauder_robe_a,
+    itm_sith_marauder_robe_b,
+    itm_sith_marauder_robe_c,
+    itm_sith_marauder_robe_d,
+    itm_training_lightsaber_red_1h,
+    itm_training_lightsaber_red_1h,
+    itm_laser_bolts_red_pistol,
+    itm_laser_bolts_red_pistol,
     itm_q2,
     itm_q2,
     itm_dl44a,
@@ -4497,7 +4494,7 @@ troops = [
   def_attrib_force_1|level(10),
   wp(100)|wp_archery(120),
   starwars_skills_force_1,
-  sw_rebel_face_1, sw_rebel_face_2
+  sw_imperial_face_1, sw_imperial_face_2
 ],
 ["jedi_initiate","Jedi Initiate","Jedi Initiates",
   tf_guarantee_boots|tf_guarantee_all_armor,
@@ -6689,12 +6686,12 @@ def_attrib_4|level(16),wp(80),starwars_skills_2,sw_hutt_face_1, sw_hutt_face_2],
 #SW - Galactic Republic Knights
 # don't adjust skills much because it may lead to game in-balance?
 #knight skill 5 - Jedi Masters
-["knight_1_1", "Jedi Master Obi-wan Kenobi", "knight_1_1", tf_hero, 0, reserved,fac_galacticempire, [itm_obi_wan_head,itm_phase_ii_armor_worn,itm_jedi_master_cloak,itm_obi_wan_lightsaber,itm_black_gloves,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo],knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5|knows_power_draw_9, sw_imperial_face_1, sw_imperial_face_2],
-["knight_1_2", "Jedi Master Anakin Skywalker", "knight_1_2", tf_hero, 0, reserved,fac_galacticempire, [itm_anakin_head,itm_anakin_body,itm_black_boots,itm_lightsaber_blue], knight_attrib_5,wp(220),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
-["knight_1_3", "Jedi Master Mace Windu", "knight_1_3", tf_hero, 0, reserved,fac_galacticempire, [itm_mace_head,itm_jedi_clothes_robesmasterhd_grey,itm_black_boots,itm_lightsaber_purple],knight_attrib_5,wp(220),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
-["knight_1_4", "Jedi Master Yoda", "knight_1_4", tf_hero, 0, reserved,fac_galacticempire, [itm_yoda_armor,itm_yoda_speeder,itm_yoda_lightsaber,itm_transparent_head,itm_transparent_hands,itm_transparent_feet,itm_force_protect,itm_force_throw_lightsaber_green,itm_force_power_ls_4,itm_force_push_ammo], knight_attrib_5,wp(220),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
-["knight_1_5", "Jedi Master Aayla Secura", "knight_1_5", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_speeder_fc20,itm_aayla_head,itm_jedi_clothes_robes_grey,itm_black_boots,itm_lightsaber_purple,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo],knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5|knows_power_draw_8, 0x000000018000500536db6d86026db6db00000000001db6db0000000000000000],
-["knight_1_6", "Jedi Master Luminara Unduli", "knight_1_6", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_speeder_fc20,itm_unduli_head,itm_undulirobes,itm_black_boots,itm_lightsaber_green,itm_force_power_ds_4,itm_force_lightning_ammo,itm_force_shield,itm_force_shield], knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5|knows_power_draw_8, sw_sith_face_1, sw_sith_face_2],
+["knight_1_1", "Jedi Master Obi-wan Kenobi", "knight_1_1", tf_hero, 0, reserved,fac_galacticempire, [itm_obi_wan_head,itm_phase_ii_armor_worn,itm_jedi_master_cloak,itm_obi_wan_lightsaber,itm_black_gloves,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo],knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5|knows_power_draw_9, sw_imperial_face_1, sw_imperial_face_2],
+["knight_1_2", "Jedi Master Anakin Skywalker", "knight_1_2", tf_hero, 0, reserved,fac_galacticempire, [itm_anakin_head,itm_anakin_body,itm_black_boots,itm_lightsaber_blue], knight_attrib_5,wp(400),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
+["knight_1_3", "Jedi Master Mace Windu", "knight_1_3", tf_hero, 0, reserved,fac_galacticempire, [itm_mace_head,itm_jedi_clothes_robesmasterhd_grey,itm_black_boots,itm_lightsaber_purple],knight_attrib_5,wp(400),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
+["knight_1_4", "Jedi Master Yoda", "knight_1_4", tf_hero, 0, reserved,fac_galacticempire, [itm_yoda_armor,itm_yoda_speeder,itm_yoda_lightsaber,itm_transparent_head,itm_transparent_hands,itm_transparent_feet,itm_force_protect,itm_force_throw_lightsaber_green,itm_force_power_ls_4,itm_force_push_ammo], knight_attrib_5,wp(400),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
+["knight_1_5", "Jedi Master Aayla Secura", "knight_1_5", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_speeder_fc20,itm_aayla_head,itm_jedi_clothes_robes_grey,itm_black_boots,itm_lightsaber_purple,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo],knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5|knows_power_draw_8, 0x000000018000500536db6d86026db6db00000000001db6db0000000000000000],
+["knight_1_6", "Jedi Master Luminara Unduli", "knight_1_6", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_speeder_fc20,itm_unduli_head,itm_undulirobes,itm_black_boots,itm_lightsaber_green,itm_force_power_ds_4,itm_force_lightning_ammo,itm_force_shield,itm_force_shield], knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5|knows_power_draw_8, sw_sith_face_1, sw_sith_face_2],
 ["knight_1_7", "Jedi Master Ima_Gun-Di", "knight_1_7", tf_hero, 0, reserved,fac_galacticempire, [itm_nikto_head_helmet_a,itm_jedi_clothes_robesmasterhd_grey,itm_black_boots,itm_lightsaber_blue,itm_force_protect,itm_force_power_ds_4], knight_attrib_5,wp(220),starwars_knight_skills_5, sw_imperial_face_1, sw_imperial_face_2],
 ["knight_1_8", "Jedi Master Bolla Ropal", "knight_1_8", tf_rodian|tf_hero, 0, reserved,fac_galacticempire, [itm_jedi_clothes_robesmaster_grey,itm_black_gloves,itm_black_boots,itm_lightsaber_blue,itm_force_protect,itm_force_power_ds_4],knight_attrib_5,wp(220),starwars_knight_skills_5, 0x0000000c3f01400436db6db6db6db6db00000000001db6db0000000000000000],
 #knight skill 4 - Jedis
@@ -6716,31 +6713,31 @@ def_attrib_4|level(16),wp(80),starwars_skills_2,sw_hutt_face_1, sw_hutt_face_2],
 ["knight_1_23", "Commander Wollfe", "knight_1_3", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_wolffe,itm_phase_ii_armor_wolffe,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_3,wp(160),starwars_knight_skills_3, sw_imperial_face_1, sw_imperial_face_2],   
 ["knight_1_24", "Commander Thorn", "knight_1_4", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_thorn,itm_phase_ii_armor_thorn,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_3,wp(160),starwars_knight_skills_3, sw_imperial_face_1, sw_imperial_face_2],   
 #knight skill 2 - Unnamed Clone Commanders
-["knight_1_25", "Quinlan Vos", "knight_1_5", tf_hero, 0, reserved,fac_galacticempire, [itm_jedi_clothes_robes_grey,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_26", "Aubrie Win", "knight_1_6", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_jedi_clothes_robes_grey,itm_leather_boots2,itm_black_gloves,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, 0x000000000a0010032d5ab4a56d918acb00000000001dc9550000000000000000],   
-["knight_1_27", "Commander (Black)", "knight_1_7", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_rep_helm_phase2_black,itm_rep_arm_phase2_black,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_28", "Commander (Camo)", "knight_1_8", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_rep_helm_phase2_camo,itm_rep_arm_phase2_camo,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_29", "Commander (212th)", "knight_1_9", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_212,itm_phase_ii_armor_212,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_30", "Commander (442nd)", "knight_1_0", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_442,itm_phase_ii_armor_442,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_31", "Commander (501st)", "knight_1_1", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_501,itm_phase_ii_armor_501,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_32", "Commander (Wolfpack)", "knight_1_2", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_wolf,itm_phase_ii_armor_wolf,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(160),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_25", "Quinlan Vos", "knight_1_5", tf_hero, 0, reserved,fac_galacticempire, [itm_jedi_clothes_robes_grey,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_26", "Aubrie Win", "knight_1_6", tf_female|tf_hero, 0, reserved,fac_galacticempire, [itm_jedi_clothes_robes_grey,itm_leather_boots2,itm_black_gloves,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, 0x000000000a0010032d5ab4a56d918acb00000000001dc9550000000000000000],   
+["knight_1_27", "Commander (Black)", "knight_1_7", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_rep_helm_phase2_black,itm_rep_arm_phase2_black,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_28", "Commander (Camo)", "knight_1_8", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_rep_helm_phase2_camo,itm_rep_arm_phase2_camo,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_29", "Commander (212th)", "knight_1_9", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_212,itm_phase_ii_armor_212,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_30", "Commander (442nd)", "knight_1_0", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_442,itm_phase_ii_armor_442,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_31", "Commander (501st)", "knight_1_1", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_501,itm_phase_ii_armor_501,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_32", "Commander (Wolfpack)", "knight_1_2", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_phase_ii_helmet_wolf,itm_phase_ii_armor_wolf,itm_wpn_blaster_dc17m_auto,itm_laser_bolts_red_rifle,itm_vibro_blade4],knight_attrib_2,wp(400),starwars_knight_skills_2, sw_imperial_face_1, sw_imperial_face_2],   
 #knight skill 1
-["knight_1_33", "Commander Gen 1", "knight_1_3", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_34", "Commander Gen 2", "knight_1_4", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_35", "Commander Gen 3", "knight_1_5", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_36", "Commander Gen 4", "knight_1_6", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_37", "Commander Gen 5", "knight_1_7", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_38", "Commander Gen 6", "knight_1_8", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_39", "Commander Gen 7", "knight_1_9", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_40", "Commander Gen 8", "knight_1_0", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_41", "Commander Gen 9", "knight_1_1", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_42", "Commander Gen 10", "knight_1_2", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_43", "Commander Gen 11", "knight_1_3", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_44", "Commander Gen 12", "knight_1_4", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
-["knight_1_45", "Commander Gen 13", "knight_1_5", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(140),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_33", "Commander Gen 1", "knight_1_3", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_34", "Commander Gen 2", "knight_1_4", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_35", "Commander Gen 3", "knight_1_5", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_36", "Commander Gen 4", "knight_1_6", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_37", "Commander Gen 5", "knight_1_7", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_38", "Commander Gen 6", "knight_1_8", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_39", "Commander Gen 7", "knight_1_9", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_40", "Commander Gen 8", "knight_1_0", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_41", "Commander Gen 9", "knight_1_1", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_42", "Commander Gen 10", "knight_1_2", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_43", "Commander Gen 11", "knight_1_3", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_44", "Commander Gen 12", "knight_1_4", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
+["knight_1_45", "Commander Gen 13", "knight_1_5", tf_tusken|tf_hero, 0, reserved,fac_galacticempire, [itm_clone_trooper_gloves_white,itm_phase_ii_helmet_worn,itm_phase_ii_armor_worn,itm_wpn_blaster_dc17m_auto,itm_vibro_blade4],knight_attrib_1,wp(400),starwars_knight_skills_1, sw_imperial_face_1, sw_imperial_face_2],   
 
 ## SWY 0.9.0.3 Added Taris Commander, an old sith
-["knight_taris","Joruus C'baoth","knight_2_1",tf_hero,0,reserved,fac_galacticempire,[itm_transparent_helmet_armor,itm_force_power_ls_4,itm_sith_master_robe_unique,itm_leather_boots,itm_joruus_lightsaber,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo,itm_force_throw_lightsaber_red],knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5|knows_power_draw_9,0x0000000fff0073882f1c6c3bde0db6db00000000001dbaf80000000000000000],
+["knight_taris","Joruus C'baoth","knight_2_1",tf_hero,0,reserved,fac_galacticempire,[itm_transparent_helmet_armor,itm_force_power_ls_4,itm_sith_master_robe_unique,itm_leather_boots,itm_joruus_lightsaber,itm_force_protect,itm_force_power_ds_4,itm_force_lightning_ammo,itm_force_throw_lightsaber_red],knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5|knows_power_draw_9,0x0000000fff0073882f1c6c3bde0db6db00000000001dbaf80000000000000000],
 
 
 # SW - switched 10 knights to be hutt cartel
@@ -6759,15 +6756,15 @@ def_attrib_4|level(16),wp(80),starwars_skills_2,sw_hutt_face_1, sw_hutt_face_2],
 #SW - Confederation of Indepedent Systems Knights
 # don't adjust skills much because it may lead to game in-balance?
 #knight skill 5
-["knight_2_1","Nute Gunray","knight_2_1",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body],knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
-["knight_2_2","Saato","knight_2_2",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_saato_head,itm_saato_body],knight_attrib_5,wp(220)|wp_archery(220),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
-["knight_2_3","Asajj Ventress","knight_2_3",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_asajj_head,itm_asajj_body,itm_asajj_lightsaber],knight_attrib_5,wp(220),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
-["knight_2_4","Scintel","knight_2_4",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_scintel_head,itm_scintel_body],knight_attrib_5,wp(220),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
-["knight_2_5","Mar Tuuk","knight_2_5",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body],knight_attrib_5,wp(220),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
+["knight_2_1","Nute Gunray","knight_2_1",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body],knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
+["knight_2_2","Saato","knight_2_2",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_saato_head,itm_saato_body],knight_attrib_5,wp(400)|wp_archery(400),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
+["knight_2_3","Asajj Ventress","knight_2_3",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_asajj_head,itm_asajj_body,itm_asajj_lightsaber],knight_attrib_5,wp(400),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
+["knight_2_4","Scintel","knight_2_4",tf_female|tf_hero,0,reserved,fac_rebelalliance,[itm_scintel_head,itm_scintel_body],knight_attrib_5,wp(400),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
+["knight_2_5","Mar Tuuk","knight_2_5",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body],knight_attrib_5,wp(400),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
 ["knight_2_6","Jango Fett","knight_2_6",tf_tusken|tf_hero,0,reserved,fac_rebelalliance,[itm_speeder_hutt,itm_grey_gloves,itm_grey_gloves,itm_boba_fett_armor,itm_boba_fett_armor,itm_boba_fett_boots,itm_boba_fett_boots,itm_boba_fett_helmet,itm_boba_fett_helmet,itm_boba_fett_blaster,itm_boba_fett_blaster,itm_laser_bolts_orange_rifle,itm_laser_bolts_orange_rifle,itm_vibro_sword3_gold,itm_hero_shield],knight_attrib_5,wp(220),starwars_knight_skills_5,sw_rebel_face_1, sw_rebel_face_2],
-["knight_2_7","Grievious","knight_2_7",tf_wookiee|tf_hero,0,reserved,fac_rebelalliance,[itm_grievous,itm_transparent_feet,itm_transparent_hands,itm_transparent_head,itm_lightsaber_green],knight_attrib_5,wp(220),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
-["knight_2_8","Droid General 1","knight_2_8",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body,itm_black_gloves,itm_leather_boots2,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_5,wp(220),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
-["knight_2_9","Droid General 2","knight_2_9",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body,itm_black_gloves,itm_leather_boots2,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_5,wp(220),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
+["knight_2_7","Grievious","knight_2_7",tf_wookiee|tf_hero,0,reserved,fac_rebelalliance,[itm_grievous,itm_transparent_feet,itm_transparent_hands,itm_transparent_head,itm_lightsaber_green],knight_attrib_5,wp(400),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
+["knight_2_8","Droid General 1","knight_2_8",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body,itm_black_gloves,itm_leather_boots2,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_5,wp(400),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
+["knight_2_9","Droid General 2","knight_2_9",tf_hero,0,reserved,fac_rebelalliance,[itm_tuuk_head,itm_tuuk_body,itm_black_gloves,itm_leather_boots2,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_5,wp(400),starwars_knight_skills_5,nemoidian_face1, nemoidian_face2],
 #knight skill 4 - Generic OOMs for now, need a general droid model
 ["knight_2_10","OOM-11","knight_2_0",tf_droid|tf_hero,0,reserved,fac_rebelalliance,[itm_oomseries_command_body,itm_transparent_droid_feet,itm_transparent_droid_hands,itm_transparent_droid_head,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_4,wp(200),starwars_knight_skills_4,droid_face1, droid_face2],
 ["knight_2_11","OOM-12","knight_2_1",tf_droid|tf_hero,0,reserved,fac_rebelalliance,[itm_oomseries_command_body,itm_transparent_droid_feet,itm_transparent_droid_hands,itm_transparent_droid_head,itm_e5,itm_laser_bolts_red_rifle],knight_attrib_4,wp(200),starwars_knight_skills_4,droid_face1, droid_face2],
@@ -8734,14 +8731,14 @@ upgrade(troops,"biker", "biker_scout")
 ## Force_sensitive:
 upgrade2(troops,"force_sensitive_recruit","sith_hopeful","jedi_hopeful")
 ### TAS Sith:
-upgrade(troops,"sith_hopeful","sith_acolyte")
+upgrade(troops,"jedi_hopeful","sith_acolyte")
 upgrade(troops,"sith_acolyte","sith_apprentice")
 upgrade(troops,"sith_apprentice","sith_knight")
 upgrade(troops,"sith_knight","sith_marauder")
 upgrade(troops,"sith_marauder","sith_master")
 upgrade(troops,"sith_master","sith_lord")
 ### TAS Jedi:
-upgrade(troops,"jedi_hopeful","jedi_initiate")
+upgrade(troops,"sith_hopeful","jedi_initiate")
 upgrade(troops,"jedi_initiate","jedi_padawan")
 upgrade(troops,"jedi_padawan","jedi_guardian")
 upgrade(troops,"jedi_guardian","jedi_consular")
