@@ -96,7 +96,7 @@ AI_triggers = [
 ####>>>>>>>
 
 #SW - modified pilgrim disguise
-pilgrim_disguise = [itm_transparent_helmet,itm_vest_closed_a,itm_black_boots,itm_vibro_blade1,itm_laser_bolts_yellow_pistol,itm_westar,itm_energy_shield_yellow_small]
+pilgrim_disguise = [itm_transparent_helmet,itm_ind_clothes_outfsmuggler_green,itm_vibro_blade1,itm_laser_bolts_yellow_pistol,itm_westar,itm_energy_shield_yellow_small]
 #SW - modified af_spacestation_lord
 #af_spacestation_lord = af_override_horse | af_override_weapons| af_require_civilian
 af_spacestation_lord = af_override_horse | af_override_weapons

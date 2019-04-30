@@ -322,7 +322,7 @@ dialogs = [
   [anyone|plyr, "freelancer_cap_3",
     [],
     "The armour will help me defend you from your enemies. I will continue bringing honour to your house.", "freelancer_cap_finish",
-    [ (troop_add_item, "trp_player", "itm_imperial_stormtrooper_armor_novatrooper", imod_reinforced)],
+    [ (troop_add_item, "trp_player", "itm_mand_arm_dummy", imod_reinforced)],
   ],
   
   [anyone|plyr, "freelancer_cap_3",
