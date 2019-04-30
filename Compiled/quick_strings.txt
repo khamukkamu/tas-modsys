@@ -1,4 +1,4 @@
-1156
+1155
 qstr_2006_2010_THE_STAR_W 2006-2010_THE_STAR_WARS_CONQUEST_DEV_TEAM
 qstr_This_Module_it_s_ded This_Module_it's_dedicated_to_every_person_who_believed_in_us.^^Their_valuable_Work_and_Support_have_inspired_Us_to_Make_this_bigger.^^The_Force_It's_Strong_with_you!_:-)
 qstr_Type_your_Faction_s_ Type_your_Faction's_name:
@@ -241,7 +241,6 @@ qstr_+1_to_Mounted_Accura +1_to_Mounted_Accuracy_when_worn^Press_'{s1}'_to_enabl
 qstr_+2_to_Engineer_when_ +2_to_Engineer_when_worn
 qstr_+1_to_Tactics_when_w +1_to_Tactics_when_worn
 qstr_+1_to_Leadership_whe +1_to_Leadership_when_worn
-qstr_+1_to_Power_Strike_w +1_to_Power_Strike_when_worn
 qstr_Press__{s1}__to_heal Press_'{s1}'_to_heal_player^(Bacta_Capsule_required)
 qstr_Heals_20hp^_Bacta_In Heals_20hp^(Bacta_Injector_required)
 qstr_Press__{s1}__to_enab Press_'{s1}'_to_enable_Helmet_View
