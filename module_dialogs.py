@@ -8442,7 +8442,7 @@ I suppose there are plenty of bounty hunters around to get the job done . . .", 
       (ge, "$g_talk_troop_relation", 0),
       (neg|troop_slot_eq, "trp_player", slot_freelancer_mission, 1),
     ],
-    "Welcome back {playername}. Your regiment has missed you I daresay, Now return to your post.", "lord_pretalk",[
+    "Welcome back {playername}. Your regiment has missed you I daresay, Now return to your post.", "close_window",[
       (call_script, "script_party_copy", "p_freelancer_party_backup", "p_main_party"),
       (remove_member_from_party, "trp_player","p_freelancer_party_backup"),
       (call_script, "script_event_player_returns_vacation"),
