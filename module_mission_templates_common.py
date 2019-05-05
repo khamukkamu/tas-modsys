@@ -91,7 +91,7 @@ AI_triggers = [
     (val_add, "$ranged_clock", 1),
   ]),
 
-  #common_ranged_avoid_melee,
+  common_ranged_avoid_melee,
 ]
 ####>>>>>>>
 

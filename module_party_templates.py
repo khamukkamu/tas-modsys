@@ -125,7 +125,7 @@ party_templates = [
   ("galacticempire_reinforcements_c", "<galacticempire_reinforcements_c>", 0, 0, fac_commoners, 0, [(trp_imperial_stormtrooper_officer,0,1),(trp_imperial_scout_trooper_sniper,0,3),(trp_imperial_scout_trooper_captain,0,2),(trp_imperial_scout_trooper_marksman,0,2),(trp_imperial_pilot_veteran,0,2)]),
 
 #SW - modified faction 2 reinforcements (rebel = 5-12 troops)
-  ("rebelalliance_reinforcements_a", "<rebelalliance_reinforcements_a>", 0, 0, fac_commoners, 0, [(trp_rebel_recruit,30,35),(trp_rebel_cadet,15,18),(trp_b2series,15,20),(trp_b1series_assassin, 4,8),(trp_rebel_pilot,4,8)]),		#rebels have 1 less for min & max
+  ("rebelalliance_reinforcements_a", "<rebelalliance_reinforcements_a>", 0, 0, fac_commoners, 0, [(trp_rebel_recruit,7,12),(trp_rebel_cadet,12,18),(trp_b2series,15,20),(trp_b1series_assassin, 4,8),(trp_rebel_pilot,4,8)]),		#rebels have 1 less for min & max
   ("rebelalliance_reinforcements_b", "<rebelalliance_reinforcements_b>", 0, 0, fac_commoners, 0, [(trp_rebel_trooper,10,18),(trp_b2series,18,30),(trp_b1series_assassin, 8,12),(trp_rebel_commando,4,8)]),	#rebels have 1 less for min & max
   ("rebelalliance_reinforcements_c", "<rebelalliance_reinforcements_c>", 0, 0, fac_commoners, 0, [(trp_bxseries_commando,10,12),(trp_rebel_heavy_trooper,5,8),(trp_rebel_scout,8,12),(trp_aseries_assassin,0,6),(trp_rebel_pilot_veteran,2,5)]),	#rebels are equal for this reinforcement
 #SW - modified faction 3 reinforcements (hutt = 5-12 troops)

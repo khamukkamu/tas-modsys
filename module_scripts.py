@@ -19665,13 +19665,14 @@ scripts = [
       (val_min, ":volunteer_amount", ":gold_capacity"),
       
       #SW - added faction specific recruits
+      #TAS switched lightside/darkside recruitement
       (store_faction_of_party, ":cur_center_faction", "$current_town"),
       (try_begin),
         (eq, ":cur_center_faction", "fac_galacticempire"),  #Galactic Empire
-        (party_add_members, "p_main_party", "trp_sith_hopeful", ":volunteer_amount"),
+        (party_add_members, "p_main_party", "trp_jedi_hopeful", ":volunteer_amount"),
       (else_try),
         (eq, ":cur_center_faction", "fac_rebelalliance"),   #Rebel Alliance
-        (party_add_members, "p_main_party", "trp_jedi_hopeful", ":volunteer_amount"),
+        (party_add_members, "p_main_party", "trp_sith_hopeful", ":volunteer_amount"),
       (else_try), #Hutt Cartel, player faction, etc.
         (party_add_members, "p_main_party", "trp_force_sensitive_recruit", ":volunteer_amount"),
       (try_end),

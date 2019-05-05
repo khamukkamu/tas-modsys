@@ -247,7 +247,7 @@ skins = [
     #sernis_WIP_female_head_new
     #"sernis_WIP_female_head_new", woman_face_keys,
     "female_head_new", woman_face_keys,
-    ["woman_hair_p","woman_hair_n","woman_hair_o","woman_hair_q","woman_hair_r","woman_hair_t","woman_hair_s","woman_hair_buns","zabrak_horns"], #woman_hair_meshes
+    ["woman_tas_hair_p","woman_tas_hair_n","woman_tas_hair_o","woman_tas_hair_q","woman_tas_hair_r","woman_tas_hair_t","woman_tas_hair_s","woman_tas_hair_buns","zabrak_horns"], #woman_hair_meshes
 	#    ["woman_hair_a","woman_hair_b","woman_hair_c","woman_hair_d","woman_hair_e","woman_hair_f","woman_hair_g"], #woman_hair_meshes
     [],
     #["hair_blonde", "hair_red", "hair_brunette", "hair_black", "hair_white"], #hair textures
@@ -364,7 +364,7 @@ skins = [
  #SW - new moncal skin
    (
      "moncal", 0,
-     "moncal_body", "_", "moncal_mittenL",
+     "new_moncal_body", "_", "moncal_mittenL",
 #     "moncal_body", "moncal_calf_l", "moncal_mittenL",
      "moncal_head", moncal_face_keys,
      [],
@@ -447,7 +447,7 @@ skins = [
    (
      "wookiee", 0,
      #"wookiee_body", "wookiee_calf_l", "wookiee_mittenL",
-     "new_wookiee_body", "_", "_",
+     "bearforce_wookiee_body", "_", "_",
      #"wookiee_head_new_half", wookiee_face_keys,
      #"wookiee_head_new_half", wookiee_face_keys,
 	 "_", wookiee_face_keys,

@@ -1477,7 +1477,7 @@ game_menus = [
        # --
        (troop_add_item, "trp_player", "itm_jawa_hood",  0),
        (troop_add_item, "trp_player", "itm_jawa_robe",  0),
-       (troop_add_item, "trp_player", "itm_jawa_boots", 0),
+       #(troop_add_item, "trp_player", "itm_jawa_boots", 0),
      (try_end),
 
 #---------------------------------------------------
@@ -3008,7 +3008,6 @@ game_menus = [
           (try_for_range, ":race_item", "itm_alien_wookiee_arm", "itm_armors_end"),
             (troop_add_item, "trp_player", ":race_item"),
           (try_end),
-          (party_force_add_members, "p_main_party", "trp_b2series_enhanced", 10),
           (display_message, "@Items Given"),]),
       ("test_freelancer_looters",[],"Become High Level Freelancer Troop", [(assign, "$player_cur_troop", "trp_clone_trooper_3"),
           (assign, "$enlisted_lord", "trp_knight_1_1"),
