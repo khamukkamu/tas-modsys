@@ -1,5 +1,5 @@
 itemsfile version 2
-866
+861
  itm_no_item <dummy> <dummy> 1  dummy_mesh 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -408,9 +408,6 @@ itemsfile version 2
  itm_jedi_master_cloak Jedi_Master_Cloak Jedi_Master_Cloak 1  cloak05 0  553651982 0 80 123731968 2 80 5 5 0 0 0 0 0 0 0 0 0
 0
 
- itm_imperial_uniform_black_plain Imperial_Uniform Imperial_Uniform 1  impofficer 0  553648141 0 380 123731968 2 100 0 28 12 0 0 0 0 0 0 0 0
-0
-
  itm_female_dancer_outfit_a Female_Dancer_Outfit Female_Dancer_Outfit 1  rogue_armor3 0  553648141 0 300 123731968 1 40 0 14 6 0 0 0 0 0 0 0 0
 0
 
@@ -418,12 +415,6 @@ itemsfile version 2
 0
 
  itm_female_dancer_boots Female_Dancer_Boots Female_Dancer_Boots 1  rogue_csizma 0  536874766 0 250 123731968 1 40 0 0 6 0 0 0 0 0 0 0 0
-0
-
- itm_imperial_trooper_armor Imperial_Trooper_Armor Imperial_Trooper_Armor 1  impinfantry 0  553648141 0 320 123731968 5 100 0 25 12 0 0 0 0 0 0 0 0
-0
-
- itm_imperial_navy_trooper_armor Imperial_Navy_Trooper_Armor Imperial_Navy_Trooper_Armor 1  imperial_navy_uniform 0  553648141 0 320 123731968 5 100 0 25 12 0 0 0 0 0 0 0 0
 0
 
  itm_imperial_scout_trooper_armor Imperial_Scout_Trooper_Armor Imperial_Scout_Trooper_Armor 1  scoutarmour 0  553648141 0 610 704643236 6 100 0 35 14 0 0 0 0 0 0 0 0
@@ -513,34 +504,34 @@ itemsfile version 2
  itm_sith_master_robe_unique Sith_Master_Robe Sith_Master_Robe 1  sith_robe_a 0  553652237 0 1000 123731968 0 100 15 60 26 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_armor1 Wookiee_Armor Wookiee_Armor 1  wookiee_body1 0  553652237 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
+ itm_wookiee_armor1 Wookiee_Armor Wookiee_Armor 1  dummy_mesh 0  553652237 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_armor1_merch Wookiee_Armor Wookiee_Armor 1  wookiee_body1 0  553648141 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
+ itm_wookiee_armor1_merch Wookiee_Armor Wookiee_Armor 1  dummy_mesh 0  553648141 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_armor2 Wookiee_Armor Wookiee_Armor 1  wookiee_body2 0  553652237 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
+ itm_wookiee_armor2 Wookiee_Armor Wookiee_Armor 1  dummy_mesh 0  553652237 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_armor2_merch Wookiee_Armor Wookiee_Armor 1  wookiee_body2 0  553648141 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
+ itm_wookiee_armor2_merch Wookiee_Armor Wookiee_Armor 1  dummy_mesh 0  553648141 0 530 123731968 3 50 0 35 14 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_hunter_armor Wookiee_Hunter_Armor Wookiee_Hunter_Armor 1  wookiee_hunter_armor 0  553648141 0 700 123731968 5 40 0 42 16 0 0 0 0 0 0 0 0
+ itm_wookiee_hunter_armor Wookiee_Hunter_Armor Wookiee_Hunter_Armor 1  dummy_mesh 0  553648141 0 700 123731968 5 40 0 42 16 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_hunter_helmet Wookiee_Hunter_Helmet Wookiee_Hunter_Helmet 1  wookiee_hunter_helmet 0  2684354572 0 150 123731968 2.5 40 12 0 0 0 0 0 0 0 0 0 0
+ itm_wookiee_hunter_helmet Wookiee_Hunter_Helmet Wookiee_Hunter_Helmet 1  dummy_mesh 0  2684354572 0 150 123731968 2.5 40 12 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_female_head Wookiee_Female_Head Wookiee_Female_Head 1  wookiee_female_head 0  2684358668 0 70 123731968 1 100 10 0 0 0 0 0 0 0 0 0 0
+ itm_wookiee_female_head Wookiee_Female_Head Wookiee_Female_Head 1  dummy_mesh 0  2684358668 0 70 123731968 1 100 10 0 0 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_female_body Wookiee_Female_Body Wookiee_Female_Body 1  wookiee_female_body 0  553652237 0 530 123731968 3 100 0 32 12 0 0 0 0 0 0 0 0
+ itm_wookiee_female_body Wookiee_Female_Body Wookiee_Female_Body 1  dummy_mesh 0  553652237 0 530 123731968 3 100 0 32 12 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_female_hands Wookiee_Female_Hands Wookiee_Female_Hands 1  wookiee_female_mittenL 0  536875023 0 50 123731968 0 100 0 3 0 0 0 0 0 0 0 0 0
+ itm_wookiee_female_hands Wookiee_Female_Hands Wookiee_Female_Hands 1  dummy_mesh 0  536875023 0 50 123731968 0 100 0 3 0 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_female_feet Wookiee_Female_Feet Wookiee_Female_Feet 1  wookiee_female_feet 0  536878862 0 150 123731968 2 80 0 0 10 0 0 0 0 0 0 0 0
+ itm_wookiee_female_feet Wookiee_Female_Feet Wookiee_Female_Feet 1  dummy_mesh 0  536878862 0 150 123731968 2 80 0 0 10 0 0 0 0 0 0 0 0
 0
 
  itm_kaminoan_female_head Kaminoan_Female_Head Kaminoan_Female_Head 1  kaminoan_head 0  2684362508 0 70 123731968 1 100 10 0 0 0 0 0 0 0 0 0 0
@@ -669,10 +660,10 @@ itemsfile version 2
  itm_battle_droid_attack Battle_Droid_Melee_Attack Battle_Droid_Melee_Attack 2  dummy_mesh 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 250 0 1 100 0 0 0 0 7168 75 0 15 0 518 519
 0
 
- itm_b2series_body B2_Super_Battle_Droid_Body B2_Super_Battle_Droid_Body 1  B2-Battledroid 0  553652237 0 4160 0 50 100 46 64 18 0 0 0 0 0 0 0 0
+ itm_b2series_body B2_Super_Battle_Droid_Body B2_Super_Battle_Droid_Body 1  b2 0  553652237 0 4160 0 50 100 46 64 18 0 0 0 0 0 0 0 0
 0
 
- itm_b2series_body_enhanced C-B3_Cortosis_Droid_Body C-B3_Cortosis_Droid_Body 1  B2-Battledroid_enhanced 0  553652237 0 7420 0 45 100 66 84 36 0 0 0 0 0 0 0 0
+ itm_b2series_body_enhanced C-B3_Cortosis_Droid_Body C-B3_Cortosis_Droid_Body 1  b3 0  553652237 0 7420 0 45 100 66 84 36 0 0 0 0 0 0 0 0
 0
 
  itm_b2series_attack B2-Series_Battle_Droid_Attack B2-Series_Battle_Droid_Attack 2  dummy_mesh 0  ArcTrooperGloves_L 1152921504606846976  12587010 9223372036879941647 500 0 1 100 0 0 0 0 10240 75 0 20 0 520 522
@@ -731,9 +722,6 @@ itemsfile version 2
  itm_hk_attack _ _ 2  dummy_mesh 0  HK_series_hands_inv 1152921504606846976  79695874 9223372036879941647 250 0 1 100 0 0 0 0 24576 70 0 25 0 274 24
 0
 
- itm_mandalorian_tunic Mandalorian_Tunic Mandalorian_Tunic 1  mandalorian_tunic 0  553648141 0 270 123731968 2 80 0 25 4 0 0 0 0 0 0 0 0
-0
-
  itm_gamorrean_armor Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553652237 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
 0
 
@@ -743,9 +731,6 @@ itemsfile version 2
  itm_jawa_robe Jawa_Robe Jawa_Robe 1  jawa_robe 0  553652237 0 370 123731968 2.5 80 0 20 10 0 0 0 0 0 0 0 0
 0
 
- itm_jawa_boots Jawa_Boots Jawa_Boots 1  jawa_boots 0  536878862 0 60 123731968 2 80 0 0 8 0 0 0 0 0 0 0 0
-0
-
  itm_tusken_helmet Tusken_Helmet Tusken_Helmet 1  tusken_helmet 0  2684420108 0 60 123731968 2 70 8 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -753,9 +738,6 @@ itemsfile version 2
 0
 
  itm_trandoshan_armor Trandoshan_Armor Trandoshan_Armor 1  trandoshan_armor 0  553648141 0 760 704643236 5 70 0 42 14 0 0 0 0 0 0 0 0
-0
-
- itm_geonosian_armor Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  553652237 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
 0
 
  itm_rep_arm_galacticmarine Galactic_Marines_Armor Galactic_Marines_Armor 1  galactic_marine 0  2709585933 0 400 704643236 18 100 34 54 30 0 0 0 0 0 0 0 0
@@ -774,27 +756,6 @@ itemsfile version 2
 0
 
  itm_sith_acolyte_fullbody_nohood Ancient_Sith_Acolyte_Armor Ancient_Sith_Acolyte_Armor 1  acolyte_maskless 0  553648141 0 3000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_sith_noarmor_white Sith_Sorceress_Cloth Sith_Sorceress_Cloth 1  female_sith_unarmored_white 0  553648141 0 500 0 8 100 0 30 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_sith_noarmor_red Sith_Sorceress_Cloth Sith_Sorceress_Cloth 1  female_sith_unarmored_red 0  553648141 0 500 0 8 100 0 30 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_sith_armor_red Sith_Sorceress_Armor Sith_Sorceress_Armor 1  female_sith_armor_red 0  553648141 0 1000 0 8 100 0 40 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_sith_armor_white Sith_Sorceress_Armor Sith_Sorceress_Armor 1  female_sith_armor_white 0  553648141 0 1000 0 8 100 0 40 20 0 0 0 0 0 0 0 0
-0
-
- itm_sith_heavy_armor Ancient_Sith_Heavy_Armor Ancient_Sith_Heavy_Armor 1  old_sith_armor 0  553648141 0 1500 0 10 40 0 60 22 0 0 0 0 0 0 0 0
-0
-
- itm_sith_armor_mandorobe Ancient_Sith_Armor Ancient_Sith_Armor 1  sith_armor 0  553648141 0 3000 0 10 100 10 50 20 0 0 0 0 0 0 0 0
-0
-
- itm_jedi_armor_mandorobe Ancient_Jedi_Armor Ancient_Jedi_Armor 1  jedi_armor 0  553713677 0 3000 0 10 100 10 50 20 0 0 0 0 0 0 0 0
 0
 
  itm_deathwatch Deathwatch_Armor Deathwatch_Armor 1  dw 0  553713677 0 2000 0 5 100 10 44 15 0 0 0 0 0 0 0 0
@@ -941,7 +902,7 @@ itemsfile version 2
  itm_nightsister_gloves Nightsister_Gloves Nightsister_Gloves 1  lady_glove_L 0  536936463 0 28 123731968 0.25 10 0 5 0 0 0 0 0 0 0 0 0
 0
 
- itm_ns_bow Nightsister_Bow Nightsister_Bow 2  khergit_bow 0  khergit_bow 3458764513820540928  6357000 5905584128 263 655370 3 100 0 0 95 3 0 95 80 0 6 306 0
+ itm_ns_bow Nightsister_Bow Nightsister_Bow 2  nightsister_bow 0  nightsister_bow 3458764513820540928  6357000 5905584128 263 655370 3 100 0 0 95 3 0 95 80 0 0 306 0
 0
 
  itm_nightsister_sword Nightsister_Sword Nightsister_Sword 1  nightsister_blade 0  71368706 9223388534117761039 480 24596 1.5 20 0 0 0 0 46080 199 0 77 0 291 301
@@ -1097,25 +1058,7 @@ itemsfile version 2
  itm_asajj_body Asajj_Ventress_Dress Asajj_Ventress_Dress 1  asajj_dress 0  553648141 0 1000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
 0
 
- itm_sugi_body Sugi_Outfit Sugi_Outfit 1  sugi_armor 0  553648141 0 1000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_bandit1 Bounty_Hunter_Outfit Bounty_Hunter_Outfit 1  female_bandit1 0  553648141 0 1000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
-0
-
- itm_fem_bandit2 Bounty_Hunter_Outfit Bounty_Hunter_Outfit 1  female_bandit2 0  553648141 0 1000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
-0
-
- itm_dooku_body Dookus_suit Dookus_suit 1  rebel_uniform_green 0  553648141 0 1000 0 1 30 20 70 20 0 0 0 0 0 0 0 0
-0
-
  itm_darth_vader_armor Darth_Vader's_Armor Darth_Vader's_Armor 1  dvader_body 0  553648141 0 3000 0 6 100 0 60 18 0 0 0 0 0 0 0 0
-0
-
- itm_darth_vader_feet Darth_Vader's_Feet Darth_Vader's_Feet 2  dummy_mesh 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 47 0 0 0 0 0 0 0 0
-0
-
- itm_princess_leia_outfit Princess_Leia's_Outfit Princess_Leia's_Outfit 1  princess_leia_outfit 0  553648141 0 1200 0 2 100 0 40 12 0 0 0 0 0 0 0 0
 0
 
  itm_luke_skywalker_outfit Luke_Skywalker's_Outfit Luke_Skywalker's_Outfit 1  jedi_robe_b 0  553648141 0 2500 123731968 0.75 100 0 55 18 0 0 0 0 0 0 0 0
@@ -1163,34 +1106,55 @@ itemsfile version 2
  itm_twilek_slave_d Twilek_Slave Twilek_Slave 1  twilek_slave_d 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
 0
 
- itm_trandoshan_fullbody_1 Trandoshan_Armor Trandoshan_Armor 1  trandoshan_fullbody_1 0  2709520397 0 1000 0 35 100 0 60 55 0 0 0 0 0 0 0 0
+ itm_twilek_slave_thicc_a Twilek_Slave Twilek_Slave 1  twilek_slave_thicc_a 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
 0
 
- itm_trandoshan_fullbody_2 Trandoshan_Armor Trandoshan_Armor 1  trandoshan_fullbody_2 0  2709520397 0 1000 0 35 100 20 60 55 0 0 0 0 0 0 0 0
+ itm_twilek_slave_thicc_b Twilek_Slave Twilek_Slave 1  twilek_slave_thicc_b 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_fullbody Wookiee_Skin Wookiee_Skin 1  Wookie 0  2709520397 0 600 704643236 10 100 0 42 30 0 0 0 0 0 0 0 0
+ itm_twilek_slave_thicc_c Twilek_Slave Twilek_Slave 1  twilek_slave_thicc_c 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
 0
 
- itm_wookiee_armor_chest Wookiee_Chestarmor Wookiee_Chestarmor 1  wookie_armor 0  562036750 0 600 704643236 10 100 0 42 30 0 0 0 0 0 0 0 0
+ itm_twilek_slave_thicc_d Twilek_Slave Twilek_Slave 1  twilek_slave_thicc_d 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_blue Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_blue_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_green Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_green_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_orange Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_orange_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_purple Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_purple_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_sith Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_sith_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_yellow Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_yellow_novest 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_blue_vest Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_blue 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_green_vest Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_green 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_orange_vest Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_orange 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_purple_vest Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_purple 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
+0
+
+ itm_twilek_smuggler_yellow_vest Twilek_Smuggler Twilek_Smuggler 1  twilek_female_smuggler_yellow 0  2709524237 0 400 123731968 10 100 0 10 5 0 0 0 0 0 0 0 0
 0
 
  itm_umbaran_armor Umbaran_Armor Umbaran_Armor 1  umbaran 0  2709520397 0 1000 0 35 100 0 65 0 0 0 0 0 0 0 0 0
 0
 
  itm_umbaran_officer Umbaran_Officer_Armor Umbaran_Officer_Armor 1  umbaranofficer 0  2709520397 0 1000 0 35 100 0 65 0 0 0 0 0 0 0 0 0
-0
-
- itm_ind_arm_geonosian Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  2709524237 0 400 704643236 10 100 0 44 30 0 0 0 0 0 0 0 0
-0
-
- itm_ind_arm_geonosian_wingless Geonosian_Armor Geonosian_Armor 1  geonosian_armor_wingless 0  2709524237 0 400 704643236 10 100 0 44 30 0 0 0 0 0 0 0 0
-0
-
- itm_ind_arm_geonosian_unarmored Geonosian_Armor Geonosian_Armor 1  geonosian_unarmored 0  2709524237 0 400 704643236 10 100 0 44 30 0 0 0 0 0 0 0 0
-0
-
- itm_ind_arm_geonosian_unarmored_wingless Geonosian_Armor Geonosian_Armor 1  geonosian_unarmored_wingless 0  2709524237 0 400 704643236 10 100 0 44 30 0 0 0 0 0 0 0 0
 0
 
  itm_grievous General_Grievous General_Grievous 1  grievousbig 0  2709524493 0 2019 0 25 100 0 68 8 24 0 0 0 0 0 0 0
@@ -1373,6 +1337,21 @@ itemsfile version 2
  itm_rep_helm_phase2scout Phase_II_Scout_Helmet Phase_II_Scout_Helmet 1  clone_scout_helmet 0  2684420108 0 400 704643236 10 100 0 44 30 0 0 0 0 0 0 0 0
 0
 
+ itm_ind_clothes_js_black Jumpsuit_(Black) Jumpsuit_(Black) 1  js_black 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
+ itm_ind_clothes_js_blue Jumpsuit_(Blue) Jumpsuit_(Blue) 1  js_blue 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
+ itm_ind_clothes_js_green Jumpsuit_(Green) Jumpsuit_(Green) 1  js_green 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
+ itm_ind_clothes_js_grey Jumpsuit_(Grey) Jumpsuit_(Grey) 1  js_grey 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
+ itm_ind_clothes_js_tan Jumpsuit_(Tan) Jumpsuit_(Tan) 1  js_tan 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
  itm_ind_clothes_tightcoverall_blue Tight_coverall_(Blue) Tight_coverall_(Blue) 1  fem_bodyglove_blue 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
 0
 
@@ -1401,6 +1380,9 @@ itemsfile version 2
 0
 
  itm_ind_clothes_outfsmuggler_green Smuggler_outfit_(Blue) Smuggler_outfit_(Blue) 1  smuggler_outfit_2 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
+0
+
+ itm_ind_clothes_outfsmuggler_black Smuggler_outfit_(Black) Smuggler_outfit_(Black) 1  smuggler_outfit_7 0  553717517 0 400 123731968 10 100 0 44 30 0 0 0 0 0 0 0 0
 0
 
  itm_ind_clothes_outfsmuggleralter1_red Smuggler's_Jacket Smuggler's_Jacket 1  smuggler_outfit_3 0  553717517 0 400 123731968 10 100 0 25 15 0 0 0 0 0 0 0 0
@@ -1586,9 +1568,6 @@ itemsfile version 2
  itm_transparent_helmet_armor Transparent_Helmet_with_Body_Armor Transparent_Helmet_with_Body_Armor 2  dummy_mesh 0  transparent_helmet_inv 1152921504606846976  553652236 0 140 0 0.25 100 15 35 15 0 0 0 0 0 0 0 0
 0
 
- itm_twilek_female_helmet_armor Twilek_Female_Helmet_with_Body_Armor Twilek_Female_Helmet_with_Body_Armor 1  twilekwrap 0  553652236 0 500 0 1 100 15 35 15 0 0 0 0 0 0 0 0
-0
-
  itm_transparent_head Transparent_Head Transparent_Head 2  dummy_mesh 0  transparent_helmet_inv 1152921504606846976  2684358668 0 1 0 0.25 100 1 0 0 0 0 0 0 0 0 0 0
 0
 
@@ -1601,16 +1580,16 @@ itemsfile version 2
  itm_transparent_feet Transparent_Feet Transparent_Feet 2  dummy_mesh 0  transparent_helmet_inv 1152921504606846976  536875022 0 1 0 0.25 100 0 0 1 0 0 0 0 0 0 0 0
 0
 
- itm_alien_wookiee_arm Wookiee_Chestarmor Wookiee_Chestarmor 1  wookie_armor 0  562036750 0 600 704643236 10 100 0 42 30 0 0 0 0 0 0 0 0
+ itm_alien_wookiee_arm Wookiee_Armor Wookiee_Armor 1  bearforce_wookie_armor 0  562036750 0 600 704643236 10 100 0 42 30 0 0 0 0 0 0 0 0
 0
 
- itm_alien_geonosian_arm Geonosian_Armor Geonosian_Armor 1  geonosian_armor 0  553652237 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
+ itm_alien_geonosian_arm Geonosian_Armor Geonosian_Armor 1  geonosian_chestarmor 0  553652237 0 510 123731968 5 50 0 40 16 0 0 0 0 0 0 0 0
 0
 
  itm_alien_gamorrean_arm Gamorrean_Armor Gamorrean_Armor 1  gamorrean_armor 0  553652237 0 530 123731968 3 40 0 40 16 0 0 0 0 0 0 0 0
 0
 
- itm_alien_trandoshan_arm Trandoshan_Armor Trandoshan_Armor 1  trandoshan_fullbody_2 0  2709520397 0 1000 0 35 100 20 60 55 0 0 0 0 0 0 0 0
+ itm_alien_trandoshan_arm Trandoshan_Armor_Dummy_(No_mesh) Trandoshan_Armor_Dummy_(No_mesh) 1  dummy_mesh 0  2709520397 0 1000 0 35 100 20 60 55 0 0 0 0 0 0 0 0
 0
 
  itm_armors_end <dummy> <dummy> 1  dummy_mesh 0  0 0 0 0 0 100 0 0 0 0 0 0 0 0 0 0 0
@@ -1737,6 +1716,9 @@ itemsfile version 2
 0
 
  itm_training_lightsaber_red_1h Training_One_Handed_Lightsaber Training_One_Handed_Lightsaber 2  lightsaber_red_1h 0  ls1hoff 3458764513820540928  71761922 9223388530560991247 1020 286740 0.25 20 0 0 0 0 46080 105 0 100 0 557 557
+0
+
+ itm_lightsaber_eradicator Lightsaber_Eradicator Lightsaber_Eradicator 2  ls_eradicator 0  ls_eradicatoroff 3458764513820540928  71761922 9223388530560991247 1025 286740 0.25 15 0 0 0 10 61440 105 0 100 0 316 316
 0
 
  itm_lightsaber_green_pike Lightsaber_Pike Lightsaber_Pike 2  lightsaber_green_pike 0  lspikeoff 3458764513820540928  138903556 4222131026005760 1765 286740 1 10 0 0 0 10 11264 120 0 150 0 331 331
@@ -2326,11 +2308,11 @@ itemsfile version 2
 
  itm_a280 A-280 A-280 2  A280 0  A280_inventory 1152921504606846976  73400329 555929845760 1300 270342 4.5 110 0 0 93 0 0 150 190 0 64 298 0
 1
--51  1 507 3 763 65 176 
+-51  1 507 3 757 65 176 
 
  itm_a280_crouch A-280 A-280 2  A280 0  A280_inventory 1152921504606846976  73465865 555930353664 1300 270342 4.5 110 0 0 93 0 0 150 130 0 64 298 0
 1
--51  1 507 3 764 65 176 
+-51  1 507 3 758 65 176 
 
  itm_a280_stun Stun_A-280 Stun_A-280 2  A280 0  A280_inventory 1152921504606846976  73465865 555930353664 1300 270342 4.5 80 0 0 93 0 0 150 130 0 64 554 0
 1
@@ -2338,11 +2320,11 @@ itemsfile version 2
 
  itm_a295 A-295 A-295 2  A295 0  A295_inventory 1152921504606846976  73400329 555930353664 1280 270342 3.5 110 0 0 97 0 0 210 130 0 36 302 0
 1
--51  1 507 3 766 65 176 
+-51  1 507 3 760 65 176 
 
  itm_a295_crouch A-295 A-295 2  A295 0  A295_inventory 1152921504606846976  73465865 555930353664 1280 270342 3.5 110 0 0 97 0 0 210 130 0 36 302 0
 1
--51  1 507 3 767 65 176 
+-51  1 507 3 761 65 176 
 
  itm_a295_stun Stun_A-295 Stun_A-295 2  A295 0  A295_inventory 1152921504606846976  73465865 555930353664 1280 270342 3.5 80 0 0 97 0 0 210 190 0 36 558 0
 1
@@ -2350,15 +2332,15 @@ itemsfile version 2
 
  itm_mandalorian_heavy_blaster Mandalorian_Heavy_Blaster Mandalorian_Heavy_Blaster 2  mandalorian_heavy_blaster 0  mandalorian_heavy_blaster_inventory 1152921504606846976  73465865 555929845760 1300 270342 5.5 70 0 0 94 0 0 120 170 0 30 311 0
 1
--51  1 507 3 769 65 176 
+-51  1 507 3 763 65 176 
 
  itm_corellian_destroyer_blaster Corellian_Destroyer_Blaster Corellian_Destroyer_Blaster 2  corellian_destroyer_blaster 0  corellian_destroyer_blaster_inventory 1152921504606846976  73465865 555929845760 1250 270342 3.5 70 0 0 93 0 0 120 150 0 20 316 0
 1
--51  1 507 3 770 65 176 
+-51  1 507 3 764 65 176 
 
  itm_dlt19 DLT-19 DLT-19 2  DLT19 0  DLT19_inventory 1152921504606846976  73465865 555930353664 600 270342 5.25 100 0 0 94 0 0 90 180 0 100 316 0
 1
--51  1 507 3 771 65 177 
+-51  1 507 3 765 65 177 
 
  itm_dlt19_scope DLT-19_with_Scope DLT-19_with_Scope 2  DLT19_scope 0  DLT19_scope_inventory 1152921504606846976  73465865 555930353664 690 270342 6 70 0 0 96 0 0 90 195 0 50 326 0
 1
@@ -2378,19 +2360,19 @@ itemsfile version 2
 
  itm_dc17m DC-17M DC-17M 2  dc17m 0  dc17m_inv 1152921504606846976  71368713 555929845760 2000 270342 4 110 0 0 97 0 0 164 175 0 100 293 0
 1
--51  1 507 3 776 65 177 
+-51  1 507 3 770 65 177 
 
- itm_dc15a DC-15A DC-15A 2  DC15A 0  DC15A_inv 1152921504606846976  73400329 555929845760 1389 270342 6.75 110 0 0 94 14 0 90 270 0 250 326 0
+ itm_dc15a DC-15A DC-15A 2  DC15A 0  DC15A_inv 1152921504606846976  73400329 555929845760 1389 270342 6.75 110 0 0 94 14 0 90 270 0 250 316 0
 1
--51  1 507 3 777 65 177 
+-51  1 507 3 771 65 177 
 
- itm_dc15a_hip DC-15A DC-15A 2  DC15A_javelin 0  DC15A_inv 1152921504606846976  73465865 551903559680 1389 270342 6.75 110 0 0 92 14 0 90 270 0 250 331 0
+ itm_dc15a_hip DC-15A DC-15A 2  DC15A_javelin 0  DC15A_inv 1152921504606846976  73465865 551903559680 1389 270342 6.75 110 0 0 92 14 0 90 270 0 250 316 0
 1
--51  1 507 3 778 65 177 
+-51  1 507 3 772 65 177 
 
  itm_dc15s DC-15S DC-15S 2  DC15S 0  DC15S_inventory 1152921504606846976  73465865 487210876928 980 270342 4 100 0 0 94 0 0 170 200 0 250 298 0
 1
--51  1 507 3 779 65 176 
+-51  1 507 3 773 65 176 
 
  itm_trandoshan_acp_array_gun Trandoshan_ACP_Array_Gun Trandoshan_ACP_Array_Gun 2  trandoshan_acp_array_gun_javelin 0  trandoshan_acp_array_gun_inventory 1152921504606846976  73465865 483184082944 880 270342 4.5 70 0 0 79 0 0 100 165 0 8 90 0
 1
@@ -2418,19 +2400,19 @@ itemsfile version 2
 
  itm_mg15 RT-97C RT-97C 2  MG15 0  MG15_inventory 1152921504606846976  73465865 555930353664 2007 270342 6.25 100 0 0 100 12 0 90 195 0 250 303 0
 1
--51  1 507 3 786 65 176 
+-51  1 507 3 780 65 176 
 
- itm_e5 E-5 E-5 2  e5_new_javelin 0  e5_new_javelin 1152921504606846976  73465865 483184082944 850 270342 2.25 70 0 0 94 0 0 95 140 0 200 298 0
+ itm_e5 E-5 E-5 2  e5_new_javelin 0  e5_new_javelin 1152921504606846976  73465865 483184082944 850 270342 2.25 70 0 0 94 0 0 95 140 0 200 311 0
 1
--51  1 507 3 787 65 274 
+-51  1 507 3 781 65 274 
 
  itm_e11 E-11 E-11 2  e11_new 0  e11_new_inventory 1152921504606846976  73400329 487210369024 1000 270342 2.5 100 0 0 92 0 0 110 160 0 100 296 0
 1
--51  1 507 3 788 65 178 
+-51  1 507 3 782 65 178 
 
  itm_e11_hip E-11 E-11 2  e11_new_javelin 0  e11_new_inventory 1152921504606846976  73465865 483184082944 1000 270342 2.5 100 0 0 92 0 0 110 160 0 100 296 0
 1
--51  1 507 3 789 65 178 
+-51  1 507 3 783 65 178 
 
  itm_e11_stun Stun_E-11 Stun_E-11 2  e11_new_javelin 0  e11_new_inventory 1152921504606846976  73465865 487210614784 1000 270342 2.5 80 0 0 94 0 0 110 160 0 100 552 0
 1
@@ -2454,7 +2436,7 @@ itemsfile version 2
 
  itm_t21 T-21 T-21 2  T21 0  T21_inventory 1152921504606846976  73465865 555930353664 2010 270342 6.5 60 0 0 92 15 0 80 165 0 30 331 0
 1
--51  1 507 3 795 65 177 
+-51  1 507 3 789 65 177 
 
  itm_senate_rifle Security_Guard_Rifle Security_Guard_Rifle 2  senate_rifle 0  senate_rifle_inventory 1152921504606846976  73465865 555930353664 500 270342 3.25 70 0 0 96 0 0 100 170 0 14 296 0
 1
@@ -2470,15 +2452,15 @@ itemsfile version 2
 
  itm_heavy_repeater Imperial_Heavy_Repeater Imperial_Heavy_Repeater 3  HeavyRepeater 0  HeavyRepeater_inv 1152921504606846976  HeavyRepeater_carried 3458764513820540928  73465865 483184082944 1500 270342 4.5 100 0 0 92 0 0 120 169 0 144 292 0
 1
--51  1 507 3 799 65 186 
+-51  1 507 3 793 65 186 
 
  itm_storm_rifle StormTrooper_Rifle StormTrooper_Rifle 2  uio0000_stormtrooperrifle 0  uio0000_stormtrooperrifle_inv 1152921504606846976  73465865 555929845760 870 270342 3.25 70 0 0 95 0 0 85 170 0 30 303 0
 1
--51  1 507 3 800 65 187 
+-51  1 507 3 794 65 187 
 
  itm_dh17 DH-17 DH-17 1  DH17 0  71368720 483452715008 550 270342 1 100 0 0 88 0 0 110 160 0 244 292 0
 1
--51  1 507 3 801 65 275 
+-51  1 507 3 795 65 275 
 
  itm_dh17_stun Stun_DH-17 Stun_DH-17 1  DH17 0  71368720 483452715008 550 270342 1 80 0 0 88 0 0 110 160 0 244 548 0
 1
@@ -2486,7 +2468,7 @@ itemsfile version 2
 
  itm_se14r SE-14R SE-14R 1  se_14r 0  71368720 483452715008 410 270342 2 100 0 0 88 0 0 110 160 0 16 292 0
 1
--51  1 507 3 803 65 180 
+-51  1 507 3 797 65 180 
 
  itm_dl44a DL-44 DL-44 1  DL44a 0  71368720 483452715008 750 270342 1.5 100 0 0 87 0 0 120 140 0 25 311 0
 1
@@ -2498,7 +2480,7 @@ itemsfile version 2
 
  itm_dl44b Modified_DL-44 Modified_DL-44 1  DL44b 0  71368720 483452715008 860 270342 1.5 70 0 0 89 0 0 140 160 0 25 311 0
 1
--51  1 507 3 806 65 180 
+-51  1 507 3 800 65 180 
 
  itm_q2 Q2 Q2 1  Q2 0  71368720 481036795904 300 270342 0.5 100 0 0 85 0 0 120 140 0 6 280 0
 1
@@ -2520,6 +2502,10 @@ itemsfile version 2
 1
 -51  3 600 1 185 720 2 1 14 721 2 1 18 
 
+ itm_wpn_blaster_cycler_pistol Cycler_Pistol Cycler_Pistol 1  cycler_pistol 0  71368720 483452715008 590 270342 1.5 100 0 0 90 0 0 130 150 0 14 284 0
+1
+-51  3 600 1 185 720 2 1 14 721 2 1 18 
+
  itm_ddc_defender DDC_Defender DDC_Defender 1  DDC_defender 0  71368720 483452715008 340 270342 1 100 0 0 90 0 0 130 140 0 100 280 0
 1
 -51  3 600 1 185 720 2 1 12 721 2 1 15 
@@ -2534,7 +2520,7 @@ itemsfile version 2
 
  itm_westar Westar-34 Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 296 0
 1
--51  1 507 3 815 65 276 
+-51  1 507 3 810 65 276 
 
  itm_westar_stun Stun_Westar-34 Stun_Westar-34 1  westar 0  71368720 483452715008 1300 270342 1.5 40 0 0 90 0 0 130 140 0 20 552 0
 1
@@ -2546,7 +2532,7 @@ itemsfile version 2
 
  itm_trandoshan_supressor Trandoshan_Supressor Trandoshan_Supressor 1  trandoshan_supressor 0  71368720 482915844096 790 270342 1.5 70 0 0 90 0 0 110 150 0 10 544 0
 1
--51  1 507 3 818 65 184 
+-51  1 507 3 813 65 184 
 
  itm_wrist_blaster Wrist_Mounted_Blaster Wrist_Mounted_Blaster 2  dummy_mesh 0  wrist_blaster 1152921504606846976  71368720 481036795904 500 0 1.25 60 0 0 90 0 0 105 135 0 24 291 0
 1
@@ -2570,39 +2556,39 @@ itemsfile version 2
 
  itm_sith_blaster Sith_Blaster Sith_Blaster 2  sith_blaster 0  sith_blaster 1152921504606846976  73400329 555930353664 1300 270342 5.5 70 0 0 93 0 0 120 180 0 30 306 0
 1
--51  1 507 3 824 65 176 
+-51  1 507 3 819 65 176 
 
  itm_sith_droid_blaster Sith_Droid_Blaster Sith_Droid_Blaster 2  sith_droid_blaster 0  sith_droid_blaster 1152921504606846976  73400329 555930353664 1300 270342 5 70 0 0 94 0 0 120 180 0 30 296 0
 1
--51  1 507 3 825 65 176 
+-51  1 507 3 820 65 176 
 
  itm_havoc_rifle Havoc_Rifle Havoc_Rifle 1  havoc_rifle 0  73465865 555930353664 1380 270342 6 100 0 0 95 0 0 93 180 0 30 319 0
 1
--51  1 507 3 826 65 177 
+-51  1 507 3 821 65 177 
 
  itm_wpn_blaster_dc17m_auto DC-17M_(Auto_fire_mode) DC-17M_(Auto_fire_mode) 2  dc17m 0  dc17m_inv 1152921504606846976  71368713 555930353664 2000 270342 4 110 0 0 96 0 0 164 175 0 100 293 0
 1
--51  1 507 3 776 65 177 
+-51  1 507 3 770 65 177 
 
  itm_wpn_blaster_dc17m_single DC-17M_(Single_fire_mode) DC-17M_(Single_fire_mode) 2  dc17m 0  dc17m_inv 1152921504606846976  71368713 555930353664 2000 270342 4 110 0 0 97 0 0 164 175 0 100 293 0
 1
--51  1 507 3 776 65 177 
+-51  1 507 3 770 65 177 
 
  itm_westar35 Westar-35 Westar-35 1  westar-35 0  71368720 483452715008 1200 270342 1.5 40 0 0 90 0 0 130 175 0 20 306 0
 1
--51  1 507 3 829 65 276 
+-51  1 507 3 824 65 276 
 
  itm_ll_30_pistol LL-30_Blaster_Pistol LL-30_Blaster_Pistol 1  LL-30 0  71368720 483452715008 1200 270342 1.5 100 0 0 95 0 0 130 150 0 20 306 0
 1
--51  1 507 3 830 65 276 
+-51  1 507 3 825 65 276 
 
  itm_ig86_e5_pistol IG-86_pistol IG-86_pistol 1  e5_pistol 0  71368720 483452715008 1200 270342 1.5 40 0 0 90 0 0 130 175 0 20 306 0
 1
--51  1 507 3 831 65 276 
+-51  1 507 3 826 65 276 
 
  itm_bandit_pistol Bandit_pistol Bandit_pistol 1  bandit_pistol 0  71368720 483452715008 1200 270342 1.5 40 0 0 90 0 0 130 175 0 20 306 0
 1
--51  1 507 3 829 65 276 
+-51  1 507 3 824 65 276 
 
  itm_dc17sa DC-17_Side_Arm DC-17_Side_Arm 1  dc_17pistol 0  71368720 483452715008 500 270342 0.75 40 0 0 93 0 0 120 155 0 30 304 0
 1
