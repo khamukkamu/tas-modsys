@@ -19673,10 +19673,10 @@ scripts = [
       (store_faction_of_party, ":cur_center_faction", "$current_town"),
       (try_begin),
         (eq, ":cur_center_faction", "fac_galacticempire"),  #Galactic Empire
-        (party_add_members, "p_main_party", "trp_jedi_hopeful", ":volunteer_amount"),
+        (party_add_members, "p_main_party", "trp_sith_hopeful", ":volunteer_amount"),
       (else_try),
         (eq, ":cur_center_faction", "fac_rebelalliance"),   #Rebel Alliance
-        (party_add_members, "p_main_party", "trp_sith_hopeful", ":volunteer_amount"),
+        (party_add_members, "p_main_party", "trp_jedi_hopeful", ":volunteer_amount"),
       (else_try), #Hutt Cartel, player faction, etc.
         (party_add_members, "p_main_party", "trp_force_sensitive_recruit", ":volunteer_amount"),
       (try_end),
@@ -27191,7 +27191,6 @@ scripts = [
                     (troop_add_item, ":merchant","itm_sith_arm_eradicator",0),
                     (troop_add_item, ":merchant","itm_sith_arm_eradicator2",0),
                     (troop_add_item, ":merchant","itm_sith_trooper_armor",0),
-                    (troop_add_item, ":merchant","itm_sith_trooper_helmet",0),
                     #weapons & ammo
                     (troop_add_item, ":merchant","itm_dc15a",0),
                     (troop_add_item, ":merchant","itm_dc15a",0),
@@ -27295,10 +27294,10 @@ scripts = [
                     (troop_add_item, ":merchant","itm_sith_droid",0),
                     (troop_add_item, ":merchant","itm_sith_droid_blaster",0),
                     #(troop_add_item, ":merchant","itm_ig86_e5_shield",0),
-                    (troop_add_item, ":merchant","itm_hk_head",0),
-                    (troop_add_item, ":merchant","itm_hk_hands",0),
-                    (troop_add_item, ":merchant","itm_hk_body",0),
-                    (troop_add_item, ":merchant","itm_hk_feet",0),
+                    #(troop_add_item, ":merchant","itm_hk_head",0),
+                    #(troop_add_item, ":merchant","itm_hk_hands",0),
+                    #(troop_add_item, ":merchant","itm_hk_body",0),
+                    #(troop_add_item, ":merchant","itm_hk_feet",0),
                     (troop_add_item, ":merchant","itm_c3po_blue_head",0),
                     (troop_add_item, ":merchant","itm_c3po_blue_hands",0),
                     (troop_add_item, ":merchant","itm_c3po_blue_body",0),

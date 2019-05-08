@@ -1253,7 +1253,7 @@ scenes = [
     [],[], "outer_terrain_desert"),
   ("mainplanet_manaan_land_battle",sf_generate,"none", "none", (0,0),(120,120),30,"0x00000000300005000006d9b9000052560000620000004c92", 
     [],[],),
-  ("mainplanet_coruscant_land_battle",sf_generate,"none", "none", (0,0),(120,120),-100,"0x000000043000050000029caa00000001000048c000001029", 
+  ("mainplanet_coruscant_land_battle",sf_generate,"none", "none", (0,0),(400,400),-100,"0x000000043000050000029caa00000001000048c000001029", 
     [],[], "outer_terrain_plain"),
   ("mainplanet_ryloth_land_battle",sf_generate,"none", "none", (0,0),(240,240),-0.5,"0x0000000250c19207400691a400003efe00004b34000059be",
     [],[], "outer_terrain_desert"),

@@ -924,7 +924,7 @@ num_town_walkers = 8
 #num_town_walkers = 12
 town_walker_entries_start = 32
 
-reinforcement_cost            = 400
+reinforcement_cost            = 600 #Changed from 400
 
 merchant_toll_duration        = 72 #Tolls are valid for 72 hours
 
