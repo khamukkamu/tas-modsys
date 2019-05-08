@@ -1808,7 +1808,7 @@ scn_mainplanet_manaan_land_battle mainplanet_manaan_land_battle 256 none none 0 
   0 
   0 
  0 
-scn_mainplanet_coruscant_land_battle mainplanet_coruscant_land_battle 256 none none 0 0 120 120 -100 0x000000043000050000029caa00000001000048c000001029 
+scn_mainplanet_coruscant_land_battle mainplanet_coruscant_land_battle 256 none none 0 0 400 400 -100 0x000000043000050000029caa00000001000048c000001029 
   0 
   0 
  outer_terrain_plain 
