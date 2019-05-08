@@ -3322,9 +3322,9 @@ game_menus += [
         (store_random_in_range, ":rand", 0, 2),
         (try_begin),
           (eq, ":rand", 0),
-          (troop_add_item, ":knight", "itm_wookiee_armor1", 0),
+          (troop_add_item, ":knight", "itm_sith_marauder_robe_a", 0),
         (else_try),
-          (troop_add_item, ":knight", "itm_wookiee_armor2", 0),
+          (troop_add_item, ":knight", "itm_sith_marauder_robe_c", 0),
         (try_end),
         
         #equip items

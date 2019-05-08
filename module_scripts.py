@@ -340,31 +340,34 @@ scripts = [
       (item_set_slot, "itm_Container_drink_3", slot_item_food_bonus, 5),
       
       #SW - settng alternative weapon capabilities for common_toggle_weapon_capabilities code
+      #TAS
+      #TAS weapon switch
+      #TAS this is being removed as we do not use these anymore
       #lightsabers
-      (item_set_slot, "itm_lightsaber_green", slot_item_alternate_weapon, "itm_force_throw_lightsaber_green_merch"),
-      (item_set_slot, "itm_lightsaber_blue", slot_item_alternate_weapon, "itm_force_throw_lightsaber_blue_merch"),
-      (item_set_slot, "itm_lightsaber_orange", slot_item_alternate_weapon, "itm_force_throw_lightsaber_orange_merch"),
-      (item_set_slot, "itm_lightsaber_purple", slot_item_alternate_weapon, "itm_force_throw_lightsaber_purple_merch"),
-      (item_set_slot, "itm_lightsaber_yellow", slot_item_alternate_weapon, "itm_force_throw_lightsaber_yellow_merch"),
-      (item_set_slot, "itm_lightsaber_red", slot_item_alternate_weapon, "itm_force_throw_lightsaber_red_merch"),
-      (item_set_slot, "itm_force_throw_lightsaber_green_merch", slot_item_alternate_weapon, "itm_lightsaber_green"),
-      (item_set_slot, "itm_force_throw_lightsaber_blue_merch", slot_item_alternate_weapon, "itm_lightsaber_blue"),
-      (item_set_slot, "itm_force_throw_lightsaber_orange_merch", slot_item_alternate_weapon, "itm_lightsaber_orange"),
-      (item_set_slot, "itm_force_throw_lightsaber_purple_merch", slot_item_alternate_weapon, "itm_lightsaber_purple"),
-      (item_set_slot, "itm_force_throw_lightsaber_yellow_merch", slot_item_alternate_weapon, "itm_lightsaber_yellow"),
-      (item_set_slot, "itm_force_throw_lightsaber_red_merch", slot_item_alternate_weapon, "itm_lightsaber_red"),
-      (item_set_slot, "itm_lightsaber_green_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_green_pike"),
-      (item_set_slot, "itm_lightsaber_blue_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_blue_pike"),
-      (item_set_slot, "itm_lightsaber_orange_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_orange_pike"),
-      (item_set_slot, "itm_lightsaber_purple_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_purple_pike"),
-      (item_set_slot, "itm_lightsaber_yellow_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_yellow_pike"),
-      (item_set_slot, "itm_lightsaber_red_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_red_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_green_pike", slot_item_alternate_weapon, "itm_lightsaber_green_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_blue_pike", slot_item_alternate_weapon, "itm_lightsaber_blue_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_orange_pike", slot_item_alternate_weapon, "itm_lightsaber_orange_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_purple_pike", slot_item_alternate_weapon, "itm_lightsaber_purple_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_yellow_pike", slot_item_alternate_weapon, "itm_lightsaber_yellow_pike"),
-      (item_set_slot, "itm_force_throw_lightsaber_red_pike", slot_item_alternate_weapon, "itm_lightsaber_red_pike"),
+      #(item_set_slot, "itm_lightsaber_green", slot_item_alternate_weapon, "itm_force_throw_lightsaber_green_merch"),
+      #(item_set_slot, "itm_lightsaber_blue", slot_item_alternate_weapon, "itm_force_throw_lightsaber_blue_merch"),
+      #(item_set_slot, "itm_lightsaber_orange", slot_item_alternate_weapon, "itm_force_throw_lightsaber_orange_merch"),
+      #(item_set_slot, "itm_lightsaber_purple", slot_item_alternate_weapon, "itm_force_throw_lightsaber_purple_merch"),
+      #(item_set_slot, "itm_lightsaber_yellow", slot_item_alternate_weapon, "itm_force_throw_lightsaber_yellow_merch"),
+      #(item_set_slot, "itm_lightsaber_red", slot_item_alternate_weapon, "itm_force_throw_lightsaber_red_merch"),
+      #(item_set_slot, "itm_force_throw_lightsaber_green_merch", slot_item_alternate_weapon, "itm_lightsaber_green"),
+      #(item_set_slot, "itm_force_throw_lightsaber_blue_merch", slot_item_alternate_weapon, "itm_lightsaber_blue"),
+      #(item_set_slot, "itm_force_throw_lightsaber_orange_merch", slot_item_alternate_weapon, "itm_lightsaber_orange"),
+      #(item_set_slot, "itm_force_throw_lightsaber_purple_merch", slot_item_alternate_weapon, "itm_lightsaber_purple"),
+      #(item_set_slot, "itm_force_throw_lightsaber_yellow_merch", slot_item_alternate_weapon, "itm_lightsaber_yellow"),
+      #(item_set_slot, "itm_force_throw_lightsaber_red_merch", slot_item_alternate_weapon, "itm_lightsaber_red"),
+      #(item_set_slot, "itm_lightsaber_green_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_green_pike"),
+      #(item_set_slot, "itm_lightsaber_blue_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_blue_pike"),
+      #(item_set_slot, "itm_lightsaber_orange_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_orange_pike"),
+      #(item_set_slot, "itm_lightsaber_purple_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_purple_pike"),
+      #(item_set_slot, "itm_lightsaber_yellow_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_yellow_pike"),
+      #(item_set_slot, "itm_lightsaber_red_pike", slot_item_alternate_weapon, "itm_force_throw_lightsaber_red_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_green_pike", slot_item_alternate_weapon, "itm_lightsaber_green_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_blue_pike", slot_item_alternate_weapon, "itm_lightsaber_blue_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_orange_pike", slot_item_alternate_weapon, "itm_lightsaber_orange_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_purple_pike", slot_item_alternate_weapon, "itm_lightsaber_purple_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_yellow_pike", slot_item_alternate_weapon, "itm_lightsaber_yellow_pike"),
+      #(item_set_slot, "itm_force_throw_lightsaber_red_pike", slot_item_alternate_weapon, "itm_lightsaber_red_pike"),
       #other
       (item_set_slot, "itm_twilek_dagger", slot_item_alternate_weapon, "itm_twilek_dagger_throwing"),
       (item_set_slot, "itm_twilek_dagger_throwing", slot_item_alternate_weapon, "itm_twilek_dagger"),
@@ -3266,24 +3269,24 @@ scripts = [
         (this_or_next|eq, ":item_no", "itm_lightsaber_purple"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_yellow"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_red"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_green_merch"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_blue_merch"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_orange_merch"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_purple_merch"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_yellow_merch"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_red_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_green_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_blue_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_orange_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_purple_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_yellow_merch"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_red_merch"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_green_pike"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_blue_pike"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_orange_pike"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_purple_pike"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_yellow_pike"),
         (this_or_next|eq, ":item_no", "itm_lightsaber_red_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_green_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_blue_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_orange_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_purple_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_yellow_pike"),
-        (this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_red_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_green_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_blue_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_orange_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_purple_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_yellow_pike"),
+        #(this_or_next|eq, ":item_no", "itm_force_throw_lightsaber_red_pike"),
         (this_or_next|eq, ":item_no", "itm_twilek_dagger"),
         (this_or_next|eq, ":item_no", "itm_twilek_dagger_throwing"),
         (this_or_next|eq, ":item_no", "itm_gamorrean_axe_1h"),
@@ -5250,18 +5253,19 @@ scripts = [
         #swy (assign, ":training_default_weapon_2", "itm_practice_bolts_9_amount"),
       (else_try),
         #SW - switched training ground to use lightsaber, DL-44 and DLT-19
+        #TAS modified
+        #(try_begin),
+        #  (eq, ":mission_weapon_type", itp_type_thrown),
+        #  (assign, "$g_training_ground_used_weapon_proficiency", wpt_throwing),
+         # (try_begin),
+        #    (eq, "$g_mt_mode", ctm_mounted),
+        #    (assign, ":training_default_weapon_2", "itm_tutorial_lightsaber"),
+        #    #(assign, ":training_default_weapon_2", "itm_force_push"),
+        #  (else_try),
+        #    (assign, ":training_default_weapon_2", "itm_tutorial_lightsaber"),
+        #    #(assign, ":training_default_weapon_2", "itm_force_push"),
+         # (try_end),
         (try_begin),
-          (eq, ":mission_weapon_type", itp_type_thrown),
-          (assign, "$g_training_ground_used_weapon_proficiency", wpt_throwing),
-          (try_begin),
-            (eq, "$g_mt_mode", ctm_mounted),
-            (assign, ":training_default_weapon_2", "itm_force_throw_lightsaber_tl"),
-            #(assign, ":training_default_weapon_2", "itm_force_push"),
-          (else_try),
-            (assign, ":training_default_weapon_2", "itm_force_throw_lightsaber_t"),
-            #(assign, ":training_default_weapon_2", "itm_force_push"),
-          (try_end),
-        (else_try),
           (eq, ":mission_weapon_type", itp_type_musket),
           #(assign, "$g_training_ground_used_weapon_proficiency", wpt_firearm),
           (assign, "$g_training_ground_used_weapon_proficiency", wpt_crossbow),
@@ -26509,6 +26513,7 @@ scripts = [
               # Output: none (sets mt_arena_melee_fight items)
               ("set_items_for_arena",
                 #SW - modified tournament items
+                #TAS Will need to clean up this mess!!!
                 [
                   
                   (store_script_param, ":entry_point", 1),
@@ -26533,7 +26538,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -26554,7 +26559,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -26575,7 +26580,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_yellow"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -26596,7 +26601,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_red"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -26617,7 +26622,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_green_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_green"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_green"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -26638,7 +26643,7 @@ scripts = [
                       (else_try),
                         (le, ":random", 50), #add throwing lightsaber & force block
                         #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_blue_merch"),
-                        (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_blue"),
+                        #(mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_throw_lightsaber_blue"),
                         (mission_tpl_entry_add_override_item, "mt_arena_melee_fight", ":entry_point", "itm_force_block"),
                       (else_try),
                         (le, ":random", 75), #add a force shield
@@ -27102,10 +27107,10 @@ scripts = [
                       (troop_add_item, ":merchant",":item_no",0),
                     (try_end),
                     
-                    #throwing lightsabers
-                    (try_for_range, ":item_no", "itm_force_throw_lightsaber_green_merch", "itm_twilek_dagger_throwing"),
-                      (troop_add_item, ":merchant",":item_no",0),
-                    (try_end),
+                    ##throwing lightsabers #TAS removed completly as we do not use thrown lightsabers anymore
+                    #(try_for_range, ":item_no", "itm_force_throw_lightsaber_green_merch", "itm_twilek_dagger_throwing"),
+                    #  (troop_add_item, ":merchant",":item_no",0),
+                    #(try_end),
                     
                   (try_end),
                   
@@ -27185,6 +27190,8 @@ scripts = [
                     #Sith stuff
                     (troop_add_item, ":merchant","itm_sith_arm_eradicator",0),
                     (troop_add_item, ":merchant","itm_sith_arm_eradicator2",0),
+                    (troop_add_item, ":merchant","itm_sith_trooper_armor",0),
+                    (troop_add_item, ":merchant","itm_sith_trooper_helmet",0),
                     #weapons & ammo
                     (troop_add_item, ":merchant","itm_dc15a",0),
                     (troop_add_item, ":merchant","itm_dc15a",0),
